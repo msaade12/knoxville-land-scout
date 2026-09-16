@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T20:41:24+00:00",
+ "generated": "2026-09-16T20:46:39+00:00",
  "date": "2026-09-16",
  "count": 825,
  "criteria": {
@@ -2404,6 +2404,9 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/007101%20%20%20%2016000",
     "hasGeom": true
    },
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "",
    "cityRoad": 13.7,
    "cityMin": 12,
    "cityName": "LaFollette",
@@ -2419,9 +2422,6 @@
    "driveRoad": 60.5,
    "driveReal": true,
    "lastSeen": "2026-09-16",
-   "flood": "none",
-   "floodZone": "X",
-   "floodSub": "",
    "townName": "LaFollette",
    "townPop": 7430,
    "townKind": "town",
@@ -3740,24 +3740,7 @@
      "price": 27900
     }
    ],
-   "lastSeen": "2026-09-16",
-   "driveRoad": 56.6,
-   "driveReal": true,
-   "shopRoad": 5.9,
-   "shopMin": 5,
-   "shopName": "Walmart",
-   "shopCity": "Rockwood",
-   "shopMi": 2.0,
-   "cityRoad": 1.9,
-   "cityMin": 2,
-   "cityName": "Rockwood",
-   "cityPop": 5444,
-   "slope": 3.6,
-   "elev": 277,
-   "relief": 26,
-   "flood": "none",
-   "floodZone": "X",
-   "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
+   "img": "photos/cl91cd82ebed.jpg",
    "parcel": {
     "deedAc": null,
     "owner": "WATTS JAMES LOWELL SR &",
@@ -3766,6 +3749,24 @@
     "match": "under the pin",
     "hasGeom": true
    },
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
+   "cityRoad": 1.9,
+   "cityMin": 2,
+   "cityName": "Rockwood",
+   "cityPop": 5444,
+   "slope": 3.6,
+   "elev": 277,
+   "relief": 26,
+   "shopRoad": 5.9,
+   "shopMin": 5,
+   "shopName": "Walmart",
+   "shopCity": "Rockwood",
+   "shopMi": 2.0,
+   "driveRoad": 56.6,
+   "driveReal": true,
+   "lastSeen": "2026-09-16",
    "townName": "Rockwood",
    "townPop": 5444,
    "townKind": "village",
@@ -3783,7 +3784,6 @@
    "convenienceLabel": "convenient",
    "_convShop": 5,
    "_convV": 3,
-   "img": "photos/cl91cd82ebed.jpg",
    "daysListed": 0
   },
   {
@@ -9301,7 +9301,10 @@
    "cityRoad": 11.1,
    "cityMin": 10,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87917816",
@@ -13701,24 +13704,7 @@
      "price": 180000
     }
    ],
-   "lastSeen": "2026-09-16",
-   "driveRoad": 25.8,
-   "driveReal": true,
-   "shopRoad": 5.3,
-   "shopMin": 5,
-   "shopName": "Food City",
-   "shopCity": "Sevier",
-   "shopMi": 1.6,
-   "cityRoad": 18.9,
-   "cityMin": 16,
-   "cityName": "Sevierville",
-   "cityPop": 19010,
-   "slope": 1.9,
-   "elev": 334,
-   "relief": 23,
-   "flood": "none",
-   "floodZone": "X",
-   "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
+   "img": "photos/cl7f3d6b9f0a.jpg",
    "parcel": {
     "deedAc": 3.57,
     "owner": "HARMON CARSON D",
@@ -13727,6 +13713,24 @@
     "match": "under the pin",
     "hasGeom": true
    },
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
+   "cityRoad": 18.9,
+   "cityMin": 16,
+   "cityName": "Sevierville",
+   "cityPop": 19010,
+   "slope": 1.9,
+   "elev": 334,
+   "relief": 23,
+   "shopRoad": 5.3,
+   "shopMin": 5,
+   "shopName": "Food City",
+   "shopCity": "Sevier",
+   "shopMi": 1.6,
+   "driveRoad": 25.8,
+   "driveReal": true,
+   "lastSeen": "2026-09-16",
    "townName": "Sevierville",
    "townPop": 19010,
    "townKind": "city",
@@ -13744,7 +13748,6 @@
    "convenienceLabel": "very convenient",
    "_convShop": 5,
    "_convV": 3,
-   "img": "photos/cl7f3d6b9f0a.jpg",
    "daysListed": 0
   },
   {
@@ -17594,6 +17597,9 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/007062%20%20%20%2017400",
     "hasGeom": true
    },
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "",
    "cityRoad": 11.2,
    "cityMin": 10,
    "cityName": "LaFollette",
@@ -17609,9 +17615,6 @@
    "driveRoad": 62.4,
    "driveReal": true,
    "lastSeen": "2026-09-16",
-   "flood": "none",
-   "floodZone": "X",
-   "floodSub": "",
    "townName": "LaFollette",
    "townPop": 7430,
    "townKind": "town",
@@ -29242,7 +29245,10 @@
    "cityRoad": 16.1,
    "cityMin": 14,
    "cityName": "Morristown",
-   "cityPop": 29478
+   "cityPop": 29478,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z464380904",
@@ -34700,24 +34706,6 @@
      "price": 112000
     }
    ],
-   "lastSeen": "2026-09-16",
-   "driveRoad": 36.8,
-   "driveReal": true,
-   "shopRoad": 1.8,
-   "shopMin": 2,
-   "shopName": "Food City",
-   "shopCity": "Jefferson City",
-   "shopMi": 0.4,
-   "cityRoad": 3.2,
-   "cityMin": 3,
-   "cityName": "Jefferson City",
-   "cityPop": 8028,
-   "slope": 3.5,
-   "elev": 354,
-   "relief": 21,
-   "flood": "none",
-   "floodZone": "X",
-   "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
    "parcel": {
     "deedAc": 1.09,
     "owner": "BEAL MICHAEL RAY II",
@@ -34726,6 +34714,24 @@
     "match": "acreage match",
     "hasGeom": true
    },
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
+   "cityRoad": 3.2,
+   "cityMin": 3,
+   "cityName": "Jefferson City",
+   "cityPop": 8028,
+   "slope": 3.5,
+   "elev": 354,
+   "relief": 21,
+   "shopRoad": 1.8,
+   "shopMin": 2,
+   "shopName": "Food City",
+   "shopCity": "Jefferson City",
+   "shopMi": 0.4,
+   "driveRoad": 36.8,
+   "driveReal": true,
+   "lastSeen": "2026-09-16",
    "townName": "Jefferson City",
    "townPop": 8028,
    "townKind": "town",
@@ -39664,24 +39670,7 @@
      "price": 199999
     }
    ],
-   "lastSeen": "2026-09-16",
-   "driveRoad": 30.1,
-   "driveReal": true,
-   "shopRoad": 6.6,
-   "shopMin": 6,
-   "shopName": "Walmart",
-   "shopCity": "Clinton",
-   "shopMi": 2.4,
-   "cityRoad": 12.9,
-   "cityMin": 11,
-   "cityName": "Clinton",
-   "cityPop": 10056,
-   "slope": 1.1,
-   "elev": 291,
-   "relief": 20,
-   "flood": "none",
-   "floodZone": "X",
-   "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
+   "img": "photos/cl1cb462daf0.jpg",
    "parcel": {
     "deedAc": 1.72,
     "owner": "ISABELL CHAD H",
@@ -39690,6 +39679,24 @@
     "match": "acreage match",
     "hasGeom": true
    },
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
+   "cityRoad": 12.9,
+   "cityMin": 11,
+   "cityName": "Clinton",
+   "cityPop": 10056,
+   "slope": 1.1,
+   "elev": 291,
+   "relief": 20,
+   "shopRoad": 6.6,
+   "shopMin": 6,
+   "shopName": "Walmart",
+   "shopCity": "Clinton",
+   "shopMi": 2.4,
+   "driveRoad": 30.1,
+   "driveReal": true,
+   "lastSeen": "2026-09-16",
    "townName": "Norris",
    "townPop": 1599,
    "townKind": "village",
@@ -39707,7 +39714,6 @@
    "convenienceLabel": "convenient",
    "_convShop": 6,
    "_convV": 3,
-   "img": "photos/cl1cb462daf0.jpg",
    "daysListed": 0
   },
   {
@@ -39979,7 +39985,10 @@
    "cityRoad": 11.8,
    "cityMin": 10,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z461395670",
@@ -40069,7 +40078,10 @@
    "cityRoad": 17.6,
    "cityMin": 15,
    "cityName": "Lenoir City",
-   "cityPop": 7703
+   "cityPop": 7703,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z461184438",
@@ -40159,7 +40171,10 @@
    "cityRoad": 3.1,
    "cityMin": 3,
    "cityName": "Madisonville",
-   "cityPop": 4464
+   "cityPop": 4464,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z2058112277",
@@ -40249,7 +40264,10 @@
    "cityRoad": 20.5,
    "cityMin": 18,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf111323350",
@@ -40780,7 +40798,10 @@
    "cityRoad": 9.1,
    "cityMin": 8,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z462752160",
@@ -40866,7 +40887,10 @@
    "cityRoad": 18.2,
    "cityMin": 16,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z460341482",
@@ -40954,7 +40978,10 @@
    "cityRoad": 12.5,
    "cityMin": 11,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf205251230",
@@ -41134,7 +41161,10 @@
    "cityRoad": 13.7,
    "cityMin": 12,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z465026951",
@@ -41221,7 +41251,10 @@
    "cityRoad": 17.7,
    "cityMin": 15,
    "cityName": "Jefferson City",
-   "cityPop": 8028
+   "cityPop": 8028,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z463784284",
@@ -41311,7 +41344,10 @@
    "cityRoad": 19.2,
    "cityMin": 17,
    "cityName": "Newport",
-   "cityPop": 6865
+   "cityPop": 6865,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z464783721",
@@ -41402,7 +41438,10 @@
    "cityRoad": 21.7,
    "cityMin": 19,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z352433720",
@@ -41492,7 +41531,10 @@
    "cityRoad": 16.2,
    "cityMin": 14,
    "cityName": "Morristown",
-   "cityPop": 29478
+   "cityPop": 29478,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf163607533",
@@ -41666,7 +41708,10 @@
    "cityRoad": 11.3,
    "cityMin": 10,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z463919614",
@@ -41757,7 +41802,10 @@
    "cityRoad": 11.3,
    "cityMin": 10,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf104522761",
@@ -42017,7 +42065,10 @@
    "cityRoad": 17.7,
    "cityMin": 15,
    "cityName": "Morristown",
-   "cityPop": 29478
+   "cityPop": 29478,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87563698",
@@ -42370,7 +42421,10 @@
    "cityRoad": 19.0,
    "cityMin": 16,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf199200446",
@@ -42979,7 +43033,10 @@
    "cityRoad": 17.5,
    "cityMin": 15,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf104534073",
@@ -43152,7 +43209,10 @@
    "cityRoad": 7.6,
    "cityMin": 7,
    "cityName": "Halls",
-   "cityPop": 10341
+   "cityPop": 10341,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z465241912",
@@ -43242,7 +43302,10 @@
    "cityRoad": 17.7,
    "cityMin": 15,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z2058111828",
@@ -43332,7 +43395,10 @@
    "cityRoad": 20.6,
    "cityMin": 18,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf163362331",
@@ -44024,7 +44090,10 @@
    "cityRoad": 7.0,
    "cityMin": 6,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87458444",
@@ -44208,7 +44277,10 @@
    "cityRoad": 0.7,
    "cityMin": 2,
    "cityName": "Sweetwater",
-   "cityPop": 5764
+   "cityPop": 5764,
+   "flood": "sfha",
+   "floodZone": "AE",
+   "floodSub": "FLOODWAY"
   },
   {
    "id": "z352435404",
@@ -44298,7 +44370,10 @@
    "cityRoad": 17.6,
    "cityMin": 15,
    "cityName": "Morristown",
-   "cityPop": 29478
+   "cityPop": 29478,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z81186113",
@@ -44383,7 +44458,10 @@
    "cityRoad": 5.2,
    "cityMin": 4,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf103359111",
@@ -44648,7 +44726,10 @@
    "cityRoad": 19.8,
    "cityMin": 17,
    "cityName": "Rockwood",
-   "cityPop": 5444
+   "cityPop": 5444,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z465254009",
@@ -44739,7 +44820,10 @@
    "cityRoad": 22.7,
    "cityMin": 20,
    "cityName": "LaFollette",
-   "cityPop": 7430
+   "cityPop": 7430,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": ""
   },
   {
    "id": "rf202753987",
@@ -45180,7 +45264,10 @@
    "cityRoad": 16.8,
    "cityMin": 14,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z464167447",
@@ -45268,7 +45355,10 @@
    "cityRoad": 16.3,
    "cityMin": 14,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf205348999",
@@ -45785,7 +45875,10 @@
    "cityRoad": 5.2,
    "cityMin": 4,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf142980422",
@@ -46044,7 +46137,10 @@
    "cityRoad": 20.1,
    "cityMin": 17,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87182146",
@@ -46226,7 +46322,10 @@
    "cityRoad": 22.4,
    "cityMin": 19,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z464683001",
@@ -46317,7 +46416,10 @@
    "cityRoad": 19.2,
    "cityMin": 17,
    "cityName": "Rockwood",
-   "cityPop": 5444
+   "cityPop": 5444,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf202384191",
@@ -46496,7 +46598,10 @@
    "cityRoad": 22.6,
    "cityMin": 19,
    "cityName": "Maryville",
-   "cityPop": 31907
+   "cityPop": 31907,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z463776076",
@@ -46584,7 +46689,10 @@
    "cityRoad": 13.9,
    "cityMin": 12,
    "cityName": "Maryville",
-   "cityPop": 31907
+   "cityPop": 31907,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z464348861",
@@ -46669,7 +46777,10 @@
    "cityRoad": 15.8,
    "cityMin": 14,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z348257978",
@@ -46757,7 +46868,10 @@
    "cityRoad": 20.6,
    "cityMin": 18,
    "cityName": "Lenoir City",
-   "cityPop": 7703
+   "cityPop": 7703,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z81243782",
@@ -46847,7 +46961,10 @@
    "cityRoad": 16.1,
    "cityMin": 14,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf202382598",
@@ -47029,7 +47146,10 @@
    "cityRoad": 17.9,
    "cityMin": 15,
    "cityName": "Kingston",
-   "cityPop": 5953
+   "cityPop": 5953,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87174238",
@@ -47211,7 +47331,10 @@
    "cityRoad": 13.0,
    "cityMin": 11,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z2054864042",
@@ -47301,7 +47424,10 @@
    "cityRoad": 16.2,
    "cityMin": 14,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z458372853",
@@ -47384,7 +47510,10 @@
    "cityRoad": 19.7,
    "cityMin": 17,
    "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityPop": 190740,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z352470889",
@@ -47474,7 +47603,10 @@
    "cityRoad": 17.7,
    "cityMin": 15,
    "cityName": "Morristown",
-   "cityPop": 29478
+   "cityPop": 29478,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z2058920114",
@@ -47565,7 +47697,10 @@
    "cityRoad": 10.9,
    "cityMin": 9,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z465027443",
@@ -47654,7 +47789,10 @@
    "cityRoad": 13.2,
    "cityMin": 11,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf124694244",
@@ -48253,7 +48391,10 @@
    "cityRoad": 10.9,
    "cityMin": 9,
    "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityPop": 29302,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf163551375",
@@ -48425,7 +48566,10 @@
    "cityRoad": 10.7,
    "cityMin": 9,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z352436115",
@@ -48516,7 +48660,10 @@
    "cityRoad": 16.4,
    "cityMin": 14,
    "cityName": "Morristown",
-   "cityPop": 29478
+   "cityPop": 29478,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87148217",
@@ -48698,7 +48845,10 @@
    "cityRoad": 15.4,
    "cityMin": 13,
    "cityName": "Maryville",
-   "cityPop": 31907
+   "cityPop": 31907,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z465241891",
@@ -48781,7 +48931,10 @@
    "cityRoad": 20.4,
    "cityMin": 18,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf103870944",
@@ -48957,7 +49110,10 @@
    "cityRoad": 10.5,
    "cityMin": 9,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf163367816",
@@ -49129,7 +49285,10 @@
    "cityRoad": 17.4,
    "cityMin": 15,
    "cityName": "Morristown",
-   "cityPop": 29478
+   "cityPop": 29478,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf204355026",
@@ -49311,7 +49470,10 @@
    "cityRoad": 16.2,
    "cityMin": 14,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z2076603885",
@@ -49401,7 +49563,10 @@
    "cityRoad": 20.0,
    "cityMin": 17,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z81219066",
@@ -49491,7 +49656,10 @@
    "cityRoad": 17.0,
    "cityMin": 15,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z41744491",
@@ -49578,7 +49746,10 @@
    "cityRoad": 10.0,
    "cityMin": 9,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z81309954",
@@ -49662,7 +49833,10 @@
    "cityRoad": 8.3,
    "cityMin": 7,
    "cityName": "Kingston",
-   "cityPop": 5953
+   "cityPop": 5953,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z66951597",
@@ -49747,7 +49921,10 @@
    "cityRoad": 21.0,
    "cityMin": 18,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf102953129",
@@ -49998,7 +50175,10 @@
    "cityRoad": 13.5,
    "cityMin": 12,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf62971001",
@@ -50160,7 +50340,10 @@
    "cityRoad": 9.4,
    "cityMin": 8,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "sfha",
+   "floodZone": "AE",
+   "floodSub": "FLOODWAY"
   },
   {
    "id": "z462578740",
@@ -50244,7 +50427,10 @@
    "cityRoad": 14.2,
    "cityMin": 12,
    "cityName": "Farragut",
-   "cityPop": 25579
+   "cityPop": 25579,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z464238657",
@@ -50330,7 +50516,10 @@
    "cityRoad": 18.5,
    "cityMin": 16,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z2059290222",
@@ -50421,7 +50610,10 @@
    "cityRoad": 19.5,
    "cityMin": 17,
    "cityName": "Rockwood",
-   "cityPop": 5444
+   "cityPop": 5444,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z464328839",
@@ -50512,7 +50704,10 @@
    "cityRoad": 17.6,
    "cityMin": 15,
    "cityName": "Kingston",
-   "cityPop": 5953
+   "cityPop": 5953,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf188197882",
@@ -50781,7 +50976,10 @@
    "cityRoad": 9.2,
    "cityMin": 8,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87146410",
@@ -50949,7 +51147,10 @@
    "cityRoad": 8.5,
    "cityMin": 7,
    "cityName": "Halls",
-   "cityPop": 10341
+   "cityPop": 10341,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z464155800",
@@ -51040,7 +51241,10 @@
    "cityRoad": 13.3,
    "cityMin": 11,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf63001457",
@@ -51492,7 +51696,10 @@
    "cityRoad": 9.7,
    "cityMin": 8,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf198736279",
@@ -51661,7 +51868,10 @@
    "cityRoad": 12.0,
    "cityMin": 10,
    "cityName": "Kingston",
-   "cityPop": 5953
+   "cityPop": 5953,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf200622673",
@@ -51845,7 +52055,10 @@
    "cityRoad": 3.8,
    "cityMin": 3,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf63017440",
@@ -52026,7 +52239,10 @@
    "cityRoad": 4.7,
    "cityMin": 4,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z42512755",
@@ -52116,7 +52332,10 @@
    "cityRoad": 6.0,
    "cityMin": 5,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z81177459",
@@ -52206,7 +52425,10 @@
    "cityRoad": 5.5,
    "cityMin": 5,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87160110",
@@ -52389,7 +52611,10 @@
    "cityRoad": 7.7,
    "cityMin": 7,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf103366280",
@@ -52648,7 +52873,10 @@
    "cityRoad": 18.5,
    "cityMin": 16,
    "cityName": "Farragut",
-   "cityPop": 25579
+   "cityPop": 25579,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf163609009",
@@ -52817,7 +53045,10 @@
    "cityRoad": 13.1,
    "cityMin": 11,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf163381573",
@@ -52979,7 +53210,10 @@
    "cityRoad": 1.9,
    "cityMin": 2,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z463833173",
@@ -53069,7 +53303,10 @@
    "cityRoad": 9.1,
    "cityMin": 8,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z439165624",
@@ -53156,7 +53393,10 @@
    "cityRoad": 18.2,
    "cityMin": 16,
    "cityName": "Newport",
-   "cityPop": 6865
+   "cityPop": 6865,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z459506072",
@@ -53246,7 +53486,10 @@
    "cityRoad": 18.3,
    "cityMin": 16,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf204784748",
@@ -53787,7 +54030,10 @@
    "cityRoad": 10.6,
    "cityMin": 9,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87491946",
@@ -54136,7 +54382,10 @@
    "cityRoad": 14.8,
    "cityMin": 13,
    "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityPop": 190740,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z41890759",
@@ -54226,7 +54475,10 @@
    "cityRoad": 16.8,
    "cityMin": 14,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z41750712",
@@ -54311,7 +54563,10 @@
    "cityRoad": 2.9,
    "cityMin": 2,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z90070082",
@@ -54401,7 +54656,10 @@
    "cityRoad": 7.2,
    "cityMin": 6,
    "cityName": "Maryville",
-   "cityPop": 31907
+   "cityPop": 31907,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z2070498802",
@@ -54492,7 +54750,10 @@
    "cityRoad": 20.7,
    "cityMin": 18,
    "cityName": "Rockwood",
-   "cityPop": 5444
+   "cityPop": 5444,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87918462",
@@ -54747,7 +55008,10 @@
    "cityRoad": 18.3,
    "cityMin": 16,
    "cityName": "Farragut",
-   "cityPop": 25579
+   "cityPop": 25579,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf102084004",
@@ -55013,7 +55277,10 @@
    "cityRoad": 10.0,
    "cityMin": 9,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87555398",
@@ -55191,7 +55458,10 @@
    "cityRoad": 18.8,
    "cityMin": 16,
    "cityName": "Maryville",
-   "cityPop": 31907
+   "cityPop": 31907,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z450611518",
@@ -55281,7 +55551,10 @@
    "cityRoad": 20.1,
    "cityMin": 17,
    "cityName": "Rockwood",
-   "cityPop": 5444
+   "cityPop": 5444,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z70274800",
@@ -55371,7 +55644,10 @@
    "cityRoad": 6.3,
    "cityMin": 5,
    "cityName": "Maryville",
-   "cityPop": 31907
+   "cityPop": 31907,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87494492",
@@ -55544,7 +55820,10 @@
    "cityRoad": 11.0,
    "cityMin": 9,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf104020079",
@@ -55728,7 +56007,10 @@
    "cityRoad": 15.2,
    "cityMin": 13,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z457093483",
@@ -55819,7 +56101,10 @@
    "cityRoad": 12.1,
    "cityMin": 10,
    "cityName": "LaFollette",
-   "cityPop": 7430
+   "cityPop": 7430,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": ""
   },
   {
    "id": "rf63023792",
@@ -55994,7 +56279,10 @@
    "cityRoad": 10.7,
    "cityMin": 9,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf62858760",
@@ -56175,7 +56463,10 @@
    "cityRoad": 5.1,
    "cityMin": 4,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z41748979",
@@ -56258,7 +56549,10 @@
    "cityRoad": 7.4,
    "cityMin": 6,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z463076282",
@@ -56349,7 +56643,10 @@
    "cityRoad": 16.9,
    "cityMin": 15,
    "cityName": "Madisonville",
-   "cityPop": 4464
+   "cityPop": 4464,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z299822946",
@@ -56433,7 +56730,10 @@
    "cityRoad": 7.6,
    "cityMin": 7,
    "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityPop": 190740,
+   "flood": "sfha",
+   "floodZone": "AE",
+   "floodSub": "FLOODWAY"
   },
   {
    "id": "rf163489208",
@@ -56701,7 +57001,10 @@
    "cityRoad": 7.0,
    "cityMin": 6,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z81003619",
@@ -56790,7 +57093,10 @@
    "cityRoad": 21.3,
    "cityMin": 18,
    "cityName": "Maryville",
-   "cityPop": 31907
+   "cityPop": 31907,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z455122385",
@@ -56880,7 +57186,10 @@
    "cityRoad": 16.2,
    "cityMin": 14,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z41744492",
@@ -56964,7 +57273,10 @@
    "cityRoad": 10.1,
    "cityMin": 9,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z455122136",
@@ -57054,7 +57366,10 @@
    "cityRoad": 17.1,
    "cityMin": 15,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf163602395",
@@ -57407,7 +57722,10 @@
    "cityRoad": 16.7,
    "cityMin": 14,
    "cityName": "Jefferson City",
-   "cityPop": 8028
+   "cityPop": 8028,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf197041939",
@@ -57589,7 +57907,10 @@
    "cityRoad": 20.1,
    "cityMin": 17,
    "cityName": "Rockwood",
-   "cityPop": 5444
+   "cityPop": 5444,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z461012998",
@@ -57679,7 +58000,10 @@
    "cityRoad": 19.7,
    "cityMin": 17,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf87559716",
@@ -57935,7 +58259,10 @@
    "cityRoad": 16.1,
    "cityMin": 14,
    "cityName": "Maynardville",
-   "cityPop": 3165
+   "cityPop": 3165,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf124749110",
@@ -58119,7 +58446,10 @@
    "cityRoad": 15.3,
    "cityMin": 13,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z455122377",
@@ -58209,7 +58539,10 @@
    "cityRoad": 16.3,
    "cityMin": 14,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf63025920",
@@ -58385,7 +58718,10 @@
    "cityRoad": 16.5,
    "cityMin": 14,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z2064342001",
@@ -58472,7 +58808,10 @@
    "cityRoad": 10.6,
    "cityMin": 9,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf62989229",
@@ -58647,7 +58986,10 @@
    "cityRoad": 4.2,
    "cityMin": 4,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z41890780",
@@ -58737,7 +59079,10 @@
    "cityRoad": 15.8,
    "cityMin": 14,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z464190514",
@@ -58828,7 +59173,10 @@
    "cityRoad": 16.3,
    "cityMin": 14,
    "cityName": "Jefferson City",
-   "cityPop": 8028
+   "cityPop": 8028,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf203501268",
@@ -59100,7 +59448,10 @@
    "cityRoad": 16.5,
    "cityMin": 14,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf102945930",
@@ -59345,7 +59696,10 @@
    "cityRoad": 2.9,
    "cityMin": 3,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z459641597",
@@ -59435,7 +59789,10 @@
    "cityRoad": 9.8,
    "cityMin": 8,
    "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityPop": 29302,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf200392606",
@@ -59618,7 +59975,10 @@
    "cityRoad": 16.8,
    "cityMin": 14,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z455121621",
@@ -59708,7 +60068,10 @@
    "cityRoad": 19.9,
    "cityMin": 17,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf104312197",
@@ -59890,7 +60253,10 @@
    "cityRoad": 20.6,
    "cityMin": 18,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf63027842",
@@ -60064,7 +60430,10 @@
    "cityRoad": 17.3,
    "cityMin": 15,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z463743652",
@@ -60152,7 +60521,10 @@
    "cityRoad": 13.8,
    "cityMin": 12,
    "cityName": "Clinton",
-   "cityPop": 10056
+   "cityPop": 10056,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z461742616",
@@ -60242,7 +60614,10 @@
    "cityRoad": 16.5,
    "cityMin": 14,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf163621356",
@@ -60419,7 +60794,10 @@
    "cityRoad": 6.7,
    "cityMin": 6,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z461143302",
@@ -60502,7 +60880,10 @@
    "cityRoad": 7.0,
    "cityMin": 6,
    "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityPop": 190740,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf103870260",
@@ -60768,7 +61149,10 @@
    "cityRoad": 20.0,
    "cityMin": 17,
    "cityName": "Maryville",
-   "cityPop": 31907
+   "cityPop": 31907,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf113115028",
@@ -61038,7 +61422,10 @@
    "cityRoad": 20.8,
    "cityMin": 18,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z448978650",
@@ -61128,7 +61515,10 @@
    "cityRoad": 17.1,
    "cityMin": 15,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z81013969",
@@ -61212,7 +61602,10 @@
    "cityRoad": 10.9,
    "cityMin": 9,
    "cityName": "Maryville",
-   "cityPop": 31907
+   "cityPop": 31907,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z41752190",
@@ -61298,7 +61691,10 @@
    "cityRoad": 11.4,
    "cityMin": 10,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf201629329",
@@ -61556,7 +61952,10 @@
    "cityRoad": 3.5,
    "cityMin": 3,
    "cityName": "Tellico Village",
-   "cityPop": 7311
+   "cityPop": 7311,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z465240741",
@@ -61646,7 +62045,10 @@
    "cityRoad": 6.6,
    "cityMin": 6,
    "cityName": "Pigeon Forge",
-   "cityPop": 6343
+   "cityPop": 6343,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf198294483",
@@ -61819,7 +62221,10 @@
    "cityRoad": 6.9,
    "cityMin": 6,
    "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityPop": 190740,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z455862752",
@@ -61896,7 +62301,10 @@
    "cityRoad": 9.9,
    "cityMin": 9,
    "cityName": "Farragut",
-   "cityPop": 25579
+   "cityPop": 25579,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z455122337",
@@ -61986,7 +62394,10 @@
    "cityRoad": 16.8,
    "cityMin": 14,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z463766623",
@@ -62075,7 +62486,10 @@
    "cityRoad": 7.5,
    "cityMin": 6,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z81190478",
@@ -62164,7 +62578,10 @@
    "cityRoad": 17.2,
    "cityMin": 15,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z464228273",
@@ -62255,7 +62672,10 @@
    "cityRoad": 11.3,
    "cityMin": 10,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z41666281",
@@ -62339,7 +62759,10 @@
    "cityRoad": 7.5,
    "cityMin": 6,
    "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityPop": 190740,
+   "flood": "sfha",
+   "floodZone": "AE",
+   "floodSub": "FLOODWAY"
   },
   {
    "id": "z214822144",
@@ -62429,7 +62852,10 @@
    "cityRoad": 19.5,
    "cityMin": 17,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z465241898",
@@ -62519,7 +62945,10 @@
    "cityRoad": 16.8,
    "cityMin": 14,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z456796918",
@@ -62600,7 +63029,10 @@
    "cityRoad": 7.5,
    "cityMin": 6,
    "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityPop": 190740,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z463853501",
@@ -62685,7 +63117,10 @@
    "cityRoad": 9.0,
    "cityMin": 8,
    "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityPop": 19010,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z2072086593",
@@ -62769,7 +63204,10 @@
    "cityRoad": 10.5,
    "cityMin": 9,
    "cityName": "Farragut",
-   "cityPop": 25579
+   "cityPop": 25579,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf201571310",
@@ -63028,7 +63466,10 @@
    "cityRoad": 15.7,
    "cityMin": 13,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf201649663",
@@ -63204,7 +63645,10 @@
    "cityRoad": 20.3,
    "cityMin": 17,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "rf163596540",
@@ -63380,7 +63824,10 @@
    "cityRoad": 21.2,
    "cityMin": 18,
    "cityName": "Loudon",
-   "cityPop": 5890
+   "cityPop": 5890,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z2064413069",
@@ -63470,7 +63917,10 @@
    "cityRoad": 6.4,
    "cityMin": 6,
    "cityName": "Gatlinburg",
-   "cityPop": 3577
+   "cityPop": 3577,
+   "flood": "none",
+   "floodZone": "X",
+   "floodSub": "AREA OF MINIMAL FLOOD HAZARD"
   },
   {
    "id": "z41748991",
