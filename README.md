@@ -3,7 +3,7 @@
 Raw land near Knoxville, Tennessee — 10+ acres, under $250,000, roughly 45 minutes out.
 Swept from Redfin every morning, mapped, and published free on GitHub Pages.
 
-**Live site:** https://msaade12.github.io/knoxville-land/
+**Live site:** https://msaade12.github.io/knoxville-land-scout/
 
 ---
 

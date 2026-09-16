@@ -1,7 +1,7 @@
 /* Knoxville Land Scout ------------------------------------------------- */
 'use strict';
 
-const REPO   = 'msaade12/knoxville-land';
+const REPO   = 'msaade12/knoxville-land-scout';
 const BRANCH = 'main';
 const HIDDEN_PATH = 'data/marks.json';
 const OLD_HIDDEN_PATH = 'data/hidden.json';

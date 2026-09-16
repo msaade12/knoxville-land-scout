@@ -6,7 +6,7 @@ import os
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE = "https://msaade12.github.io/knoxville-land/"
+SITE = "https://msaade12.github.io/knoxville-land-scout/"
 
 
 def money(n):
