@@ -9,16 +9,14 @@ Swept from Redfin every morning, mapped, and published free on GitHub Pages.
 
 ## What it does
 
-Two scheduled runs a day, same script:
+One scheduled run a day — the GitHub Action (`.github/workflows/daily.yml`) at 9:15am ET.
+Nothing runs on the owner's machine.
 
-| When | Where | What |
-|---|---|---|
-| **7:00am** | this Mac, via launchd (`scripts/daily-local.sh`) | the full sweep — Redfin **and Zillow**, routing, terrain, flood — then push |
-| 9:15am ET | GitHub Action (`.github/workflows/daily.yml`) | Redfin-only fallback, in case the Mac was off |
-
-Zillow answers home connections but returns 403 to GitHub's servers, which is why the
-full run lives on the Mac. If the Mac is asleep at 7:00 the job runs when it wakes.
-Re-install the job with `zsh scripts/install-launchd.sh`; its log is `logs/daily-local.log`.
+**Zillow does not refresh.** It returns 403 to GitHub's servers (confirmed by the Probe
+workflow, which you can re-run from the Actions tab). The Zillow-sourced tracts already in the
+data are carried forward untouched — a run that could not consult Zillow never treats them as
+missing — and `scripts/daily-local.sh` still runs the full sweep with Zillow from any home
+connection if someone chooses to (`python3 scripts/sweep.py` does the same).
 
 `scripts/sweep.py`:
 
@@ -54,6 +52,7 @@ A written summary of each run lands in the **Actions** tab, under the run's Summ
 | Status | Active only |
 | Type | Vacant land — anything with a listed building square footage is dropped |
 | HOA | Excluded outright. Any listing with a monthly HOA fee is dropped (`EXCLUDE_HOA`) |
+| Real town | Real road time to the nearest place of 10,000+ people (`cityMin`); the site filters to 15 minutes by default. A Food City in a 2,000-person village satisfies the shopping rule but not this one |
 | Shopping | Real road-network drive time to the nearest Walmart / Kroger / Food City / Ingles / Publix / ALDI / Target. The site filters to 15 minutes by default — land *around* a real town, not deep in the hollows |
 | Drive | Real road-network minutes to downtown Knoxville, not a straight-line estimate |
 

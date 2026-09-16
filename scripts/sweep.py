@@ -70,6 +70,7 @@ OSRM = "https://router.project-osrm.org/table/v1/driving/"
 # minutes are kept as driveRoad / shopRoad; the displayed figure is calibrated.
 ROAD_CAL = 0.86
 SHOP_CANDIDATES = 5          # nearest anchor stores (by air) to route to
+CITY_MIN_POP = 10_000        # what counts as a decent town
 
 # A listing with a monthly HOA fee is excluded outright.
 EXCLUDE_HOA = True
@@ -280,6 +281,52 @@ def add_drive_times(tracts, batch=99):
                 t["driveRoad"] = round(row[0], 1)
                 t["drive"] = max(5, int(round(row[0] * ROAD_CAL)))
                 t["driveReal"] = True
+                done += 1
+        time.sleep(1.5)
+    return done
+
+
+def add_city_times(tracts, towns, cap=100):
+    """Real minutes to the nearest town of CITY_MIN_POP+ people. A Food City
+    in a 2,000-person village satisfies the shopping rule; this one asks
+    whether there is an actual town within reach."""
+    cities = [t for t in towns if (t.get("pop") or 0) >= CITY_MIN_POP]
+    todo = [t for t in tracts if t.get("cityMin") is None
+            and t.get("lat") is not None and t.get("geo") == "parcel"]
+    if not todo or not cities:
+        return 0
+    log(f"city routing needed: {len(todo)}")
+
+    def nearest(t):
+        return sorted(range(len(cities)), key=lambda i:
+                      (cities[i]["lat"] - t["lat"]) ** 2
+                      + ((cities[i]["lon"] - t["lon"]) * 0.81) ** 2)[:3]
+
+    batches, cur_t, cur_c = [], [], set()
+    for t in todo:
+        c = set(nearest(t))
+        if cur_t and len(cur_t) + 1 + len(cur_c | c) > cap:
+            batches.append((cur_t, sorted(cur_c)))
+            cur_t, cur_c = [], set()
+        cur_t.append(t)
+        cur_c |= c
+    if cur_t:
+        batches.append((cur_t, sorted(cur_c)))
+    done = 0
+    for ts, ci in batches:
+        m = _osrm_table([(t["lat"], t["lon"]) for t in ts],
+                        [(cities[i]["lat"], cities[i]["lon"]) for i in ci])
+        if m is None:
+            break
+        for t, row in zip(ts, m):
+            best = None
+            for j, mins in enumerate(row):
+                if mins is not None and (best is None or mins < best[0]):
+                    best = (mins, cities[ci[j]])
+            if best:
+                t["cityRoad"] = round(best[0], 1)
+                t["cityMin"] = max(2, int(round(best[0] * ROAD_CAL)))
+                t["cityName"], t["cityPop"] = best[1]["n"], best[1]["pop"]
                 done += 1
         time.sleep(1.5)
     return done
@@ -1179,6 +1226,7 @@ def main():
                 t["baseline"] = True
             # Terrain and routing never change and cost API calls - carry them.
             for k in ("gallery", "imgs", "hoaKnown", "parcel", "flood", "floodZone", "floodSub",
+                      "cityRoad", "cityMin", "cityName", "cityPop",
                       "slope", "elev", "relief", "shopRoad",
                       "shopMin", "shopName", "shopCity", "shopMi", "driveRoad"):
                 if old.get(k) is not None:
@@ -1234,6 +1282,7 @@ def main():
     # ---- real road times: to Knoxville, and to the nearest real town ------
     add_drive_times(list(found.values()))
     add_shop_times(list(found.values()), anchors)
+    add_city_times(list(found.values()), load_json("towns.json", []))
 
     # ---- too far: by real road time, from a real town or from Knoxville --
     far = []

@@ -479,6 +479,7 @@ function popupHtml(t) {
             t.parcel.deedAc && Math.abs(t.parcel.deedAc - t.acres) > Math.max(0.3, 0.08 * t.acres) ? ` <span style="color:#8c3b3b">(listing says ${t.acres} — may be a neighbouring parcel)</span>` : ''}</b>
           <span>${t.parcel.owner ? 'owner of record: ' + esc(t.parcel.owner) + ' · ' : ''}${t.parcel.assessor ? `<a href="${esc(t.parcel.assessor)}" target="_blank" rel="noopener">county assessor ↗</a>` : ''} · TN state parcel map</span></div>`
           : t.parcel && !t.parcel.hasGeom ? `<div style="grid-column:1/-1"><b>No parcel mapped at this pin</b><span>the state layer has no boundary here — the pin may be on the road</span></div>` : ''}
+        ${t.cityMin != null ? `<div style="grid-column:1/-1"><b>${t.cityMin} min to ${esc(t.cityName)}</b><span>nearest real town, pop. ${(t.cityPop||0).toLocaleString('en-US')}, by road</span></div>` : ''}
         ${t.townName ? `<div style="grid-column:1/-1"><b>Nearest town: ${esc(t.townName)}</b><span>${esc(t.townKind || 'place')}, pop. ${t.townPop != null ? t.townPop.toLocaleString('en-US') : 'n/a'} · ${t.townMi} mi</span></div>` : ''}
         ${t.convenience ? `<div style="grid-column:1/-1"><b>Convenience ${stars(t.convenience)} ${esc(t.convenienceLabel)}</b><span>${esc(convenienceLine(t))}</span></div>` : ''}
         ${t.flood ? `<div style="grid-column:1/-1"><b>${t.flood === 'sfha' ? 'In a FEMA flood zone' : t.flood === 'x500' ? 'FEMA 500-year zone' : 'Outside FEMA flood zones'}</b><span>${esc(t.floodZone || '')}${t.floodSub ? ' — ' + esc(t.floodSub.toLowerCase()) : ''} · at the pin, per NFHL</span></div>` : ''}
@@ -517,6 +518,8 @@ function cardHtml(t) {
     t.convenience ? `<span class="tag conv" title="${esc(t.convenienceLabel)} — ${esc(convenienceLine(t))}">${stars(t.convenience)}</span>` : '',
     shop(t)
       ? `<span class="tag groc" title="to ${esc(shop(t).to)}">${shop(t).min} min shops</span>` : '',
+    located(t) && t.cityMin != null
+      ? `<span class="tag city" title="${esc(t.cityName)}, pop. ${(t.cityPop||0).toLocaleString('en-US')}">${t.cityMin} min ${esc(t.cityName)}</span>` : '',
     t.parcel?.hasGeom ? '<span class="tag" title="Click to see the property boundary">boundary</span>' : '',
     t.hoaKnown === false || (t.hoaKnown == null && t.source === 'Redfin' && t.hoa == null)
       ? '<span class="tag unconf" title="Neither Redfin\'s export nor Zillow stated whether there is an HOA">HOA ?</span>' : '',
@@ -553,6 +556,7 @@ function currentFilters() {
   return {
     drive: +$('#fDrive').value,
     groc: +$('#fGroc').value,
+    city: +$('#fCity').value,
     price: +$('#fPrice').value,
     acres: +$('#fAcres').value,
     county: $('#fCounty').value,
@@ -575,6 +579,7 @@ function apply() {
     if (!state.showHidden && isHidden(t.id) && !isFav(t.id)) return false;
     if (located(t) && t.drive > f.drive) return false;      // unknown is not "too far"
     { const sh = shop(t); if (sh && sh.min > f.groc) return false; }
+    if (located(t) && t.cityMin != null && t.cityMin > f.city) return false;
     if (t.price > f.price) return false;
     if (t.acres < f.acres) return false;
     if (f.county && t.county !== f.county) return false;
@@ -868,7 +873,7 @@ function setView(v) {
 
 function wire() {
   ['#fDrive', '#fPrice', '#fAcres', '#fCounty', '#fSort',
-   '#fNew', '#fCut', '#fPhoto', '#fConfirmed', '#fGroc', '#fFlood', '#fFav', '#fList', '#fHoa'].forEach(sel =>
+   '#fNew', '#fCut', '#fPhoto', '#fConfirmed', '#fGroc', '#fFlood', '#fFav', '#fList', '#fHoa', '#fCity'].forEach(sel =>
     $(sel).addEventListener('input', () => { syncOutputs(); apply(); }));
 
   let searchTimer;
@@ -886,7 +891,7 @@ function wire() {
 
   $('#resetFilters').addEventListener('click', () => {
     $('#fDrive').value = 60; $('#fPrice').value = 250000; $('#fAcres').value = 10;
-    $('#fGroc').value = 15;
+    $('#fGroc').value = 15; $('#fCity').value = 15;
     $('#fCounty').value = ''; $('#fSort').value = 'ppa';
     $('#fNew').checked = false; $('#fCut').checked = false;
     $('#fPhoto').checked = false; $('#fConfirmed').checked = false; $('#fFlood').checked = false;
@@ -996,6 +1001,7 @@ function syncOutputs() {
   $('#oPrice').textContent = fmtK(+$('#fPrice').value);
   $('#oAcres').textContent = (+$('#fAcres').value).toString();
   $('#oGroc').textContent = $('#fGroc').value + ' min';
+  $('#oCity').textContent = $('#fCity').value + ' min';
 }
 
 function buildLegend() {
