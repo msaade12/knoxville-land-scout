@@ -9951,5 +9951,11 @@
   "reason": "HOA - owner confirmed",
   "on": "2026-09-16",
   "address": "0 Stepping Stone Dr, Sevierville"
+ },
+ "rf62963755": {
+  "reason": "too far",
+  "detail": "66 min to Knoxville",
+  "on": "2026-09-16",
+  "town": "Sharps Chapel"
  }
 }
