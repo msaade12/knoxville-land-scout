@@ -521,6 +521,9 @@ function cardHtml(t) {
     located(t) && t.cityMin != null
       ? `<span class="tag city" title="${esc(t.cityName)}, pop. ${(t.cityPop||0).toLocaleString('en-US')}">${t.cityMin} min ${esc(t.cityName)}</span>` : '',
     t.parcel?.hasGeom ? '<span class="tag" title="Click to see the property boundary">boundary</span>' : '',
+    t.byOwner ? '<span class="tag owner" title="Offered directly by the owner">by owner</span>' : '',
+    t.ownerFinance ? '<span class="tag owner" title="The post mentions owner financing / monthly payments">owner financing</span>' : '',
+    (t.source === 'Whitetail' || t.source === 'Craigslist') ? `<span class="tag">${t.source}</span>` : '',
     t.hoaKnown === false || (t.hoaKnown == null && t.source === 'Redfin' && t.hoa == null)
       ? '<span class="tag unconf" title="Neither Redfin\'s export nor Zillow stated whether there is an HOA">HOA ?</span>' : '',
     t.flood === 'sfha' ? '<span class="tag flood" title="FEMA: inside the 100-year floodplain (Special Flood Hazard Area)">flood zone</span>'
@@ -567,6 +570,8 @@ function currentFilters() {
     onlyConfirmed: $('#fConfirmed').checked,
     noFlood: $('#fFlood').checked,
     hoaKnown: $('#fHoa').checked,
+    byOwner: $('#fOwner').checked,
+    finance: $('#fFinance').checked,
     onlyFav: $('#fFav').checked,
     list: $('#fList').value,
     q: $('#search').value.trim().toLowerCase(),
@@ -590,6 +595,8 @@ function apply() {
     if (f.noFlood && t.flood === 'sfha') return false;
     if (state.hidden[t.id]?.hoa || state.ownerEx.has(t.id)) return false;   // ruled out for good
     if (f.hoaKnown && !(t.hoaKnown === true)) return false;
+    if (f.byOwner && !t.byOwner) return false;
+    if (f.finance && !t.ownerFinance) return false;
     if (f.onlyFav && !isFav(t.id)) return false;
     if (f.list && !listsOf(t.id).includes(f.list)) return false;
     if (f.q) {
@@ -766,12 +773,21 @@ function renderChanges(r) {
   html += sec('Dropped — no longer meets criteria', r.rejected, x => row(x, ''));
   html += sec('Not returned this run (kept, unconfirmed)', r.unconfirmed, x => row(x, `${x.missCount}/3 misses`, true));
   html += sec('Retired after 3 misses', r.retired, x => row(x, ''));
+  if (state.auctions?.length) {
+    html += `<h3>Upcoming land auctions (${state.auctions.length})</h3><ul>` + state.auctions.map(a =>
+      `<li><span>${esc(a.when || 'date TBA')} · <b>${a.acres} ac</b> · ${esc(a.name).slice(0, 70)}</span>
+       <a href="${esc(a.url)}" target="_blank" rel="noopener">↗</a><span class="why">${esc(a.source)}</span></li>`).join('') + '</ul>';
+  }
   body.innerHTML = html || `<p class="quiet">Nothing changed on ${r.date}. A quiet day.</p>`;
   const n = (r.new?.length || 0) + (r.priceCuts?.length || 0) + (r.gone?.length || 0);
   const b = $('#changesN'); b.hidden = !n; b.textContent = n;
 }
 
 async function loadChanges() {
+  try {
+    const a = await fetch(`data/auctions.json?t=${Date.now()}`, { cache: 'no-store' });
+    state.auctions = a.ok ? (await a.json()).auctions : [];
+  } catch { state.auctions = []; }
   try {
     const r = await fetch(`data/report.json?t=${Date.now()}`, { cache: 'no-store' });
     renderChanges(r.ok ? await r.json() : null);
@@ -873,7 +889,7 @@ function setView(v) {
 
 function wire() {
   ['#fDrive', '#fPrice', '#fAcres', '#fCounty', '#fSort',
-   '#fNew', '#fCut', '#fPhoto', '#fConfirmed', '#fGroc', '#fFlood', '#fFav', '#fList', '#fHoa', '#fCity'].forEach(sel =>
+   '#fNew', '#fCut', '#fPhoto', '#fConfirmed', '#fGroc', '#fFlood', '#fFav', '#fList', '#fHoa', '#fCity', '#fOwner', '#fFinance'].forEach(sel =>
     $(sel).addEventListener('input', () => { syncOutputs(); apply(); }));
 
   let searchTimer;
@@ -895,7 +911,7 @@ function wire() {
     $('#fCounty').value = ''; $('#fSort').value = 'ppa';
     $('#fNew').checked = false; $('#fCut').checked = false;
     $('#fPhoto').checked = false; $('#fConfirmed').checked = false; $('#fFlood').checked = false;
-    $('#fFav').checked = false; $('#fList').value = ''; $('#fHoa').checked = false;
+    $('#fFav').checked = false; $('#fList').value = ''; $('#fHoa').checked = false; $('#fOwner').checked = false; $('#fFinance').checked = false;
     $('#search').value = '';
     syncOutputs(); apply();
   });

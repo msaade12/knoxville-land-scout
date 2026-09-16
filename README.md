@@ -132,6 +132,8 @@ data/stores.json        301 supermarkets of any kind — fallback when routing i
 photos/rf*.webp         one photo per listing, served same-origin
 scripts/sweep.py        the daily sweep — stdlib only, no dependencies
 scripts/zillow.py       Zillow county search: coordinates, status, photo carousel
+scripts/sources.py      Craigslist, Whitetail, Powell + Ayers auctions
+data/auctions.json      upcoming land auctions
 scripts/report.py       renders report.json as Markdown for the Actions summary
 .github/workflows/daily.yml
 ```
@@ -155,7 +157,22 @@ Everything tunable is at the top of `scripts/sweep.py`: `MAX_PRICE`, `MIN_ACRES`
 price-per-acre colour scale. The site reads the bands from `assets/app.js`, so change
 both if you re-cut them.
 
-## Drive times are real
+## The other sources
+
+`scripts/sources.py`, run every sweep from GitHub (all confirmed reachable by the Probe workflow):
+
+- **Craigslist** — by-owner real-estate posts in the Knoxville area mentioning acres. The
+  search page's JSON-LD gives a coordinate per post. These carry the **by owner** tag, and
+  a post mentioning owner financing, monthly payments or "no credit" gets **owner financing**
+  — the only source that exposes either.
+- **Whitetail Properties** — Tennessee listings filtered to our counties by URL, details
+  read off each listing page. Rarely under $250k, but wired in for when one is.
+- **Powell Auction** and **Ayers Auction** — upcoming auctions with an acreage in the
+  title, into `data/auctions.json`, shown at the bottom of the Changes drawer.
+
+Tested and not usable: **United Country** (renders client-side, nothing in the HTML),
+**Homes.com, Landflip, LandHub, LandSearch, Land.com, LandsOfAmerica** (403), **Realtor.com**
+(429), **Trulia** (403 to GitHub; Zillow's data anyway).
 
 Both drive numbers come from the OSRM road network, not from straight lines:
 

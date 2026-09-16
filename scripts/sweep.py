@@ -671,6 +671,65 @@ def add_flood(tracts):
     return done
 
 
+# ---------------------------------------------------------- other sources ---
+
+def merge_sources(found, prev, excluded, polys, stores, today):
+    """Craigslist by-owner and Whitetail, matched by county/price/acreage
+    like Zillow. Returns the set of source names read completely."""
+    import sources
+    covered = set()
+    known = {t["url"] for t in list(found.values()) + list(prev.values())}
+    fetched = []
+    for name, fn in (("Craigslist", lambda: sources.craigslist(MAX_PRICE)),
+                     ("Whitetail", lambda: sources.whitetail(MAX_PRICE, known))):
+        try:
+            rows, complete = fn()
+        except Exception as e:                       # noqa: BLE001
+            log(f"  ! {name}: {e}")
+            continue
+        if complete:
+            covered.add(name)
+        fetched += [r for r in rows if not r.get("known")]
+    added = upgraded = 0
+    for r in fetched:
+        if r["price"] > MAX_PRICE or r["acres"] < MIN_ACRES:
+            continue
+        t = finish_tract({
+            "id": r["id"], "mls": None, "acres": r["acres"], "price": r["price"],
+            "address": r["address"], "town": r["town"], "zip": "", "url": r["url"],
+            "photo": r.get("photo"), "lat": r["lat"], "lon": r["lon"],
+            "hoa": 0, "hoaKnown": False, "domSource": None,
+            "source": r["source"], "byOwner": bool(r.get("byOwner")),
+            "ownerFinance": bool(r.get("ownerFinance")), "geo": "parcel",
+        }, polys, stores)
+        if not t or t["id"] in excluded:
+            continue
+        if not t["town"]:
+            tn, _ = nearest_town(t["lat"], t["lon"], load_json("towns.json", []))
+            t["town"] = tn["n"] if tn else t["county"]
+        hit = next((x for x in found.values() if same_parcel(x, t)), None)
+        if hit:
+            if r.get("byOwner"):
+                hit["byOwner"] = True          # the same land, offered by the owner too
+            if r.get("ownerFinance"):
+                hit["ownerFinance"] = True
+            if not hit.get("photo") and t.get("photo"):
+                hit["photo"] = t["photo"]
+            upgraded += 1
+            continue
+        found[t["id"]] = t
+        added += 1
+    log(f"other sources: {added} added, {upgraded} matched existing | covered: {sorted(covered)}")
+
+    try:
+        aucs = sources.auctions()
+        with open(os.path.join(DATA, "auctions.json"), "w") as f:
+            json.dump({"date": today, "auctions": aucs}, f, indent=1)
+    except Exception as e:                           # noqa: BLE001
+        log(f"  ! auctions: {e}")
+    return covered
+
+
 # ---------------------------------------------------------------- terrain ---
 
 def _slope_grid(lat, lon):
@@ -1184,6 +1243,7 @@ def main():
         log("zillow: skipped (SWEEP_SKIP_ZILLOW set)")
     else:
         zillow_covered = merge_zillow(found, prev, excluded, polys, stores)
+    sources_covered = merge_sources(found, prev, excluded, polys, stores, today)
 
     # ---- merge with the archive -----------------------------------------
     # Redfin's CSV export carries the notice "some MLS listings are not
@@ -1225,7 +1285,7 @@ def main():
             if old.get("baseline"):
                 t["baseline"] = True
             # Terrain and routing never change and cost API calls - carry them.
-            for k in ("gallery", "imgs", "hoaKnown", "parcel", "flood", "floodZone", "floodSub",
+            for k in ("gallery", "imgs", "hoaKnown", "byOwner", "ownerFinance", "parcel", "flood", "floodZone", "floodSub",
                       "cityRoad", "cityMin", "cityName", "cityPop",
                       "slope", "elev", "relief", "shopRoad",
                       "shopMin", "shopName", "shopCity", "shopMi", "driveRoad"):
@@ -1244,6 +1304,9 @@ def main():
         if old.get("source") == "Zillow" and old.get("county") not in zillow_covered:
             # Zillow was skipped, or rate-limited us for this county: the
             # listing's absence means nothing. Carry it forward untouched.
+            found[tid] = dict(old)
+            continue
+        if old.get("source") in ("Craigslist", "Whitetail") and old.get("source") not in sources_covered:
             found[tid] = dict(old)
             continue
         if tid in returned:
