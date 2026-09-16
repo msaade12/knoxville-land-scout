@@ -3755,14 +3755,6 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "parcel": {
-    "deedAc": null,
-    "owner": "SANDBERG ANDREW W ETUX JEN",
-    "parcelId": "065 110    07900 000 2026",
-    "assessor": "https://tnmap.tn.gov/assessment/#/parcel/065110%20%20%20%2007900",
-    "match": "under the pin",
-    "hasGeom": true
-   },
    "townName": "Oliver Springs",
    "townPop": 3297,
    "townKind": "village",
@@ -3781,7 +3773,15 @@
    "_convShop": 13,
    "_convV": 3,
    "img": "photos/rf205393367.webp",
-   "daysListed": 12
+   "daysListed": 12,
+   "parcel": {
+    "deedAc": null,
+    "owner": "SANDBERG ANDREW W ETUX JEN",
+    "parcelId": "065 110    07900 000 2026",
+    "assessor": "https://tnmap.tn.gov/assessment/#/parcel/065110%20%20%20%2007900",
+    "match": "under the pin",
+    "hasGeom": true
+   }
   },
   {
    "id": "rf87707475",

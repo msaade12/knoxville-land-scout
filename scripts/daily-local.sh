@@ -17,7 +17,7 @@ date +%F > "$STAMP"
   echo "=== $(date '+%Y-%m-%d %H:%M') ==="
   git pull -q --rebase --autostash origin main || { echo "pull failed"; exit 1; }
   python3 scripts/sweep.py
-  git add data/tracts.json data/report.json data/excluded.json photos
+  git add data/tracts.json data/report.json data/excluded.json data/parcels.json photos
   if git diff --cached --quiet; then echo "nothing changed"; exit 0; fi
   git -c user.name="land-scout (mac)" -c user.email="msaade@global.rutgers.edu" \
       commit -q -m "$(python3 scripts/report.py --commit-message) [mac]"
