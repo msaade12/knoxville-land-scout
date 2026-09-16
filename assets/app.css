@@ -201,7 +201,7 @@ input[type=range]{width:100%;accent-color:var(--accent);margin:3px 0}
 }
 .card:hover .hidebtn,.hidebtn:focus-visible{opacity:1}
 /* touch devices have no hover, so never hide the control behind one */
-@media (hover:none){
+@media (hover:none),(max-width:860px){
   .hidebtn{opacity:1;padding:5px 11px;font-size:12px}
 }
 .favbtn{
@@ -211,7 +211,7 @@ input[type=range]{width:100%;accent-color:var(--accent);margin:3px 0}
 .favbtn.on,.card:hover .favbtn{opacity:1}
 .favbtn.on{color:#c9971c;border-color:#e2c46a;background:#fff8e1}
 .card.isfav{border-color:#e2c46a;box-shadow:inset 0 0 0 1px #f3e2a5}
-@media (hover:none){.favbtn{opacity:1;padding:4px 10px}}
+@media (hover:none),(max-width:860px){.favbtn{opacity:1;padding:4px 10px}}
 .tag.list{background:#e8e4f5;color:#4a3d7a}
 .listsel{padding:3px 6px;border:1px solid var(--line-2);border-radius:7px;background:#fff;font-size:12px;max-width:150px}
 .pop-marks{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
