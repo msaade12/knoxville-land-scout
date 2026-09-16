@@ -1,0 +1,20 @@
+name: Probe sources
+on: { workflow_dispatch: {} }
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Which listing sites answer a GitHub runner?
+        run: |
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+          p(){ c=$(curl -s -L --max-time 30 -A "$UA" -H "Accept: text/html" -o /tmp/p -w '%{http_code}' "$2"); echo "$1|$c|$(wc -c </tmp/p)"; sleep 2; }
+          p "Zillow county page" "https://www.zillow.com/monroe-county-tn/land/"
+          p "Zillow searchQueryState" 'https://www.zillow.com/monroe-county-tn/land/?searchQueryState=%7B%22filterState%22%3A%7B%22price%22%3A%7B%22max%22%3A250000%7D%7D%7D'
+          p "Trulia" "https://www.trulia.com/for_sale/Sevier_County,TN/LAND_type/"
+          p "Craigslist" "https://knoxville.craigslist.org/search/rea?purveyor=owner&query=acres"
+          p "Whitetail" "https://www.whitetailproperties.com/hunting-land/tennessee"
+          p "United Country" "https://www.unitedcountry.com/tennessee-land-for-sale"
+          p "Powell Auction" "https://www.powellauction.com/auctions/"
+          p "Ayers Auction" "https://www.ayersauctionrealty.com/search/auctions/all-sales/ending-soon/all-categories/all-locations"
+          p "Redfin CSV" "https://www.redfin.com/stingray/api/gis-csv?al=1&max_price=250000&num_homes=5&region_id=2606&region_type=5&sf=1,2,3,5,6,7&status=9&uipt=5&v=8"
+          p "TN parcels" "https://services1.arcgis.com/YuVBSS7Y1of2Qud1/arcgis/rest/services/Tennessee_Property_Boundaries_Public_Use/FeatureServer/0?f=json"
