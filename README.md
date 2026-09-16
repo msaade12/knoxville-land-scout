@@ -52,7 +52,7 @@ A written summary of each run lands in the **Actions** tab, under the run's Summ
 | Status | Active only |
 | Type | Vacant land — anything with a listed building square footage is dropped |
 | HOA | Excluded outright. Any listing with a monthly HOA fee is dropped (`EXCLUDE_HOA`) |
-| Real town | Real road time to the nearest place of 10,000+ people (`cityMin`); the site filters to 15 minutes by default. A Food City in a 2,000-person village satisfies the shopping rule but not this one |
+| Real town | Real road time to the nearest place of 3,000+ people (`cityMin`); the site filters to 15 minutes by default. A Food City in a 2,000-person village satisfies the shopping rule but not this one |
 | Shopping | Real road-network drive time to the nearest Walmart / Kroger / Food City / Ingles / Publix / ALDI / Target. The site filters to 15 minutes by default — land *around* a real town, not deep in the hollows |
 | Drive | Real road-network minutes to downtown Knoxville, not a straight-line estimate |
 

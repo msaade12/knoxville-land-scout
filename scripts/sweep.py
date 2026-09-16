@@ -70,7 +70,7 @@ OSRM = "https://router.project-osrm.org/table/v1/driving/"
 # minutes are kept as driveRoad / shopRoad; the displayed figure is calibrated.
 ROAD_CAL = 0.86
 SHOP_CANDIDATES = 5          # nearest anchor stores (by air) to route to
-CITY_MIN_POP = 10_000        # what counts as a decent town
+CITY_MIN_POP = 3_000         # what counts as a real town - Gatlinburg is 3,577
 
 # A listing with a monthly HOA fee is excluded outright.
 EXCLUDE_HOA = True

@@ -197,10 +197,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 29.1,
+   "cityRoad": 29.0,
    "cityMin": 25,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityName": "Harrogate",
+   "cityPop": 4305
   },
   {
    "id": "rf197562205",
@@ -289,10 +289,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 336,
-   "cityRoad": 28.2,
-   "cityMin": 24,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 14.0,
+   "cityMin": 12,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf103868729",
@@ -381,10 +381,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 38.5,
-   "cityMin": 33,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 4.9,
+   "cityMin": 4,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z464827871",
@@ -561,10 +561,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 111,
-   "cityRoad": 11.2,
-   "cityMin": 10,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 4.5,
+   "cityMin": 4,
+   "cityName": "Oliver Springs",
+   "cityPop": 3297
   },
   {
    "id": "rf197723905",
@@ -836,10 +836,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 20,
-   "cityRoad": 45.2,
-   "cityMin": 39,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 14.9,
+   "cityMin": 13,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf201260285",
@@ -926,10 +926,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 33.3,
-   "cityMin": 29,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 11.2,
+   "cityMin": 10,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf198592589",
@@ -1009,10 +1009,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 104,
-   "cityRoad": 35.6,
-   "cityMin": 31,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 1.9,
+   "cityMin": 2,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf87502448",
@@ -1099,10 +1099,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 56,
-   "cityRoad": 35.8,
-   "cityMin": 31,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 15.4,
+   "cityMin": 13,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z464462138",
@@ -1193,10 +1193,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 36.3,
-   "cityMin": 31,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 1.9,
+   "cityMin": 2,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf184917339",
@@ -1440,10 +1440,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 43.4,
-   "cityMin": 37,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.8,
+   "cityMin": 16,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf205522979",
@@ -1532,10 +1532,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 5,
-   "cityRoad": 25.0,
-   "cityMin": 22,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 11.8,
+   "cityMin": 10,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf190890927",
@@ -1621,10 +1621,10 @@
     "hasGeom": true
    },
    "missDate": "2026-09-16",
-   "cityRoad": 42.3,
-   "cityMin": 36,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 20.2,
+   "cityMin": 17,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf111031104",
@@ -1807,10 +1807,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 75,
-   "cityRoad": 36.4,
-   "cityMin": 31,
-   "cityName": "Middlesboro",
-   "cityPop": 10334
+   "cityRoad": 10.4,
+   "cityMin": 9,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf180598739",
@@ -1899,10 +1899,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 22.9,
-   "cityMin": 20,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 17.6,
+   "cityMin": 15,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf205532765",
@@ -1987,10 +1987,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 3,
-   "cityRoad": 28.2,
-   "cityMin": 24,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 13.2,
+   "cityMin": 11,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf104539174",
@@ -2080,10 +2080,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 179,
-   "cityRoad": 40.6,
-   "cityMin": 35,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 10.4,
+   "cityMin": 9,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf87529599",
@@ -2170,10 +2170,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 353,
-   "cityRoad": 41.4,
-   "cityMin": 36,
-   "cityName": "Crossville",
-   "cityPop": 10840
+   "cityRoad": 10.7,
+   "cityMin": 9,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf87567218",
@@ -2343,10 +2343,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 442,
-   "cityRoad": 31.4,
-   "cityMin": 27,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 16.0,
+   "cityMin": 14,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf104530112",
@@ -2430,10 +2430,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 218,
-   "cityRoad": 43.9,
-   "cityMin": 38,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 13.7,
+   "cityMin": 12,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf87498459",
@@ -2523,10 +2523,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 119,
-   "cityRoad": 27.0,
-   "cityMin": 23,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 4.6,
+   "cityMin": 4,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "z457723182",
@@ -2797,10 +2797,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 18.2,
-   "cityMin": 16,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.6,
+   "cityMin": 13,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z2054534632",
@@ -2970,10 +2970,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 442,
-   "cityRoad": 30.7,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.3,
+   "cityMin": 13,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf62975860",
@@ -3147,10 +3147,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 34.8,
-   "cityMin": 30,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 10.6,
+   "cityMin": 9,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "z462900836",
@@ -3241,10 +3241,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 29.3,
-   "cityMin": 25,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 16.2,
+   "cityMin": 14,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf63017523",
@@ -3334,10 +3334,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 176,
-   "cityRoad": 18.9,
-   "cityMin": 16,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 4.7,
+   "cityMin": 4,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf124512505",
@@ -3426,10 +3426,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 30,
-   "cityRoad": 25.2,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 12.6,
+   "cityMin": 11,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z2065316396",
@@ -3598,10 +3598,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 31.3,
-   "cityMin": 27,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 18.0,
+   "cityMin": 16,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf87526767",
@@ -3691,10 +3691,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 152,
-   "cityRoad": 37.3,
-   "cityMin": 32,
-   "cityName": "Crossville",
-   "cityPop": 10840
+   "cityRoad": 8.2,
+   "cityMin": 7,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf111323141",
@@ -3783,10 +3783,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 41.7,
-   "cityMin": 36,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 26.8,
+   "cityMin": 23,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf197723800",
@@ -3954,10 +3954,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 20.7,
-   "cityMin": 18,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 13.8,
+   "cityMin": 12,
+   "cityName": "Oliver Springs",
+   "cityPop": 3297
   },
   {
    "id": "rf87707475",
@@ -4132,10 +4132,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 169,
-   "cityRoad": 20.8,
-   "cityMin": 18,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 4.5,
+   "cityMin": 4,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "z456266126",
@@ -4219,10 +4219,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 38.7,
-   "cityMin": 33,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 6.3,
+   "cityMin": 5,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z463762911",
@@ -4406,10 +4406,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 29.5,
-   "cityMin": 25,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 14.5,
+   "cityMin": 13,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf200792177",
@@ -4488,10 +4488,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 29.7,
-   "cityMin": 26,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 14.7,
+   "cityMin": 13,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf190392419",
@@ -4581,10 +4581,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 538,
-   "cityRoad": 30.6,
-   "cityMin": 26,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 17.7,
+   "cityMin": 15,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf102131659",
@@ -4766,10 +4766,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 35.8,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.5,
+   "cityMin": 17,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf196243882",
@@ -4852,10 +4852,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 442,
-   "cityRoad": 31.0,
-   "cityMin": 27,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.6,
+   "cityMin": 13,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf124469031",
@@ -4945,10 +4945,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 245,
-   "cityRoad": 27.8,
-   "cityMin": 24,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 19.5,
+   "cityMin": 17,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf111408250",
@@ -5131,10 +5131,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 39.0,
-   "cityMin": 34,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 22.6,
+   "cityMin": 19,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf195153668",
@@ -5224,10 +5224,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 540,
-   "cityRoad": 20.9,
-   "cityMin": 18,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 15.2,
+   "cityMin": 13,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf195543606",
@@ -5492,10 +5492,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 61,
-   "cityRoad": 31.6,
-   "cityMin": 27,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 7.4,
+   "cityMin": 6,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf111340069",
@@ -5945,10 +5945,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 34,
-   "cityRoad": 26.7,
-   "cityMin": 23,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 13.6,
+   "cityMin": 12,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf203564150",
@@ -6031,10 +6031,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 47,
-   "cityRoad": 30.9,
-   "cityMin": 27,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 8.7,
+   "cityMin": 7,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "rf203564137",
@@ -6117,10 +6117,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 47,
-   "cityRoad": 30.9,
-   "cityMin": 27,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 8.7,
+   "cityMin": 7,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "z81245781",
@@ -6207,10 +6207,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 42.9,
-   "cityMin": 37,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.3,
+   "cityMin": 16,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z460845484",
@@ -6460,10 +6460,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 51,
-   "cityRoad": 26.0,
-   "cityMin": 22,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 3.1,
+   "cityMin": 3,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf202110484",
@@ -6553,10 +6553,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 105,
-   "cityRoad": 27.4,
-   "cityMin": 24,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 4.7,
+   "cityMin": 4,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf146135710",
@@ -6822,10 +6822,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 39,
-   "cityRoad": 18.8,
-   "cityMin": 16,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.1,
+   "cityMin": 13,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf163132096",
@@ -7083,10 +7083,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 355,
-   "cityRoad": 34.6,
-   "cityMin": 30,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 0.0,
+   "cityMin": 2,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf192322729",
@@ -7175,10 +7175,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 744,
-   "cityRoad": 33.5,
-   "cityMin": 29,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 18.1,
+   "cityMin": 16,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf200002931",
@@ -7251,10 +7251,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 248,
-   "cityRoad": 34.6,
-   "cityMin": 30,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 0.0,
+   "cityMin": 2,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf202019991",
@@ -7344,10 +7344,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 114,
-   "cityRoad": 20.0,
-   "cityMin": 17,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 18.6,
+   "cityMin": 16,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf202550028",
@@ -7435,10 +7435,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 77,
-   "cityRoad": 37.4,
-   "cityMin": 32,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.7,
+   "cityMin": 14,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf190924600",
@@ -7521,10 +7521,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 82,
-   "cityRoad": 28.6,
-   "cityMin": 25,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 15.4,
+   "cityMin": 13,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf204631897",
@@ -7607,10 +7607,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 29,
-   "cityRoad": 21.6,
-   "cityMin": 19,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 6.9,
+   "cityMin": 6,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "z465026950",
@@ -7698,10 +7698,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 24.9,
-   "cityMin": 21,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 21.6,
+   "cityMin": 19,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf63022666",
@@ -7790,10 +7790,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 95,
-   "cityRoad": 27.2,
-   "cityMin": 23,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 20.0,
+   "cityMin": 17,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z42039480",
@@ -7883,10 +7883,10 @@
    "flood": "none",
    "floodZone": "X",
    "floodSub": "AREA OF MINIMAL FLOOD HAZARD",
-   "cityRoad": 33.4,
-   "cityMin": 29,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 9.2,
+   "cityMin": 8,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf205540910",
@@ -7969,10 +7969,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 2,
-   "cityRoad": 21.5,
-   "cityMin": 18,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 19.8,
+   "cityMin": 17,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf199612920",
@@ -8045,10 +8045,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 279,
-   "cityRoad": 34.6,
-   "cityMin": 30,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 0.0,
+   "cityMin": 2,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z464155783",
@@ -8221,10 +8221,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 192,
-   "cityRoad": 27.7,
-   "cityMin": 24,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 19.1,
+   "cityMin": 16,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf124637556",
@@ -8314,10 +8314,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 175,
-   "cityRoad": 27.7,
-   "cityMin": 24,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 19.1,
+   "cityMin": 16,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf196243951",
@@ -8393,10 +8393,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 442,
-   "cityRoad": 32.3,
-   "cityMin": 28,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 17.0,
+   "cityMin": 15,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf183950895",
@@ -8476,10 +8476,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 138,
-   "cityRoad": 23.7,
-   "cityMin": 20,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 1.6,
+   "cityMin": 2,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf204682617",
@@ -8568,10 +8568,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 26,
-   "cityRoad": 30.0,
-   "cityMin": 26,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 15.0,
+   "cityMin": 13,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf185051962",
@@ -8655,10 +8655,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 159,
-   "cityRoad": 27.1,
-   "cityMin": 23,
-   "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityRoad": 25.0,
+   "cityMin": 22,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf205494821",
@@ -8748,10 +8748,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 26,
-   "cityRoad": 27.8,
-   "cityMin": 24,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 21.6,
+   "cityMin": 19,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z465026971",
@@ -9021,10 +9021,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 167,
-   "cityRoad": 42.6,
-   "cityMin": 37,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.0,
+   "cityMin": 15,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z2077091421",
@@ -9202,10 +9202,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078096%20%20%20%2000703",
     "hasGeom": true
    },
-   "cityRoad": 21.0,
-   "cityMin": 18,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.1,
+   "cityMin": 10,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf87917816",
@@ -9295,10 +9295,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 30,
-   "cityRoad": 35.7,
-   "cityMin": 31,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 13.3,
+   "cityMin": 11,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf204715516",
@@ -9471,10 +9471,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 71,
-   "cityRoad": 31.9,
-   "cityMin": 27,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 25.7,
+   "cityMin": 22,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z465182984",
@@ -9555,10 +9555,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 31.1,
-   "cityMin": 27,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 18.9,
+   "cityMin": 16,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf104524595",
@@ -9643,10 +9643,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 90,
-   "cityRoad": 39.1,
-   "cityMin": 34,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 8.8,
+   "cityMin": 8,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z465241899",
@@ -9905,10 +9905,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 334,
-   "cityRoad": 32.7,
-   "cityMin": 28,
-   "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityRoad": 30.6,
+   "cityMin": 26,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z81212484",
@@ -9995,10 +9995,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073066H%20C%2000100",
     "hasGeom": true
    },
-   "cityRoad": 42.9,
-   "cityMin": 37,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.3,
+   "cityMin": 16,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf184792199",
@@ -10169,10 +10169,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 90,
-   "cityRoad": 39.0,
-   "cityMin": 34,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 8.7,
+   "cityMin": 7,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf102118424",
@@ -10251,10 +10251,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 350,
-   "cityRoad": 22.1,
-   "cityMin": 19,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 15.4,
+   "cityMin": 13,
+   "cityName": "Oliver Springs",
+   "cityPop": 3297
   },
   {
    "id": "rf63007226",
@@ -10339,10 +10339,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 119,
-   "cityRoad": 28.3,
-   "cityMin": 24,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 9.3,
+   "cityMin": 8,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf194042084",
@@ -10517,10 +10517,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 90,
-   "cityRoad": 38.9,
-   "cityMin": 33,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 8.6,
+   "cityMin": 7,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z2088993004",
@@ -10700,10 +10700,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 5,
-   "cityRoad": 45.5,
-   "cityMin": 39,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.9,
+   "cityMin": 18,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf205328457",
@@ -11135,10 +11135,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 22.1,
-   "cityMin": 19,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 11.7,
+   "cityMin": 10,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z464057750",
@@ -11312,10 +11312,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045083K%20B%2000100",
     "hasGeom": true
    },
-   "cityRoad": 33.7,
-   "cityMin": 29,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 28.6,
+   "cityMin": 25,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf87921931",
@@ -11404,10 +11404,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 120,
-   "cityRoad": 26.5,
-   "cityMin": 23,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 4.1,
+   "cityMin": 4,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf87524231",
@@ -11497,10 +11497,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 180,
-   "cityRoad": 30.5,
-   "cityMin": 26,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 6.9,
+   "cityMin": 6,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z464310437",
@@ -11582,10 +11582,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 27.4,
-   "cityMin": 24,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 5.1,
+   "cityMin": 4,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z42491786",
@@ -11837,10 +11837,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 90,
-   "cityRoad": 38.8,
-   "cityMin": 33,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 8.5,
+   "cityMin": 7,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf204636975",
@@ -12022,10 +12022,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 37,
-   "cityRoad": 21.1,
-   "cityMin": 18,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.2,
+   "cityMin": 10,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf202551905",
@@ -12114,10 +12114,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 77,
-   "cityRoad": 26.2,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 18.0,
+   "cityMin": 15,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z463344542",
@@ -12200,10 +12200,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 40.5,
-   "cityMin": 35,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 10.2,
+   "cityMin": 9,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z456795257",
@@ -12377,10 +12377,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 92,
-   "cityRoad": 31.9,
-   "cityMin": 27,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 4.9,
+   "cityMin": 4,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z463829539",
@@ -12460,10 +12460,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/029058F%20C%2000100",
     "hasGeom": true
    },
-   "cityRoad": 32.7,
-   "cityMin": 28,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 26.5,
+   "cityMin": 23,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z42479994",
@@ -12628,10 +12628,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 78,
-   "cityRoad": 22.4,
-   "cityMin": 19,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 0.0,
+   "cityMin": 2,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "rf205384549",
@@ -12714,10 +12714,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 12,
-   "cityRoad": 22.3,
-   "cityMin": 19,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 19.9,
+   "cityMin": 17,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf202551851",
@@ -12807,10 +12807,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 77,
-   "cityRoad": 26.3,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 18.1,
+   "cityMin": 16,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf104527960",
@@ -12895,10 +12895,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 69,
-   "cityRoad": 39.5,
-   "cityMin": 34,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 9.2,
+   "cityMin": 8,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z463535186",
@@ -12986,10 +12986,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 30.4,
-   "cityMin": 26,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 6.1,
+   "cityMin": 5,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf111234582",
@@ -13256,10 +13256,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 692,
-   "cityRoad": 25.9,
-   "cityMin": 22,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 3.2,
+   "cityMin": 3,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf200532490",
@@ -13349,10 +13349,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 211,
-   "cityRoad": 26.1,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 17.9,
+   "cityMin": 15,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf200532489",
@@ -13431,10 +13431,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 211,
-   "cityRoad": 26.1,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 17.9,
+   "cityMin": 15,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf87527086",
@@ -13514,10 +13514,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 10,
-   "cityRoad": 44.7,
-   "cityMin": 38,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 9.7,
+   "cityMin": 8,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf200845629",
@@ -13607,10 +13607,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 188,
-   "cityRoad": 27.9,
-   "cityMin": 24,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 8.3,
+   "cityMin": 7,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "z462201625",
@@ -13872,10 +13872,10 @@
    "driveReal": true,
    "hoaKnown": false,
    "parcel": {},
-   "cityRoad": 29.7,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 19.9,
+   "cityMin": 17,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z450615938",
@@ -13958,10 +13958,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 33.0,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 8.8,
+   "cityMin": 8,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf198797783",
@@ -14227,10 +14227,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 352,
-   "cityRoad": 37.7,
-   "cityMin": 32,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 3.1,
+   "cityMin": 3,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z462316929",
@@ -14311,10 +14311,10 @@
    "driveReal": true,
    "hoaKnown": false,
    "parcel": {},
-   "cityRoad": 25.0,
-   "cityMin": 22,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 2.6,
+   "cityMin": 2,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "rf87571185",
@@ -14587,10 +14587,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 37,
-   "cityRoad": 21.0,
-   "cityMin": 18,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.2,
+   "cityMin": 10,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf87523545",
@@ -14673,10 +14673,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 299,
-   "cityRoad": 24.5,
-   "cityMin": 21,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 2.0,
+   "cityMin": 2,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "z464072116",
@@ -14763,10 +14763,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078107%20%20%20%2004414",
     "hasGeom": true
    },
-   "cityRoad": 27.1,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 18.3,
+   "cityMin": 16,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf87157344",
@@ -14856,10 +14856,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 5,
-   "cityRoad": 10.2,
-   "cityMin": 9,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 8.8,
+   "cityMin": 8,
+   "cityName": "Alcoa",
+   "cityPop": 9316
   },
   {
    "id": "rf87152423",
@@ -14948,10 +14948,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 36,
-   "cityRoad": 27.7,
-   "cityMin": 24,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 14.8,
+   "cityMin": 13,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z42050593",
@@ -15035,10 +15035,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073065%20%20%20%2003300",
     "hasGeom": true
    },
-   "cityRoad": 45.1,
-   "cityMin": 39,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 10.7,
+   "cityMin": 9,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf62847979",
@@ -15124,10 +15124,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 10,
-   "cityRoad": 44.2,
-   "cityMin": 38,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 9.2,
+   "cityMin": 8,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf202237946",
@@ -15209,10 +15209,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 96,
-   "cityRoad": 26.5,
-   "cityMin": 23,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 13.7,
+   "cityMin": 12,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf62966614",
@@ -15302,10 +15302,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 119,
-   "cityRoad": 28.0,
-   "cityMin": 24,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 5.6,
+   "cityMin": 5,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf163412526",
@@ -15568,10 +15568,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 3,
-   "cityRoad": 37.1,
-   "cityMin": 32,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 2.6,
+   "cityMin": 2,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf205264820",
@@ -15661,10 +15661,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 16,
-   "cityRoad": 23.5,
-   "cityMin": 20,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 8.5,
+   "cityMin": 7,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "z465203087",
@@ -15836,10 +15836,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 57,
-   "cityRoad": 35.7,
-   "cityMin": 31,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 13.3,
+   "cityMin": 11,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "z460345702",
@@ -16100,10 +16100,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 21.2,
-   "cityMin": 18,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 20.3,
+   "cityMin": 17,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z444611421",
@@ -16191,10 +16191,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 32.2,
-   "cityMin": 28,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 16.8,
+   "cityMin": 14,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf103002007",
@@ -16283,10 +16283,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 52,
-   "cityRoad": 28.5,
-   "cityMin": 24,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 6.1,
+   "cityMin": 5,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z465315296",
@@ -16459,10 +16459,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 5,
-   "cityRoad": 29.5,
-   "cityMin": 25,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 17.7,
+   "cityMin": 15,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf201713987",
@@ -16552,10 +16552,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 133,
-   "cityRoad": 30.4,
-   "cityMin": 26,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 7.6,
+   "cityMin": 7,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf200320437",
@@ -16640,10 +16640,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 225,
-   "cityRoad": 26.6,
-   "cityMin": 23,
-   "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityRoad": 24.6,
+   "cityMin": 21,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf103861509",
@@ -16733,10 +16733,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 184,
-   "cityRoad": 43.5,
-   "cityMin": 37,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.9,
+   "cityMin": 16,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf205339183",
@@ -17087,10 +17087,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 119,
-   "cityRoad": 33.2,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 7.0,
+   "cityMin": 6,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf174440407",
@@ -17179,10 +17179,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 485,
-   "cityRoad": 34.5,
-   "cityMin": 30,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 25.6,
+   "cityMin": 22,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z2076603962",
@@ -17353,10 +17353,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 24,
-   "cityRoad": 37.0,
-   "cityMin": 32,
-   "cityName": "Middlesboro",
-   "cityPop": 10334
+   "cityRoad": 11.2,
+   "cityMin": 10,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf104539286",
@@ -17441,10 +17441,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 152,
-   "cityRoad": 39.0,
-   "cityMin": 34,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 8.7,
+   "cityMin": 8,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z458188554",
@@ -17532,10 +17532,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 23.3,
-   "cityMin": 20,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 10.4,
+   "cityMin": 9,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "rf198188345",
@@ -17624,10 +17624,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 13,
-   "cityRoad": 26.0,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 10.6,
+   "cityMin": 9,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z464783741",
@@ -17807,10 +17807,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 71,
-   "cityRoad": 29.6,
-   "cityMin": 25,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 7.3,
+   "cityMin": 6,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "z349187387",
@@ -17898,10 +17898,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 22.1,
-   "cityMin": 19,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 12.3,
+   "cityMin": 11,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z465064300",
@@ -18173,10 +18173,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 23.2,
-   "cityMin": 20,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 20.6,
+   "cityMin": 18,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z2063443712",
@@ -18353,10 +18353,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019%20%20%20%2000322",
     "hasGeom": true
    },
-   "cityRoad": 37.6,
-   "cityMin": 32,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 12.9,
+   "cityMin": 11,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf189413163",
@@ -18441,10 +18441,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 312,
-   "cityRoad": 22.4,
-   "cityMin": 19,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 7.2,
+   "cityMin": 6,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "rf104525820",
@@ -18529,10 +18529,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 90,
-   "cityRoad": 39.1,
-   "cityMin": 34,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 8.8,
+   "cityMin": 8,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf87486218",
@@ -18701,10 +18701,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 84,
-   "cityRoad": 21.1,
-   "cityMin": 18,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.2,
+   "cityMin": 14,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z2068414051",
@@ -18881,10 +18881,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 21.4,
-   "cityMin": 18,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.3,
+   "cityMin": 13,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z350951113",
@@ -19244,10 +19244,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 89,
-   "cityRoad": 39.2,
-   "cityMin": 34,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 8.9,
+   "cityMin": 8,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf87534593",
@@ -19331,10 +19331,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 177,
-   "cityRoad": 34.8,
-   "cityMin": 30,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 11.9,
+   "cityMin": 10,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf189634044",
@@ -19515,10 +19515,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 879,
-   "cityRoad": 30.2,
-   "cityMin": 26,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 5.8,
+   "cityMin": 5,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf87180670",
@@ -19690,10 +19690,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 10,
-   "cityRoad": 30.0,
-   "cityMin": 26,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 9.3,
+   "cityMin": 8,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf205401200",
@@ -19776,10 +19776,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 10,
-   "cityRoad": 30.6,
-   "cityMin": 26,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 8.8,
+   "cityMin": 8,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf103357012",
@@ -19869,10 +19869,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 185,
-   "cityRoad": 37.1,
-   "cityMin": 32,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.7,
+   "cityMin": 14,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf87553181",
@@ -20048,10 +20048,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053051%20%20%20%2004615",
     "hasGeom": true
    },
-   "cityRoad": 25.6,
-   "cityMin": 22,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 12.7,
+   "cityMin": 11,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "rf103861514",
@@ -20140,10 +20140,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 184,
-   "cityRoad": 43.5,
-   "cityMin": 37,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.9,
+   "cityMin": 16,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z463536952",
@@ -20412,10 +20412,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 42,
-   "cityRoad": 40.5,
-   "cityMin": 35,
-   "cityName": "Middlesboro",
-   "cityPop": 10334
+   "cityRoad": 8.0,
+   "cityMin": 7,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf87497248",
@@ -20500,10 +20500,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 90,
-   "cityRoad": 40.5,
-   "cityMin": 35,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 10.2,
+   "cityMin": 9,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf203509140",
@@ -20593,10 +20593,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 49,
-   "cityRoad": 30.4,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 9.8,
+   "cityMin": 8,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z42046793",
@@ -20678,10 +20678,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073056H%20B%2000600",
     "hasGeom": true
    },
-   "cityRoad": 40.3,
-   "cityMin": 35,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 12.5,
+   "cityMin": 11,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf205394532",
@@ -20766,10 +20766,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 12,
-   "cityRoad": 23.6,
-   "cityMin": 20,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 22.0,
+   "cityMin": 19,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z465026952",
@@ -20856,10 +20856,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045078%20%20%20%2004620",
     "hasGeom": true
    },
-   "cityRoad": 30.4,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.0,
+   "cityMin": 13,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf201272235",
@@ -20949,10 +20949,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 157,
-   "cityRoad": 30.6,
-   "cityMin": 26,
-   "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityRoad": 28.4,
+   "cityMin": 24,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z465240742",
@@ -21305,10 +21305,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 45.3,
-   "cityMin": 39,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.7,
+   "cityMin": 18,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z2065397326",
@@ -21472,10 +21472,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 31.7,
-   "cityMin": 27,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 8.1,
+   "cityMin": 7,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z247046261",
@@ -21563,10 +21563,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 19.4,
-   "cityMin": 17,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.2,
+   "cityMin": 14,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z348163817",
@@ -21654,10 +21654,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 43.6,
-   "cityMin": 37,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 19.4,
+   "cityMin": 17,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf201378009",
@@ -21747,10 +21747,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 155,
-   "cityRoad": 32.2,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 8.0,
+   "cityMin": 7,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf119022464",
@@ -21839,10 +21839,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 32,
-   "cityRoad": 31.2,
-   "cityMin": 27,
-   "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityRoad": 29.0,
+   "cityMin": 25,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z461095632",
@@ -21929,10 +21929,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045071%20%20%20%2000206",
     "hasGeom": true
    },
-   "cityRoad": 30.5,
-   "cityMin": 26,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 16.7,
+   "cityMin": 14,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z464431308",
@@ -22019,10 +22019,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/029099%20%20%20%2005416",
     "hasGeom": true
    },
-   "cityRoad": 31.5,
-   "cityMin": 27,
-   "cityName": "Knoxville",
-   "cityPop": 190740
+   "cityRoad": 29.3,
+   "cityMin": 25,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf103864844",
@@ -22111,10 +22111,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 14,
-   "cityRoad": 25.7,
-   "cityMin": 22,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 7.0,
+   "cityMin": 6,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf63004811",
@@ -22283,10 +22283,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 75,
-   "cityRoad": 30.3,
-   "cityMin": 26,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 12.1,
+   "cityMin": 10,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf200123805",
@@ -22374,10 +22374,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 239,
-   "cityRoad": 28.1,
-   "cityMin": 24,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 16.4,
+   "cityMin": 14,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf197635781",
@@ -22736,10 +22736,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 1,
-   "cityRoad": 27.2,
-   "cityMin": 23,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 19.4,
+   "cityMin": 17,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf87523162",
@@ -22822,10 +22822,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 43,
-   "cityRoad": 23.9,
-   "cityMin": 21,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 1.5,
+   "cityMin": 2,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "z464380903",
@@ -23002,10 +23002,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 512,
-   "cityRoad": 37.5,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 14.2,
+   "cityMin": 12,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf62899122",
@@ -23091,10 +23091,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 121,
-   "cityRoad": 31.3,
-   "cityMin": 27,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 7.7,
+   "cityMin": 7,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z42491661",
@@ -23269,10 +23269,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 184,
-   "cityRoad": 43.5,
-   "cityMin": 37,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.9,
+   "cityMin": 16,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf200350179",
@@ -23448,10 +23448,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 425,
-   "cityRoad": 24.3,
-   "cityMin": 21,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 1.9,
+   "cityMin": 2,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "rf62846841",
@@ -23537,10 +23537,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 680,
-   "cityRoad": 24.5,
-   "cityMin": 21,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 8.8,
+   "cityMin": 8,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "rf104532208",
@@ -23620,10 +23620,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 103,
-   "cityRoad": 33.7,
-   "cityMin": 29,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 17.4,
+   "cityMin": 15,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z463633331",
@@ -23799,10 +23799,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073066J%20E%2000500",
     "hasGeom": true
    },
-   "cityRoad": 45.4,
-   "cityMin": 39,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.8,
+   "cityMin": 18,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf204344251",
@@ -23884,10 +23884,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 43,
-   "cityRoad": 26.1,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 12.3,
+   "cityMin": 11,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf124600788",
@@ -23966,10 +23966,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 61,
-   "cityRoad": 26.1,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 12.3,
+   "cityMin": 11,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z465026944",
@@ -24057,10 +24057,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 35.4,
-   "cityMin": 30,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 34.1,
+   "cityMin": 29,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf118962823",
@@ -24232,10 +24232,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 103,
-   "cityRoad": 33.8,
-   "cityMin": 29,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 17.4,
+   "cityMin": 15,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf103870456",
@@ -24325,10 +24325,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 72,
-   "cityRoad": 29.0,
-   "cityMin": 25,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 0.7,
+   "cityMin": 2,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z455200874",
@@ -24409,10 +24409,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 39.7,
-   "cityMin": 34,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 33.3,
+   "cityMin": 29,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z457056475",
@@ -24500,10 +24500,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 17.2,
-   "cityMin": 15,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 14.6,
+   "cityMin": 13,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z462049895",
@@ -24586,10 +24586,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078103%20%20%20%2001602",
     "hasGeom": true
    },
-   "cityRoad": 21.9,
-   "cityMin": 19,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 19.2,
+   "cityMin": 17,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf205386192",
@@ -24674,10 +24674,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 12,
-   "cityRoad": 33.1,
-   "cityMin": 28,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 10.7,
+   "cityMin": 9,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "z441775425",
@@ -25208,10 +25208,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 44.9,
-   "cityMin": 39,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 10.3,
+   "cityMin": 9,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf174440465",
@@ -25300,10 +25300,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 488,
-   "cityRoad": 35.0,
-   "cityMin": 30,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 26.2,
+   "cityMin": 23,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z449657571",
@@ -25391,10 +25391,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 33.5,
-   "cityMin": 29,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 18.1,
+   "cityMin": 16,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf119072105",
@@ -25662,10 +25662,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 163,
-   "cityRoad": 32.0,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 3.7,
+   "cityMin": 3,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf192692715",
@@ -25748,10 +25748,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 165,
-   "cityRoad": 20.0,
-   "cityMin": 17,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 16.9,
+   "cityMin": 15,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z465240751",
@@ -25832,10 +25832,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 19.5,
-   "cityMin": 17,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 7.0,
+   "cityMin": 6,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z42502491",
@@ -25922,10 +25922,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 18.5,
-   "cityMin": 16,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.8,
+   "cityMin": 14,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z450110001",
@@ -26013,10 +26013,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 43.7,
-   "cityMin": 38,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 19.5,
+   "cityMin": 17,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "z462416083",
@@ -26282,10 +26282,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053050L%20F%2001600",
     "hasGeom": true
    },
-   "cityRoad": 32.4,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 4.7,
+   "cityMin": 4,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z461132764",
@@ -26368,10 +26368,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053005J%20A%2002605",
     "hasGeom": true
    },
-   "cityRoad": 15.9,
-   "cityMin": 14,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 11.7,
+   "cityMin": 10,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "rf104531046",
@@ -26458,10 +26458,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 103,
-   "cityRoad": 33.9,
-   "cityMin": 29,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 17.5,
+   "cityMin": 15,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf163516072",
@@ -26637,10 +26637,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 446,
-   "cityRoad": 39.1,
-   "cityMin": 34,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 4.5,
+   "cityMin": 4,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf192207969",
@@ -26730,10 +26730,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 140,
-   "cityRoad": 43.8,
-   "cityMin": 38,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 20.3,
+   "cityMin": 17,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z462631309",
@@ -26902,10 +26902,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 248,
-   "cityRoad": 23.6,
-   "cityMin": 20,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 2.9,
+   "cityMin": 3,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "z464244166",
@@ -26993,10 +26993,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 22.6,
-   "cityMin": 19,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 19.9,
+   "cityMin": 17,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf182481007",
@@ -27178,10 +27178,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 109,
-   "cityRoad": 32.5,
-   "cityMin": 28,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 13.5,
+   "cityMin": 12,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "z462473636",
@@ -27263,10 +27263,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 19.1,
-   "cityMin": 16,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 15.2,
+   "cityMin": 13,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "rf62978374",
@@ -27447,10 +27447,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 15,
-   "cityRoad": 22.5,
-   "cityMin": 19,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 4.0,
+   "cityMin": 3,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z464805703",
@@ -27626,10 +27626,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 30.8,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 9.8,
+   "cityMin": 8,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z460652305",
@@ -27717,10 +27717,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 43.7,
-   "cityMin": 38,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.1,
+   "cityMin": 16,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z2075107284",
@@ -27804,10 +27804,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073066J%20E%2000500",
     "hasGeom": true
    },
-   "cityRoad": 45.4,
-   "cityMin": 39,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.8,
+   "cityMin": 18,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf195670157",
@@ -27897,10 +27897,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 495,
-   "cityRoad": 29.9,
-   "cityMin": 26,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 16.7,
+   "cityMin": 14,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z463369222",
@@ -27987,10 +27987,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019%20%20%20%2000346",
     "hasGeom": true
    },
-   "cityRoad": 39.0,
-   "cityMin": 34,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 14.4,
+   "cityMin": 12,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf103863188",
@@ -28076,10 +28076,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 28,
-   "cityRoad": 42.4,
-   "cityMin": 37,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 9.2,
+   "cityMin": 8,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf174439979",
@@ -28167,10 +28167,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 11,
-   "cityRoad": 32.9,
-   "cityMin": 28,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 27.7,
+   "cityMin": 24,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z42044444",
@@ -28258,10 +28258,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 36.6,
-   "cityMin": 32,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 3.3,
+   "cityMin": 3,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z443833688",
@@ -28616,10 +28616,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073048P%20A%2000400",
     "hasGeom": true
    },
-   "cityRoad": 33.5,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 9.2,
+   "cityMin": 8,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z450723344",
@@ -28707,10 +28707,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 26.6,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 5.0,
+   "cityMin": 4,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z352433300",
@@ -29067,10 +29067,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 76,
-   "cityRoad": 26.2,
-   "cityMin": 23,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 8.0,
+   "cityMin": 7,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf103871248",
@@ -29156,10 +29156,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 67,
-   "cityRoad": 18.2,
-   "cityMin": 16,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 12.1,
+   "cityMin": 10,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf188740438",
@@ -29246,10 +29246,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 69,
-   "cityRoad": 26.2,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 13.8,
+   "cityMin": 12,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z103843618",
@@ -29337,10 +29337,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 36.8,
-   "cityMin": 32,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 14.4,
+   "cityMin": 12,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z2059361567",
@@ -29427,10 +29427,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045060N%20D%2000900",
     "hasGeom": true
    },
-   "cityRoad": 29.5,
-   "cityMin": 25,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 16.1,
+   "cityMin": 14,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf200398147",
@@ -29507,10 +29507,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 209,
-   "cityRoad": 28.5,
-   "cityMin": 25,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 4.3,
+   "cityMin": 4,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "rf62891220",
@@ -29594,10 +29594,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 187,
-   "cityRoad": 24.7,
-   "cityMin": 21,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 12.3,
+   "cityMin": 11,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "z2063136722",
@@ -29774,10 +29774,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031E%20A%2001200",
     "hasGeom": true
    },
-   "cityRoad": 33.0,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.7,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z214907076",
@@ -29865,10 +29865,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 27.0,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 17.2,
+   "cityMin": 15,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf124653228",
@@ -29956,10 +29956,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 268,
-   "cityRoad": 30.3,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 24.2,
+   "cityMin": 21,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z352436280",
@@ -30136,10 +30136,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073048H%20D%2000100",
     "hasGeom": true
    },
-   "cityRoad": 34.7,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 13.1,
+   "cityMin": 11,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf202668825",
@@ -30229,10 +30229,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 72,
-   "cityRoad": 29.8,
-   "cityMin": 26,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 9.5,
+   "cityMin": 8,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf189413736",
@@ -30321,10 +30321,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 302,
-   "cityRoad": 33.1,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.8,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z465241911",
@@ -30408,10 +30408,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 28.0,
-   "cityMin": 24,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 8.5,
+   "cityMin": 7,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf202008712",
@@ -30500,10 +30500,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 85,
-   "cityRoad": 33.8,
-   "cityMin": 29,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 24.9,
+   "cityMin": 21,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf201924589",
@@ -30583,10 +30583,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 118,
-   "cityRoad": 33.8,
-   "cityMin": 29,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 24.9,
+   "cityMin": 21,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf103864842",
@@ -30676,10 +30676,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 40,
-   "cityRoad": 25.8,
-   "cityMin": 22,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 7.2,
+   "cityMin": 6,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "z464020405",
@@ -30766,10 +30766,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078118%20%20%20%2016102",
     "hasGeom": true
    },
-   "cityRoad": 24.2,
-   "cityMin": 21,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.4,
+   "cityMin": 10,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf197638599",
@@ -30951,10 +30951,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 16,
-   "cityRoad": 22.6,
-   "cityMin": 19,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 4.5,
+   "cityMin": 4,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z2061450494",
@@ -31041,10 +31041,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019%20%20%20%2000330",
     "hasGeom": true
    },
-   "cityRoad": 38.1,
-   "cityMin": 33,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 13.4,
+   "cityMin": 12,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z2072309268",
@@ -31132,10 +31132,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 25.1,
-   "cityMin": 22,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 2.7,
+   "cityMin": 2,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "rf204541178",
@@ -31307,10 +31307,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053014J%20A%2006200",
     "hasGeom": true
    },
-   "cityRoad": 26.3,
-   "cityMin": 23,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.7,
+   "cityMin": 17,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z464324038",
@@ -31398,10 +31398,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 25.0,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 22.4,
+   "cityMin": 19,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z42507076",
@@ -31489,10 +31489,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 19.5,
-   "cityMin": 17,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 9.7,
+   "cityMin": 8,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z81154095",
@@ -31579,10 +31579,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045060N%20D%2003000",
     "hasGeom": true
    },
-   "cityRoad": 30.3,
-   "cityMin": 26,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 16.9,
+   "cityMin": 15,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z463248368",
@@ -31669,10 +31669,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/007094E%20A%2001801",
     "hasGeom": true
    },
-   "cityRoad": 39.7,
-   "cityMin": 34,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 5.6,
+   "cityMin": 5,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z453025991",
@@ -31935,10 +31935,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 43.8,
-   "cityMin": 38,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.2,
+   "cityMin": 16,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf87563613",
@@ -32115,10 +32115,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 19.5,
-   "cityMin": 17,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 9.7,
+   "cityMin": 8,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z2066835844",
@@ -32205,10 +32205,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073066J%20E%2000500",
     "hasGeom": true
    },
-   "cityRoad": 45.4,
-   "cityMin": 39,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.8,
+   "cityMin": 18,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z460893831",
@@ -32295,10 +32295,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062068A%20B%2000501",
     "hasGeom": true
    },
-   "cityRoad": 25.5,
-   "cityMin": 22,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 3.0,
+   "cityMin": 3,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "z464165042",
@@ -32386,10 +32386,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 33.1,
-   "cityMin": 28,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 30.4,
+   "cityMin": 26,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf104523781",
@@ -32472,10 +32472,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 16,
-   "cityRoad": 41.8,
-   "cityMin": 36,
-   "cityName": "Middlesboro",
-   "cityPop": 10334
+   "cityRoad": 12.0,
+   "cityMin": 10,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z464823453",
@@ -32556,10 +32556,10 @@
    "driveReal": true,
    "hoaKnown": false,
    "parcel": {},
-   "cityRoad": 27.2,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 13.5,
+   "cityMin": 12,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z464396761",
@@ -32644,10 +32644,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 14.7,
-   "cityMin": 13,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 7.2,
+   "cityMin": 6,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf204533619",
@@ -32737,10 +32737,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 37,
-   "cityRoad": 25.4,
-   "cityMin": 22,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 6.9,
+   "cityMin": 6,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z351800526",
@@ -32815,10 +32815,10 @@
    "driveReal": true,
    "hoaKnown": false,
    "parcel": {},
-   "cityRoad": 26.5,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.1,
+   "cityMin": 10,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf87569373",
@@ -33075,10 +33075,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 17.9,
-   "cityMin": 15,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 10.3,
+   "cityMin": 9,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf124610778",
@@ -33157,10 +33157,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 271,
-   "cityRoad": 29.5,
-   "cityMin": 25,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 23.4,
+   "cityMin": 20,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf78792214",
@@ -33339,10 +33339,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 20,
-   "cityRoad": 29.0,
-   "cityMin": 25,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 4.4,
+   "cityMin": 4,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf202666878",
@@ -33512,10 +33512,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 44.0,
-   "cityMin": 38,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.4,
+   "cityMin": 17,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z463881193",
@@ -33598,10 +33598,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078104%20%20%20%2010600",
     "hasGeom": true
    },
-   "cityRoad": 18.4,
-   "cityMin": 16,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.8,
+   "cityMin": 14,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf87144509",
@@ -33684,10 +33684,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 150,
-   "cityRoad": 21.7,
-   "cityMin": 19,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 10.5,
+   "cityMin": 9,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "rf200954345",
@@ -33774,10 +33774,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 180,
-   "cityRoad": 26.8,
-   "cityMin": 23,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 8.6,
+   "cityMin": 7,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf199389136",
@@ -33857,10 +33857,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 294,
-   "cityRoad": 26.7,
-   "cityMin": 23,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 8.5,
+   "cityMin": 7,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf185200057",
@@ -33950,10 +33950,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 218,
-   "cityRoad": 24.2,
-   "cityMin": 21,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 20.4,
+   "cityMin": 18,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf62969890",
@@ -34033,10 +34033,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 254,
-   "cityRoad": 25.9,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 22.1,
+   "cityMin": 19,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z450616601",
@@ -34123,10 +34123,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062029B%20B%2003500",
     "hasGeom": true
    },
-   "cityRoad": 24.3,
-   "cityMin": 21,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.1,
+   "cityMin": 14,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf145745007",
@@ -34297,10 +34297,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 747,
-   "cityRoad": 27.3,
-   "cityMin": 23,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 4.7,
+   "cityMin": 4,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf163414151",
@@ -34728,10 +34728,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019E%20C%2001300",
     "hasGeom": true
    },
-   "cityRoad": 38.0,
-   "cityMin": 33,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.4,
+   "cityMin": 14,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf201836363",
@@ -34820,10 +34820,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 125,
-   "cityRoad": 31.9,
-   "cityMin": 27,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 9.2,
+   "cityMin": 8,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf87141553",
@@ -34913,10 +34913,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 308,
-   "cityRoad": 25.3,
-   "cityMin": 22,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 12.4,
+   "cityMin": 11,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "rf62886013",
@@ -35345,10 +35345,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 10,
-   "cityRoad": 18.4,
-   "cityMin": 16,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 11.6,
+   "cityMin": 10,
+   "cityName": "Oliver Springs",
+   "cityPop": 3297
   },
   {
    "id": "z465087513",
@@ -35435,10 +35435,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 13.3,
-   "cityMin": 11,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 6.5,
+   "cityMin": 6,
+   "cityName": "Oliver Springs",
+   "cityPop": 3297
   },
   {
    "id": "z465265757",
@@ -35523,10 +35523,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062028P%20A%2010100",
     "hasGeom": true
    },
-   "cityRoad": 31.1,
-   "cityMin": 27,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 13.0,
+   "cityMin": 11,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "z2098822283",
@@ -36055,10 +36055,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 69,
-   "cityRoad": 25.9,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 13.5,
+   "cityMin": 12,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf193224080",
@@ -36410,10 +36410,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 30.2,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 24.0,
+   "cityMin": 21,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf146151202",
@@ -36502,10 +36502,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 148,
-   "cityRoad": 31.1,
-   "cityMin": 27,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 17.3,
+   "cityMin": 15,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z465182979",
@@ -36766,10 +36766,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 47,
-   "cityRoad": 25.1,
-   "cityMin": 22,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 3.0,
+   "cityMin": 3,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf102951736",
@@ -36932,10 +36932,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045071%20%20%20%2000268",
     "hasGeom": true
    },
-   "cityRoad": 30.6,
-   "cityMin": 26,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 16.8,
+   "cityMin": 14,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "rf201390912",
@@ -37024,10 +37024,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 154,
-   "cityRoad": 27.6,
-   "cityMin": 24,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 12.9,
+   "cityMin": 11,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z81144780",
@@ -37108,10 +37108,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053020H%20A%2016100",
     "hasGeom": true
    },
-   "cityRoad": 22.9,
-   "cityMin": 20,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 11.7,
+   "cityMin": 10,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z318405601",
@@ -37198,10 +37198,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045079%20%20%20%2006807",
     "hasGeom": true
    },
-   "cityRoad": 32.3,
-   "cityMin": 28,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 16.9,
+   "cityMin": 15,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z344993786",
@@ -37289,10 +37289,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 33.5,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.2,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf202386998",
@@ -37463,10 +37463,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 23.5,
-   "cityMin": 20,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 13.7,
+   "cityMin": 12,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf205325332",
@@ -37647,10 +37647,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 34.7,
-   "cityMin": 30,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 22.0,
+   "cityMin": 19,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf104554406",
@@ -37734,10 +37734,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 28,
-   "cityRoad": 30.4,
-   "cityMin": 26,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 9.9,
+   "cityMin": 9,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf87487631",
@@ -37913,10 +37913,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 44,
-   "cityRoad": 29.9,
-   "cityMin": 26,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 16.9,
+   "cityMin": 15,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z90073155",
@@ -38337,10 +38337,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062028P%20A%2009300",
     "hasGeom": true
    },
-   "cityRoad": 30.1,
-   "cityMin": 26,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 11.9,
+   "cityMin": 10,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf62972592",
@@ -38689,10 +38689,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078082C%20A%2004300",
     "hasGeom": true
    },
-   "cityRoad": 14.6,
-   "cityMin": 13,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 14.2,
+   "cityMin": 12,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf144307100",
@@ -38944,10 +38944,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 302,
-   "cityRoad": 21.2,
-   "cityMin": 18,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 13.3,
+   "cityMin": 11,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z463534517",
@@ -39118,10 +39118,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053077C%20C%2000900",
     "hasGeom": true
    },
-   "cityRoad": 40.5,
-   "cityMin": 35,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 10.1,
+   "cityMin": 9,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z464057913",
@@ -39299,10 +39299,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073071%20%20%20%2009201",
     "hasGeom": true
    },
-   "cityRoad": 24.1,
-   "cityMin": 21,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.6,
+   "cityMin": 15,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z461184438",
@@ -39389,10 +39389,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062068A%20B%2000500",
     "hasGeom": true
    },
-   "cityRoad": 25.6,
-   "cityMin": 22,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 3.1,
+   "cityMin": 3,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "z2058112277",
@@ -39479,10 +39479,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073099M%20C%2000800",
     "hasGeom": true
    },
-   "cityRoad": 36.8,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.5,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf111323350",
@@ -39657,10 +39657,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 133,
-   "cityRoad": 23.7,
-   "cityMin": 20,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 5.3,
+   "cityMin": 5,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf170014546",
@@ -40010,10 +40010,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 19.0,
-   "cityMin": 16,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 9.1,
+   "cityMin": 8,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z462752160",
@@ -40184,10 +40184,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 22.3,
-   "cityMin": 19,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 12.5,
+   "cityMin": 11,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf205251230",
@@ -40364,10 +40364,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 23.5,
-   "cityMin": 20,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 13.7,
+   "cityMin": 12,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z465026951",
@@ -40451,10 +40451,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045067%20%20%20%2003708",
     "hasGeom": true
    },
-   "cityRoad": 25.1,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 17.7,
+   "cityMin": 15,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z463784284",
@@ -40541,10 +40541,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045090F%20A%2001300",
     "hasGeom": true
    },
-   "cityRoad": 23.0,
-   "cityMin": 20,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 19.2,
+   "cityMin": 17,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z464783721",
@@ -40632,10 +40632,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 24.3,
-   "cityMin": 21,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 21.7,
+   "cityMin": 19,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z352433720",
@@ -40896,10 +40896,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 18.6,
-   "cityMin": 16,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.3,
+   "cityMin": 10,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z463919614",
@@ -40987,10 +40987,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 18.9,
-   "cityMin": 16,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.3,
+   "cityMin": 10,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf104522761",
@@ -41080,10 +41080,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 35,
-   "cityRoad": 34.9,
-   "cityMin": 30,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 22.2,
+   "cityMin": 19,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf102116032",
@@ -41420,10 +41420,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 225,
-   "cityRoad": 30.8,
-   "cityMin": 27,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 8.1,
+   "cityMin": 7,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf189726494",
@@ -41513,10 +41513,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 196,
-   "cityRoad": 23.5,
-   "cityMin": 20,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 6.6,
+   "cityMin": 6,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "z2054915350",
@@ -41600,10 +41600,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 28.8,
-   "cityMin": 25,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 19.0,
+   "cityMin": 16,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf199200446",
@@ -42209,10 +42209,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078115%20%20%20%2000303",
     "hasGeom": true
    },
-   "cityRoad": 26.6,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 17.5,
+   "cityMin": 15,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf104534073",
@@ -42299,10 +42299,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 28,
-   "cityRoad": 29.5,
-   "cityMin": 25,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 9.1,
+   "cityMin": 8,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z2066391561",
@@ -42562,10 +42562,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073099M%20C%2000700",
     "hasGeom": true
    },
-   "cityRoad": 36.9,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.6,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf163362331",
@@ -42735,10 +42735,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 96,
-   "cityRoad": 27.5,
-   "cityMin": 24,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 10.5,
+   "cityMin": 9,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf202657561",
@@ -42996,10 +42996,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 57,
-   "cityRoad": 20.2,
-   "cityMin": 17,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 18.6,
+   "cityMin": 16,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf163414278",
@@ -43165,10 +43165,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 321,
-   "cityRoad": 37.7,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 12.3,
+   "cityMin": 11,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z464021688",
@@ -43347,10 +43347,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 82,
-   "cityRoad": 24.7,
-   "cityMin": 21,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 21.1,
+   "cityMin": 18,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z81209309",
@@ -43438,10 +43438,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 23.1,
-   "cityMin": 20,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 0.7,
+   "cityMin": 2,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "z352435404",
@@ -43613,10 +43613,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053040D%20C%2001800",
     "hasGeom": true
    },
-   "cityRoad": 30.9,
-   "cityMin": 27,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 5.2,
+   "cityMin": 4,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf103359111",
@@ -43704,10 +43704,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 96,
-   "cityRoad": 27.3,
-   "cityMin": 24,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 10.4,
+   "cityMin": 9,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf87499145",
@@ -43787,10 +43787,10 @@
    "_convShop": 10,
    "_convV": 3,
    "daysListed": 96,
-   "cityRoad": 27.4,
-   "cityMin": 24,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 10.4,
+   "cityMin": 9,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "z464837071",
@@ -43878,10 +43878,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 44.4,
-   "cityMin": 38,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.8,
+   "cityMin": 17,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z465254009",
@@ -43969,10 +43969,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 35.4,
-   "cityMin": 30,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 22.7,
+   "cityMin": 20,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf202753987",
@@ -44238,10 +44238,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 230,
-   "cityRoad": 30.6,
-   "cityMin": 26,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 7.0,
+   "cityMin": 6,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf103871539",
@@ -44320,10 +44320,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 82,
-   "cityRoad": 36.6,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 8.3,
+   "cityMin": 7,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z2067924031",
@@ -44410,10 +44410,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019D%20A%2001700",
     "hasGeom": true
    },
-   "cityRoad": 38.4,
-   "cityMin": 33,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.8,
+   "cityMin": 14,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z464167447",
@@ -44498,10 +44498,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 19.0,
-   "cityMin": 16,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 16.3,
+   "cityMin": 14,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf205348999",
@@ -44845,10 +44845,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 28,
-   "cityRoad": 30.1,
-   "cityMin": 26,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 9.7,
+   "cityMin": 8,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf104539710",
@@ -44927,10 +44927,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 28,
-   "cityRoad": 29.8,
-   "cityMin": 26,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 9.3,
+   "cityMin": 8,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z2089672000",
@@ -45015,10 +45015,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053040D%20C%2001800",
     "hasGeom": true
    },
-   "cityRoad": 30.9,
-   "cityMin": 27,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 5.2,
+   "cityMin": 4,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf142980422",
@@ -45274,10 +45274,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078109H%20A%2005400",
     "hasGeom": true
    },
-   "cityRoad": 30.1,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 20.1,
+   "cityMin": 17,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf87182146",
@@ -45456,10 +45456,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053078H%20C%2000800",
     "hasGeom": true
    },
-   "cityRoad": 44.1,
-   "cityMin": 38,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 22.4,
+   "cityMin": 19,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z464683001",
@@ -45547,10 +45547,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 43.8,
-   "cityMin": 38,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.2,
+   "cityMin": 17,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf202384191",
@@ -45636,10 +45636,10 @@
    "_convShop": 7,
    "_convV": 3,
    "daysListed": 82,
-   "cityRoad": 25.0,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 19.8,
+   "cityMin": 17,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z463571937",
@@ -45899,10 +45899,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078084L%20C%2000900",
     "hasGeom": true
    },
-   "cityRoad": 21.9,
-   "cityMin": 19,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.8,
+   "cityMin": 14,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z348257978",
@@ -45987,10 +45987,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 22.9,
-   "cityMin": 20,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 20.6,
+   "cityMin": 18,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z81243782",
@@ -46077,10 +46077,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019E%20C%2002800",
     "hasGeom": true
    },
-   "cityRoad": 37.7,
-   "cityMin": 32,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.1,
+   "cityMin": 14,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf202382598",
@@ -46169,10 +46169,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 82,
-   "cityRoad": 29.0,
-   "cityMin": 25,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 10.4,
+   "cityMin": 9,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z81302932",
@@ -46259,10 +46259,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073039G%20E%2001100",
     "hasGeom": true
    },
-   "cityRoad": 21.9,
-   "cityMin": 19,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 17.9,
+   "cityMin": 15,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf87174238",
@@ -46531,10 +46531,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019E%20C%2002900",
     "hasGeom": true
    },
-   "cityRoad": 37.8,
-   "cityMin": 33,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.2,
+   "cityMin": 14,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z458372853",
@@ -46795,10 +46795,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 26.3,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 10.9,
+   "cityMin": 9,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z465027443",
@@ -46884,10 +46884,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 23.0,
-   "cityMin": 20,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 13.2,
+   "cityMin": 11,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf124694244",
@@ -46970,10 +46970,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 44,
-   "cityRoad": 28.5,
-   "cityMin": 25,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.4,
+   "cityMin": 13,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf124645190",
@@ -47052,10 +47052,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 61,
-   "cityRoad": 24.4,
-   "cityMin": 21,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 18.5,
+   "cityMin": 16,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf203668521",
@@ -47128,10 +47128,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 44,
-   "cityRoad": 34.6,
-   "cityMin": 30,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 0.0,
+   "cityMin": 2,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf163446032",
@@ -47393,10 +47393,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 904,
-   "cityRoad": 26.4,
-   "cityMin": 23,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 2.1,
+   "cityMin": 2,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "z2054243012",
@@ -47655,10 +47655,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 27.1,
-   "cityMin": 23,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 10.7,
+   "cityMin": 9,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z352436115",
@@ -47838,10 +47838,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 30,
-   "cityRoad": 24.7,
-   "cityMin": 21,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 6.0,
+   "cityMin": 5,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z80988808",
@@ -48100,10 +48100,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 77,
-   "cityRoad": 32.9,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 6.0,
+   "cityMin": 5,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z2114751924",
@@ -48187,10 +48187,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 40.4,
-   "cityMin": 35,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 10.5,
+   "cityMin": 9,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf163367816",
@@ -48541,10 +48541,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031E%20B%2003200",
     "hasGeom": true
    },
-   "cityRoad": 32.5,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.2,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z2076603885",
@@ -48631,10 +48631,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073099M%20B%2001400",
     "hasGeom": true
    },
-   "cityRoad": 36.3,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.0,
+   "cityMin": 17,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z81219066",
@@ -48721,10 +48721,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019D%20A%2008600",
     "hasGeom": true
    },
-   "cityRoad": 38.6,
-   "cityMin": 33,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 17.0,
+   "cityMin": 15,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z41744491",
@@ -48808,10 +48808,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053034K%20A%2002200",
     "hasGeom": true
    },
-   "cityRoad": 27.5,
-   "cityMin": 24,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 10.0,
+   "cityMin": 9,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z81309954",
@@ -48892,10 +48892,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 36.6,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 8.3,
+   "cityMin": 7,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z66951597",
@@ -48977,10 +48977,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053078J%20B%2000800",
     "hasGeom": true
    },
-   "cityRoad": 42.6,
-   "cityMin": 37,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 21.0,
+   "cityMin": 18,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf102953129",
@@ -49228,10 +49228,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 22.5,
-   "cityMin": 19,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 13.5,
+   "cityMin": 12,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf62971001",
@@ -49390,10 +49390,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 10.0,
-   "cityMin": 9,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 9.4,
+   "cityMin": 8,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z462578740",
@@ -49560,10 +49560,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 28.4,
-   "cityMin": 24,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 18.5,
+   "cityMin": 16,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z2059290222",
@@ -49651,10 +49651,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 44.1,
-   "cityMin": 38,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.5,
+   "cityMin": 17,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z464328839",
@@ -49742,10 +49742,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 36.8,
-   "cityMin": 32,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 17.6,
+   "cityMin": 15,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf188197882",
@@ -49834,10 +49834,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 141,
-   "cityRoad": 26.6,
-   "cityMin": 23,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 9.6,
+   "cityMin": 8,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "rf205522794",
@@ -50011,10 +50011,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 25.6,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 9.2,
+   "cityMin": 8,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf87146410",
@@ -50098,10 +50098,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 75,
-   "cityRoad": 25.8,
-   "cityMin": 22,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.5,
+   "cityMin": 14,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z464893993",
@@ -50270,10 +50270,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 25.4,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 13.3,
+   "cityMin": 11,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf63001457",
@@ -50362,10 +50362,10 @@
    "_convShop": 4,
    "_convV": 3,
    "daysListed": 718,
-   "cityRoad": 29.0,
-   "cityMin": 25,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 15.8,
+   "cityMin": 14,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf62994500",
@@ -50454,10 +50454,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 247,
-   "cityRoad": 36.1,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.8,
+   "cityMin": 17,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf204691382",
@@ -50547,10 +50547,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 26,
-   "cityRoad": 28.5,
-   "cityMin": 25,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 6.5,
+   "cityMin": 6,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf186107976",
@@ -50632,10 +50632,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 32,
-   "cityRoad": 28.9,
-   "cityMin": 25,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 16.1,
+   "cityMin": 14,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z464162458",
@@ -50805,10 +50805,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 67,
-   "cityRoad": 19.3,
-   "cityMin": 17,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.1,
+   "cityMin": 16,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z42049716",
@@ -50891,10 +50891,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 18.2,
-   "cityMin": 16,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 12.0,
+   "cityMin": 10,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf200622673",
@@ -51075,10 +51075,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 30.0,
-   "cityMin": 26,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 3.8,
+   "cityMin": 3,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf63017440",
@@ -51165,10 +51165,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 14,
-   "cityRoad": 38.3,
-   "cityMin": 33,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 4.2,
+   "cityMin": 4,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z42477040",
@@ -51346,10 +51346,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 30.0,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 6.0,
+   "cityMin": 5,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z81177459",
@@ -51436,10 +51436,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053040D%20C%2001300",
     "hasGeom": true
    },
-   "cityRoad": 31.2,
-   "cityMin": 27,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 5.5,
+   "cityMin": 5,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf87160110",
@@ -51619,10 +51619,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 19.0,
-   "cityMin": 16,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 7.7,
+   "cityMin": 7,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf103366280",
@@ -51701,10 +51701,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 205,
-   "cityRoad": 23.1,
-   "cityMin": 20,
-   "cityName": "Athens",
-   "cityPop": 14068
+   "cityRoad": 0.7,
+   "cityMin": 2,
+   "cityName": "Sweetwater",
+   "cityPop": 5764
   },
   {
    "id": "rf201250791",
@@ -51794,10 +51794,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 160,
-   "cityRoad": 34.8,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 8.2,
+   "cityMin": 7,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z2079202953",
@@ -52047,10 +52047,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 22.9,
-   "cityMin": 20,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 13.1,
+   "cityMin": 11,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf163381573",
@@ -52209,10 +52209,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053058E%20G%2001800",
     "hasGeom": true
    },
-   "cityRoad": 33.7,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 1.9,
+   "cityMin": 2,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z463833173",
@@ -52299,10 +52299,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 25.5,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 9.1,
+   "cityMin": 8,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z439165624",
@@ -52386,10 +52386,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045060G%20A%2001600",
     "hasGeom": true
    },
-   "cityRoad": 24.2,
-   "cityMin": 21,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 18.2,
+   "cityMin": 16,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z459506072",
@@ -52476,10 +52476,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031D%20F%2001900",
     "hasGeom": true
    },
-   "cityRoad": 34.6,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.3,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf204784748",
@@ -52569,10 +52569,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 23,
-   "cityRoad": 19.4,
-   "cityMin": 17,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 12.8,
+   "cityMin": 11,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "rf163414147",
@@ -52748,10 +52748,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 142,
-   "cityRoad": 19.7,
-   "cityMin": 17,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 3.7,
+   "cityMin": 3,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "rf204538713",
@@ -52836,10 +52836,10 @@
    "_convShop": 11,
    "_convV": 3,
    "daysListed": 36,
-   "cityRoad": 41.8,
-   "cityMin": 36,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 7.1,
+   "cityMin": 6,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf186509091",
@@ -53017,10 +53017,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 20.4,
-   "cityMin": 18,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 10.6,
+   "cityMin": 9,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf87491946",
@@ -53110,10 +53110,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 34,
-   "cityRoad": 35.9,
-   "cityMin": 31,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 3.2,
+   "cityMin": 3,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf63120238",
@@ -53282,10 +53282,10 @@
    "_convShop": 13,
    "_convV": 3,
    "daysListed": 6,
-   "cityRoad": 33.8,
-   "cityMin": 29,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 15.4,
+   "cityMin": 13,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z461827036",
@@ -53456,10 +53456,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019D%20A%2001500",
     "hasGeom": true
    },
-   "cityRoad": 38.4,
-   "cityMin": 33,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.8,
+   "cityMin": 14,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z41750712",
@@ -53541,10 +53541,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053068C%20B%2000500",
     "hasGeom": true
    },
-   "cityRoad": 34.7,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 2.9,
+   "cityMin": 2,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z90070082",
@@ -53722,10 +53722,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 45.3,
-   "cityMin": 39,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.7,
+   "cityMin": 18,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf87918462",
@@ -53814,10 +53814,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 121,
-   "cityRoad": 23.2,
-   "cityMin": 20,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 0.7,
+   "cityMin": 2,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf87470499",
@@ -54153,10 +54153,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 39,
-   "cityRoad": 29.9,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 10.8,
+   "cityMin": 9,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z41752084",
@@ -54243,10 +54243,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053077C%20D%2001500",
     "hasGeom": true
    },
-   "cityRoad": 40.4,
-   "cityMin": 35,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 10.0,
+   "cityMin": 9,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf87555398",
@@ -54511,10 +54511,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073066O%20A%2002100",
     "hasGeom": true
    },
-   "cityRoad": 44.7,
-   "cityMin": 38,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.1,
+   "cityMin": 17,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z70274800",
@@ -54690,10 +54690,10 @@
    "_convShop": 6,
    "_convV": 3,
    "daysListed": 141,
-   "cityRoad": 24.9,
-   "cityMin": 21,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 12.2,
+   "cityMin": 11,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z41751913",
@@ -54774,10 +54774,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053077C%20M%2002300",
     "hasGeom": true
    },
-   "cityRoad": 40.8,
-   "cityMin": 35,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 11.0,
+   "cityMin": 9,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf104020079",
@@ -54867,10 +54867,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 84,
-   "cityRoad": 22.2,
-   "cityMin": 19,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 8.4,
+   "cityMin": 7,
+   "cityName": "Harriman",
+   "cityPop": 5892
   },
   {
    "id": "z459957335",
@@ -55049,10 +55049,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 46.7,
-   "cityMin": 40,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 12.1,
+   "cityMin": 10,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "rf63023792",
@@ -55224,10 +55224,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078117%20%20%20%2020203",
     "hasGeom": true
    },
-   "cityRoad": 31.6,
-   "cityMin": 27,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 10.7,
+   "cityMin": 9,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf62858760",
@@ -55405,10 +55405,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053058N%20J%2000600",
     "hasGeom": true
    },
-   "cityRoad": 37.0,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 5.1,
+   "cityMin": 4,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z41748979",
@@ -55488,10 +55488,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053058J%20A%2000400",
     "hasGeom": true
    },
-   "cityRoad": 37.7,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 7.4,
+   "cityMin": 6,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z463076282",
@@ -55579,10 +55579,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 25.1,
-   "cityMin": 22,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.9,
+   "cityMin": 15,
+   "cityName": "Madisonville",
+   "cityPop": 4464
   },
   {
    "id": "z299822946",
@@ -56110,10 +56110,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031E%20B%2005800",
     "hasGeom": true
    },
-   "cityRoad": 32.6,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.2,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z41744492",
@@ -56194,10 +56194,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 27.5,
-   "cityMin": 24,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 10.1,
+   "cityMin": 9,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z455122136",
@@ -56284,10 +56284,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031D%20G%2001000",
     "hasGeom": true
    },
-   "cityRoad": 33.5,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.1,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf163602395",
@@ -56459,10 +56459,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 41,
-   "cityRoad": 34.0,
-   "cityMin": 29,
-   "cityName": "Oak Ridge",
-   "cityPop": 29302
+   "cityRoad": 1.6,
+   "cityMin": 2,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "rf87139939",
@@ -56547,10 +56547,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 49,
-   "cityRoad": 19.4,
-   "cityMin": 17,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 4.2,
+   "cityMin": 4,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z2075432613",
@@ -56637,10 +56637,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/045076B%20B%2003600",
     "hasGeom": true
    },
-   "cityRoad": 30.0,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 16.7,
+   "cityMin": 14,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf197041939",
@@ -56819,10 +56819,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/073066O%20A%2003100",
     "hasGeom": true
    },
-   "cityRoad": 44.7,
-   "cityMin": 38,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.1,
+   "cityMin": 17,
+   "cityName": "Rockwood",
+   "cityPop": 5444
   },
   {
    "id": "z461012998",
@@ -56909,10 +56909,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20B%2012700",
     "hasGeom": true
    },
-   "cityRoad": 36.0,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.7,
+   "cityMin": 17,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf87559716",
@@ -57165,10 +57165,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 38.5,
-   "cityMin": 33,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 16.1,
+   "cityMin": 14,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "rf124749110",
@@ -57258,10 +57258,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 145,
-   "cityRoad": 30.7,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 17.0,
+   "cityMin": 15,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "z465242399",
@@ -57439,10 +57439,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031E%20B%2005000",
     "hasGeom": true
    },
-   "cityRoad": 32.6,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.3,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf63025920",
@@ -57615,10 +57615,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019E%20C%2002000",
     "hasGeom": true
    },
-   "cityRoad": 38.1,
-   "cityMin": 33,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.5,
+   "cityMin": 14,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z2064342001",
@@ -57702,10 +57702,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 20.5,
-   "cityMin": 18,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 10.6,
+   "cityMin": 9,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf62989229",
@@ -57877,10 +57877,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 14.0,
-   "cityMin": 12,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 4.2,
+   "cityMin": 4,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z41890780",
@@ -57967,10 +57967,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019D%20A%2003800",
     "hasGeom": true
    },
-   "cityRoad": 37.4,
-   "cityMin": 32,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 15.8,
+   "cityMin": 14,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z464190514",
@@ -58058,10 +58058,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 30.0,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 16.3,
+   "cityMin": 14,
+   "cityName": "Jefferson City",
+   "cityPop": 8028
   },
   {
    "id": "rf203501268",
@@ -58147,10 +58147,10 @@
    "_convShop": 3,
    "_convV": 3,
    "daysListed": 49,
-   "cityRoad": 19.0,
-   "cityMin": 16,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 3.8,
+   "cityMin": 3,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "rf196812070",
@@ -58240,10 +58240,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 21,
-   "cityRoad": 39.8,
-   "cityMin": 34,
-   "cityName": "Halls",
-   "cityPop": 10341
+   "cityRoad": 17.4,
+   "cityMin": 15,
+   "cityName": "Maynardville",
+   "cityPop": 3165
   },
   {
    "id": "z81145610",
@@ -58330,10 +58330,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031E%20A%2001500",
     "hasGeom": true
    },
-   "cityRoad": 32.9,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.5,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf102945930",
@@ -58575,10 +58575,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053058E%20I%2001800",
     "hasGeom": true
    },
-   "cityRoad": 34.8,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 2.9,
+   "cityMin": 3,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z459641597",
@@ -58758,10 +58758,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 220,
-   "cityRoad": 40.1,
-   "cityMin": 35,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 11.8,
+   "cityMin": 10,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z455122347",
@@ -58848,10 +58848,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031E%20B%2001800",
     "hasGeom": true
    },
-   "cityRoad": 33.1,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.8,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z455121621",
@@ -58938,10 +58938,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20E%2000700",
     "hasGeom": true
    },
-   "cityRoad": 36.2,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.9,
+   "cityMin": 17,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf104312197",
@@ -59120,10 +59120,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20F%2003800",
     "hasGeom": true
    },
-   "cityRoad": 36.9,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.6,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf63027842",
@@ -59294,10 +59294,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031D%20G%2003900",
     "hasGeom": true
    },
-   "cityRoad": 33.6,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.3,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z463743652",
@@ -59472,10 +59472,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031E%20A%2000900",
     "hasGeom": true
    },
-   "cityRoad": 32.8,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.5,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf163621356",
@@ -59649,10 +59649,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 30.8,
-   "cityMin": 26,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 6.7,
+   "cityMin": 6,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z461143302",
@@ -59820,10 +59820,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 296,
-   "cityRoad": 34.7,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 11.2,
+   "cityMin": 10,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "rf87195964",
@@ -60177,10 +60177,10 @@
    "_convShop": 8,
    "_convV": 3,
    "daysListed": 19,
-   "cityRoad": 14.9,
-   "cityMin": 13,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 13.0,
+   "cityMin": 11,
+   "cityName": "Alcoa",
+   "cityPop": 9316
   },
   {
    "id": "z464346268",
@@ -60268,10 +60268,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 23.5,
-   "cityMin": 20,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 20.8,
+   "cityMin": 18,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z448978650",
@@ -60358,10 +60358,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031D%20G%2001000",
     "hasGeom": true
    },
-   "cityRoad": 33.5,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.1,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z81013969",
@@ -60528,10 +60528,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053077D%20F%2002900",
     "hasGeom": true
    },
-   "cityRoad": 41.6,
-   "cityMin": 36,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 11.4,
+   "cityMin": 10,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf201629329",
@@ -60786,10 +60786,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053058L%20D%2001400",
     "hasGeom": true
    },
-   "cityRoad": 35.3,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 3.5,
+   "cityMin": 3,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z465240741",
@@ -60876,10 +60876,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078095O%20A%2001500",
     "hasGeom": true
    },
-   "cityRoad": 16.4,
-   "cityMin": 14,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 6.6,
+   "cityMin": 6,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "rf198294483",
@@ -61216,10 +61216,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031E%20B%2000800",
     "hasGeom": true
    },
-   "cityRoad": 33.1,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.8,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z463766623",
@@ -61394,10 +61394,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031F%20A%2001200",
     "hasGeom": true
    },
-   "cityRoad": 33.6,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.2,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z464228273",
@@ -61485,10 +61485,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 26.8,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.3,
+   "cityMin": 10,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z41666281",
@@ -61749,10 +61749,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031D%20D%2004300",
     "hasGeom": true
    },
-   "cityRoad": 33.1,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.8,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z456796918",
@@ -62168,10 +62168,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 203,
-   "cityRoad": 32.2,
-   "cityMin": 28,
-   "cityName": "Morristown",
-   "cityPop": 29478
+   "cityRoad": 18.8,
+   "cityMin": 16,
+   "cityName": "Newport",
+   "cityPop": 6865
   },
   {
    "id": "z344993795",
@@ -62258,10 +62258,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031E%20A%2002700",
     "hasGeom": true
    },
-   "cityRoad": 32.0,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 15.7,
+   "cityMin": 13,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf201649663",
@@ -62434,10 +62434,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20C%2019600",
     "hasGeom": true
    },
-   "cityRoad": 36.6,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.3,
+   "cityMin": 17,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf163596540",
@@ -62610,10 +62610,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023K%20E%2002900",
     "hasGeom": true
    },
-   "cityRoad": 37.5,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 21.2,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z2064413069",
@@ -62700,10 +62700,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078116%20%20%20%2022001",
     "hasGeom": true
    },
-   "cityRoad": 26.3,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 6.4,
+   "cityMin": 6,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z41748991",
@@ -62790,10 +62790,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053058O%20E%2000900",
     "hasGeom": true
    },
-   "cityRoad": 38.9,
-   "cityMin": 33,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 9.3,
+   "cityMin": 8,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z81281525",
@@ -62880,10 +62880,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019E%20A%2001800",
     "hasGeom": true
    },
-   "cityRoad": 36.2,
-   "cityMin": 31,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 14.6,
+   "cityMin": 13,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z461906010",
@@ -63054,10 +63054,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 30.6,
-   "cityMin": 26,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 7.1,
+   "cityMin": 6,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z2079328537",
@@ -63228,10 +63228,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053034E%20A%2011300",
     "hasGeom": true
    },
-   "cityRoad": 30.8,
-   "cityMin": 27,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 15.2,
+   "cityMin": 13,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z455942498",
@@ -63318,10 +63318,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031E%20B%2002700",
     "hasGeom": true
    },
-   "cityRoad": 32.9,
-   "cityMin": 28,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 16.6,
+   "cityMin": 14,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z90208942",
@@ -63408,10 +63408,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023K%20A%2000400",
     "hasGeom": true
    },
-   "cityRoad": 37.5,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 21.2,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z42511934",
@@ -63499,10 +63499,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 29.5,
-   "cityMin": 25,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 5.2,
+   "cityMin": 4,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf87468567",
@@ -63675,10 +63675,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078126I%20B%2001000",
     "hasGeom": true
    },
-   "cityRoad": 28.6,
-   "cityMin": 25,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 10.5,
+   "cityMin": 9,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z81123800",
@@ -63765,10 +63765,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053058E%20C%2002200",
     "hasGeom": true
    },
-   "cityRoad": 33.9,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 2.1,
+   "cityMin": 2,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z465026937",
@@ -64037,10 +64037,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 506,
-   "cityRoad": 36.7,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.4,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z2081780484",
@@ -64127,10 +64127,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062020A%20A%2004400",
     "hasGeom": true
    },
-   "cityRoad": 37.5,
-   "cityMin": 32,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 15.8,
+   "cityMin": 14,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf163534686",
@@ -64302,10 +64302,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 33.5,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.1,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf103356846",
@@ -64394,10 +64394,10 @@
    "_convShop": 9,
    "_convV": 3,
    "daysListed": 68,
-   "cityRoad": 35.7,
-   "cityMin": 31,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 14.0,
+   "cityMin": 12,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf189413355",
@@ -64486,10 +64486,10 @@
    "_convShop": 15,
    "_convV": 3,
    "daysListed": 44,
-   "cityRoad": 37.5,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 21.2,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z66590479",
@@ -64746,10 +64746,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20E%2001800",
     "hasGeom": true
    },
-   "cityRoad": 33.7,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.4,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z2129285037",
@@ -64837,10 +64837,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 25.9,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 16.0,
+   "cityMin": 14,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z455122169",
@@ -64927,10 +64927,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20G%2003200",
     "hasGeom": true
    },
-   "cityRoad": 37.1,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.8,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf189413485",
@@ -65009,10 +65009,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 104,
-   "cityRoad": 36.6,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.2,
+   "cityMin": 17,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z2079677090",
@@ -65180,10 +65180,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053068N%20M%2001000",
     "hasGeom": true
    },
-   "cityRoad": 40.6,
-   "cityMin": 35,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 10.2,
+   "cityMin": 9,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z463241067",
@@ -65270,10 +65270,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062019E%20A%2006700",
     "hasGeom": true
    },
-   "cityRoad": 37.2,
-   "cityMin": 32,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 15.6,
+   "cityMin": 13,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z461310437",
@@ -65360,10 +65360,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031D%20D%2003300",
     "hasGeom": true
    },
-   "cityRoad": 34.6,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.2,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z455122166",
@@ -65450,10 +65450,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20G%2002900",
     "hasGeom": true
    },
-   "cityRoad": 37.3,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.9,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf104521424",
@@ -65623,10 +65623,10 @@
     "match": "under the pin",
     "hasGeom": true
    },
-   "cityRoad": 14.2,
-   "cityMin": 12,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.6,
+   "cityMin": 10,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z455100366",
@@ -65713,10 +65713,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053078P%20A%2003200",
     "hasGeom": true
    },
-   "cityRoad": 39.9,
-   "cityMin": 34,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 18.3,
+   "cityMin": 16,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z344993765",
@@ -65803,10 +65803,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023K%20D%2002700",
     "hasGeom": true
    },
-   "cityRoad": 37.7,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 21.4,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z81137222",
@@ -65893,10 +65893,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053042F%20D%2000700",
     "hasGeom": true
    },
-   "cityRoad": 29.3,
-   "cityMin": 25,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 11.9,
+   "cityMin": 10,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z41752240",
@@ -65983,10 +65983,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053077D%20D%2002300",
     "hasGeom": true
    },
-   "cityRoad": 41.7,
-   "cityMin": 36,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 11.8,
+   "cityMin": 10,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z458013257",
@@ -66073,10 +66073,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078117E%20H%2000200",
     "hasGeom": true
    },
-   "cityRoad": 27.6,
-   "cityMin": 24,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.7,
+   "cityMin": 10,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf103867582",
@@ -66164,10 +66164,10 @@
    "_convShop": 2,
    "_convV": 3,
    "daysListed": 119,
-   "cityRoad": 30.4,
-   "cityMin": 26,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 6.8,
+   "cityMin": 6,
+   "cityName": "Kingston",
+   "cityPop": 5953
   },
   {
    "id": "z41751261",
@@ -66247,10 +66247,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053068N%20E%2000200",
     "hasGeom": true
    },
-   "cityRoad": 39.8,
-   "cityMin": 34,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 8.0,
+   "cityMin": 7,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z455122055",
@@ -66337,10 +66337,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023K%20E%2000300",
     "hasGeom": true
    },
-   "cityRoad": 37.2,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.9,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z454630201",
@@ -66427,10 +66427,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023K%20E%2003000",
     "hasGeom": true
    },
-   "cityRoad": 37.5,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 21.1,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z70524645",
@@ -66517,10 +66517,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20A%2000300",
     "hasGeom": true
    },
-   "cityRoad": 33.5,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.2,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z70524621",
@@ -66607,10 +66607,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20B%2013900",
     "hasGeom": true
    },
-   "cityRoad": 36.7,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.4,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z81110635",
@@ -66697,10 +66697,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20B%2014900",
     "hasGeom": true
    },
-   "cityRoad": 37.9,
-   "cityMin": 33,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 21.5,
+   "cityMin": 19,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z461091030",
@@ -66787,10 +66787,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20E%2001000",
     "hasGeom": true
    },
-   "cityRoad": 33.6,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.2,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z463776810",
@@ -66968,10 +66968,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20E%2000900",
     "hasGeom": true
    },
-   "cityRoad": 36.3,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.0,
+   "cityMin": 17,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z111163083",
@@ -67058,10 +67058,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053026G%20H%2001600",
     "hasGeom": true
    },
-   "cityRoad": 22.8,
-   "cityMin": 20,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 7.5,
+   "cityMin": 6,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z90217147",
@@ -67239,10 +67239,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20G%2004900",
     "hasGeom": true
    },
-   "cityRoad": 36.7,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.4,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z81127107",
@@ -67329,10 +67329,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20F%2003200",
     "hasGeom": true
    },
-   "cityRoad": 34.9,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.6,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z448019923",
@@ -67419,10 +67419,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031D%20A%2000400",
     "hasGeom": true
    },
-   "cityRoad": 34.4,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.1,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf62921118",
@@ -67506,10 +67506,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 42,
-   "cityRoad": 34.9,
-   "cityMin": 30,
-   "cityName": "Clinton",
-   "cityPop": 10056
+   "cityRoad": 0.9,
+   "cityMin": 2,
+   "cityName": "LaFollette",
+   "cityPop": 7430
   },
   {
    "id": "z2058485713",
@@ -67596,10 +67596,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053035L%20A%2056200",
     "hasGeom": true
    },
-   "cityRoad": 21.4,
-   "cityMin": 18,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 7.3,
+   "cityMin": 6,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z81447248",
@@ -67682,10 +67682,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 28.3,
-   "cityMin": 24,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 10.2,
+   "cityMin": 9,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "z66904430",
@@ -67856,10 +67856,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20F%2000200",
     "hasGeom": true
    },
-   "cityRoad": 36.7,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.4,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf163446505",
@@ -68034,10 +68034,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 506,
-   "cityRoad": 33.7,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.3,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf62964596",
@@ -68116,10 +68116,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 506,
-   "cityRoad": 33.6,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.3,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z214901759",
@@ -68383,10 +68383,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053034E%20C%2028200",
     "hasGeom": true
    },
-   "cityRoad": 30.0,
-   "cityMin": 26,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 15.9,
+   "cityMin": 14,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z444459425",
@@ -68470,10 +68470,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/005036O%20C%2001100",
     "hasGeom": true
    },
-   "cityRoad": 11.5,
-   "cityMin": 10,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 9.6,
+   "cityMin": 8,
+   "cityName": "Alcoa",
+   "cityPop": 9316
   },
   {
    "id": "z214905508",
@@ -68558,10 +68558,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078095C%20G%2003500",
     "hasGeom": true
    },
-   "cityRoad": 21.6,
-   "cityMin": 19,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 11.8,
+   "cityMin": 10,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z346485122",
@@ -68648,10 +68648,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053035L%20A%2055300",
     "hasGeom": true
    },
-   "cityRoad": 22.2,
-   "cityMin": 19,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 8.1,
+   "cityMin": 7,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z462825632",
@@ -68736,10 +68736,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053032A%20A%2004300",
     "hasGeom": true
    },
-   "cityRoad": 33.9,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.6,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z70525216",
@@ -68826,10 +68826,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053034E%20C%2030800",
     "hasGeom": true
    },
-   "cityRoad": 29.0,
-   "cityMin": 25,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 14.9,
+   "cityMin": 13,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z70525086",
@@ -68916,10 +68916,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20B%2006800",
     "hasGeom": true
    },
-   "cityRoad": 34.4,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.1,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z90218283",
@@ -69096,10 +69096,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023N%20G%2003500",
     "hasGeom": true
    },
-   "cityRoad": 36.8,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 20.5,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z70525190",
@@ -69186,10 +69186,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053034E%20C%2028300",
     "hasGeom": true
    },
-   "cityRoad": 30.1,
-   "cityMin": 26,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 16.0,
+   "cityMin": 14,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z463997362",
@@ -69277,10 +69277,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 24.2,
-   "cityMin": 21,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 8.9,
+   "cityMin": 8,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf102951297",
@@ -69457,10 +69457,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20F%2005100",
     "hasGeom": true
    },
-   "cityRoad": 34.9,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.5,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf189413549",
@@ -69542,10 +69542,10 @@
    "_convShop": 12,
    "_convV": 3,
    "daysListed": 347,
-   "cityRoad": 33.6,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.3,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z81153295",
@@ -69628,10 +69628,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053068F%20H%2000300",
     "hasGeom": true
    },
-   "cityRoad": 37.3,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 5.4,
+   "cityMin": 5,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "z66904421",
@@ -69805,10 +69805,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20J%2004100",
     "hasGeom": true
    },
-   "cityRoad": 33.9,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.6,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z70525021",
@@ -69895,10 +69895,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20A%2002100",
     "hasGeom": true
    },
-   "cityRoad": 33.6,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.3,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z81110655",
@@ -69985,10 +69985,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20F%2003900",
     "hasGeom": true
    },
-   "cityRoad": 34.9,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.6,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z453606860",
@@ -70075,10 +70075,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023M%20B%2000100",
     "hasGeom": true
    },
-   "cityRoad": 35.1,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.8,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z455942499",
@@ -70165,10 +70165,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023K%20D%2000500",
     "hasGeom": true
    },
-   "cityRoad": 38.0,
-   "cityMin": 33,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 21.7,
+   "cityMin": 19,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z2055264177",
@@ -70255,10 +70255,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20J%2003800",
     "hasGeom": true
    },
-   "cityRoad": 34.0,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.7,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z465241878",
@@ -70429,10 +70429,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20B%2005800",
     "hasGeom": true
    },
-   "cityRoad": 35.4,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.0,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z66590473",
@@ -70605,10 +70605,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 23,
-   "cityRoad": 36.1,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.8,
+   "cityMin": 17,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf111137360",
@@ -70693,10 +70693,10 @@
    "_convShop": 5,
    "_convV": 3,
    "daysListed": 12,
-   "cityRoad": 27.0,
-   "cityMin": 23,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 3.0,
+   "cityMin": 3,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   },
   {
    "id": "rf163607479",
@@ -70866,10 +70866,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 33.8,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.5,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z455121565",
@@ -70957,10 +70957,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 33.5,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.2,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z2123486434",
@@ -71131,10 +71131,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20J%2004400",
     "hasGeom": true
    },
-   "cityRoad": 33.7,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.4,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z454842254",
@@ -71221,10 +71221,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053023K%20E%2000600",
     "hasGeom": true
    },
-   "cityRoad": 37.3,
-   "cityMin": 32,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 21.0,
+   "cityMin": 18,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf202759142",
@@ -71490,10 +71490,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/062020H%20A%2001500",
     "hasGeom": true
    },
-   "cityRoad": 39.9,
-   "cityMin": 34,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 18.3,
+   "cityMin": 16,
+   "cityName": "Tellico Village",
+   "cityPop": 7311
   },
   {
    "id": "rf163468771",
@@ -71666,10 +71666,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031D%20A%2001700",
     "hasGeom": true
    },
-   "cityRoad": 34.9,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.5,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z439162687",
@@ -71756,10 +71756,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031D%20A%2003300",
     "hasGeom": true
    },
-   "cityRoad": 34.6,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.3,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z214906580",
@@ -71847,10 +71847,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 22.9,
-   "cityMin": 20,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 13.1,
+   "cityMin": 11,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z70525020",
@@ -71937,10 +71937,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20A%2002000",
     "hasGeom": true
    },
-   "cityRoad": 33.7,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.4,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z66934484",
@@ -72027,10 +72027,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053034E%20A%2012900",
     "hasGeom": true
    },
-   "cityRoad": 30.9,
-   "cityMin": 27,
-   "cityName": "Maryville",
-   "cityPop": 31907
+   "cityRoad": 15.1,
+   "cityMin": 13,
+   "cityName": "Lenoir City",
+   "cityPop": 7703
   },
   {
    "id": "z444665976",
@@ -72117,10 +72117,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031D%20A%2003400",
     "hasGeom": true
    },
-   "cityRoad": 34.5,
-   "cityMin": 30,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.2,
+   "cityMin": 16,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf87530382",
@@ -72210,10 +72210,10 @@
    "_convShop": 14,
    "_convV": 3,
    "daysListed": 160,
-   "cityRoad": 36.2,
-   "cityMin": 31,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 19.9,
+   "cityMin": 17,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "rf163590738",
@@ -72381,10 +72381,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20J%2001000",
     "hasGeom": true
    },
-   "cityRoad": 33.7,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.4,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z348888524",
@@ -72472,10 +72472,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 33.5,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 17.1,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z351124208",
@@ -72562,10 +72562,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/053031C%20J%2002900",
     "hasGeom": true
    },
-   "cityRoad": 34.3,
-   "cityMin": 29,
-   "cityName": "Farragut",
-   "cityPop": 25579
+   "cityRoad": 18.0,
+   "cityMin": 15,
+   "cityName": "Loudon",
+   "cityPop": 5890
   },
   {
    "id": "z55748443",
@@ -72651,10 +72651,10 @@
     "match": "acreage match",
     "hasGeom": true
    },
-   "cityRoad": 25.8,
-   "cityMin": 22,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 16.0,
+   "cityMin": 14,
+   "cityName": "Pigeon Forge",
+   "cityPop": 6343
   },
   {
    "id": "z463853456",
@@ -72741,10 +72741,10 @@
     "assessor": "https://tnmap.tn.gov/assessment/#/parcel/078137C%20B%2000502",
     "hasGeom": true
    },
-   "cityRoad": 27.5,
-   "cityMin": 24,
-   "cityName": "Sevierville",
-   "cityPop": 19010
+   "cityRoad": 3.2,
+   "cityMin": 3,
+   "cityName": "Gatlinburg",
+   "cityPop": 3577
   }
  ]
 }
