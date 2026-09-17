@@ -232,7 +232,10 @@ input[type=range]{width:100%;accent-color:var(--accent);margin:3px 0}
 
 .leaflet-container{font:inherit}
 
-/* markers */
+/* markers: no focus rectangle on a clicked pin (keyboard focus keeps a ring) */
+.leaflet-marker-icon:focus,.leaflet-marker-icon:focus:not(:focus-visible){outline:none}
+.leaflet-marker-icon:focus-visible{outline:2px solid #fff;outline-offset:2px;border-radius:50%}
+
 .pin{
   display:grid;place-items:center;border-radius:50%;
   font-family:"IBM Plex Mono",monospace;font-weight:600;color:#fff;
