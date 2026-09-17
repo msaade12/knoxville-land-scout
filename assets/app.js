@@ -586,7 +586,8 @@ function apply() {
   let rows = state.tracts.filter(t => {
     if (f.onlyFav) return isFav(t.id);                       // a favorite always shows
     if (f.list) return listsOf(t.id).includes(f.list);       // so does anything on a list
-    if (!state.showHidden && isHidden(t.id) && !isFav(t.id)) return false;
+    if (state.showHidden) return isHidden(t.id);             // "show hidden" = the hidden ones, all of them
+    if (isHidden(t.id) && !isFav(t.id)) return false;
     if (located(t) && t.drive > f.drive) return false;      // unknown is not "too far"
     { const sh = shop(t); if (sh && sh.min > f.groc) return false; }
     if (located(t) && t.cityMin != null && t.cityMin > f.city) return false;
@@ -668,16 +669,16 @@ function renderCounts(rows) {
 function renderCards(rows) {
   const box = $('#cards');
   const f = currentFilters();
-  if (f.onlyFav) {
-    const ids = new Set(state.tracts.map(t => t.id));
-    const gone = Object.entries(state.hidden).filter(([id, m]) => m.fav && !ids.has(id));
-    if (gone.length) {
-      box.innerHTML = `<div class="empty-state" style="padding:14px 18px;text-align:left">
-        ${gone.length} favorite${gone.length > 1 ? 's are' : ' is'} no longer on the list — sold, withdrawn,
-        or ruled out (HOA / too far / too steep): ${gone.map(([id]) => `<code>${esc(id)}</code>`).join(', ')}</div>`
-        + rows.map(cardHtml).join('');
-      return;
-    }
+  const ids = new Set(state.tracts.map(t => t.id));
+  const missing = kind => Object.entries(state.hidden).filter(([id, m]) => m[kind] && !ids.has(id));
+  const note = (n, what) => n ? `<div class="empty-state" style="padding:12px 18px;text-align:left">
+      ${n} ${what}${n > 1 ? 's are' : ' is'} no longer on the list — sold, withdrawn, or ruled out (HOA / too far / too steep).</div>` : '';
+  const head = f.onlyFav ? note(missing('fav').length, 'favorite')
+             : state.showHidden ? `<div class="empty-state" style="padding:12px 18px;text-align:left">Showing your hidden listings, ignoring the other filters.</div>` + note(missing('h').length, 'hidden listing')
+             : '';
+  if (head && (rows.length || f.onlyFav || state.showHidden)) {
+    box.innerHTML = head + (rows.length ? rows.map(cardHtml).join('') : '<div class="empty-state">None to show.</div>');
+    return;
   }
   if (!rows.length) {
     box.innerHTML = `<div class="empty-state">No tracts match these filters.<br>
