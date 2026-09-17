@@ -1,59 +1,39 @@
 {
- "generated": "2026-09-17T11:41:22+00:00",
+ "generated": "2026-09-17T17:37:37+00:00",
  "date": "2026-09-17",
  "count": 825,
- "confirmed": 810,
- "new": [],
- "priceCuts": [
+ "confirmed": 809,
+ "new": [
   {
-   "id": "rf163609009",
-   "from": 50000,
-   "to": 45000,
-   "delta": -5000,
-   "acres": 0.28,
+   "id": "rf102972584",
+   "acres": 0.59,
+   "price": 99900,
+   "ppa": 169322,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/4517-Shane-Ln-37921/home/163609009"
+   "url": "https://www.redfin.com/TN/Knoxville/400-Bays-Mountain-Rd-37920/home/102972584"
+  }
+ ],
+ "priceCuts": [
+  {
+   "id": "rf163590925",
+   "from": 42000,
+   "to": 40000,
+   "delta": -2000,
+   "acres": 0.42,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/2506-Shaler-Ln-37920/home/163590925"
   },
   {
-   "id": "rf202753987",
-   "from": 239900,
-   "to": 239800,
-   "delta": -100,
-   "acres": 2.06,
-   "town": "Friendsville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Friendsville/107-Long-Powers-Rd-37737/home/202753987"
-  },
-  {
-   "id": "rf202668825",
-   "from": 55000,
-   "to": 45000,
-   "delta": -10000,
-   "acres": 0.74,
-   "town": "Kingston",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Kingston/Lot-2-Malea-LN-37763/home/202668825"
-  },
-  {
-   "id": "rf103870456",
-   "from": 55000,
-   "to": 45000,
-   "delta": -10000,
-   "acres": 1.01,
-   "town": "Kingston",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Kingston/Fourth-St-37763/home/103870456"
-  },
-  {
-   "id": "rf87529599",
-   "from": 99000,
+   "id": "rf205494821",
+   "from": 100000,
    "to": 89000,
-   "delta": -10000,
-   "acres": 9.09,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/Waldo-Rd-37854/home/87529599"
+   "delta": -11000,
+   "acres": 4.48,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/2139-Stillhouse-Rd-37725/home/205494821"
   }
  ],
  "priceIncreases": [],
@@ -122,6 +102,15 @@
    "missCount": 2
   },
   {
+   "id": "cl91cd82ebed",
+   "acres": 2.0,
+   "price": 27900,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.craigslist.org/view/d/rockwood-20-acres-vacant-land-for-sale/t5cNMxizQPbu8R44iArrUQ",
+   "missCount": 1
+  },
+  {
    "id": "rf111323141",
    "acres": 10.7,
    "price": 150000,
@@ -187,7 +176,18 @@
  ],
  "retired": [],
  "gone": [],
- "tooFar": [],
+ "tooFar": [
+  {
+   "id": "rf119104387",
+   "acres": 1.83,
+   "price": 55000,
+   "town": "Rutledge",
+   "county": "Grainger",
+   "url": "https://www.redfin.com/TN/Rutledge/727-Rocky-Branch-Rd-37861/home/119104387",
+   "drive": 40,
+   "shopMin": 28
+  }
+ ],
  "tooSteep": [],
  "rejected": [],
  "baseline": false

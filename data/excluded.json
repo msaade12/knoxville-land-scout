@@ -9963,5 +9963,16 @@
   "detail": "24 min to Walmart, Newport",
   "on": "2026-09-16",
   "town": "Cosby"
+ },
+ "z464040606": {
+  "reason": "HOA - owner confirmed",
+  "on": "2026-09-17",
+  "address": "46 Feld Wynde Close Way Lot 46, Sevierville"
+ },
+ "rf119104387": {
+  "reason": "too far",
+  "detail": "28 min to Walmart, Jefferson City",
+  "on": "2026-09-17",
+  "town": "Rutledge"
  }
 }
