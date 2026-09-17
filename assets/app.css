@@ -193,6 +193,7 @@ input[type=range]{width:100%;accent-color:var(--accent);margin:3px 0}
 .tag.city{background:#e4ecf7;color:#2b4f85}
 .tag.terr{background:#efeae1;color:#6b5b45}
 .tag.unconf{background:#fff;color:var(--ink-3);border:1px dashed var(--line-2)}
+.tag.hoaq{background:#fff1cc;color:#7a5200;border:1px solid #e6c97a}
 
 .hidebtn{
   position:absolute;bottom:7px;right:7px;border:1px solid var(--line-2);

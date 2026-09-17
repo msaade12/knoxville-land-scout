@@ -527,7 +527,7 @@ function cardHtml(t) {
     t.ownerFinance ? '<span class="tag owner" title="The post mentions owner financing / monthly payments">owner financing</span>' : '',
     (t.source === 'Whitetail' || t.source === 'Craigslist') ? `<span class="tag">${t.source}</span>` : '',
     t.hoaKnown === false || (t.hoaKnown == null && t.source === 'Redfin' && t.hoa == null)
-      ? '<span class="tag unconf" title="Neither Redfin\'s export nor Zillow stated whether there is an HOA">HOA ?</span>' : '',
+      ? '<span class="tag hoaq" title="No source stated whether there is an HOA — Zillow results never do. Only Redfin-export listings are verified. Use \'HOA checked only\' to see just those.">HOA unknown</span>' : '',
     t.flood === 'sfha' ? '<span class="tag flood" title="FEMA: inside the 100-year floodplain (Special Flood Hazard Area)">flood zone</span>'
       : t.flood === 'x500' ? '<span class="tag flood2" title="FEMA: 500-year floodplain / moderate hazard">500-yr flood</span>' : '',
     located(t) && t.slope != null
