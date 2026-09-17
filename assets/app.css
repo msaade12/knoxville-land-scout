@@ -263,6 +263,13 @@ input[type=range]{width:100%;accent-color:var(--accent);margin:3px 0}
 .city-label{font:600 12px/1 Bitter,Georgia,serif;text-shadow:0 1px 4px rgba(0,0,0,.9)}
 body.light-map .maplabel{color:#2f3f3a;text-shadow:0 0 3px #fff,0 0 6px #fff}
 
+.backbtn{
+  position:absolute;top:80px;left:10px;z-index:800;padding:7px 12px;font-size:13px;font-weight:600;
+  background:rgba(255,253,250,.96);border:1px solid var(--line-2);border-radius:9px;color:var(--ink);
+  cursor:pointer;box-shadow:var(--shadow);
+}
+.backbtn:hover{background:#fff}
+
 .basemaps{
   position:absolute;top:10px;right:10px;z-index:800;display:flex;
   background:rgba(255,253,250,.95);border:1px solid var(--line-2);

@@ -49,6 +49,7 @@ const state = {
   hiddenSha: null,
   lb: { list: [], i: 0 },
   detailId: null,
+  viewStack: [],       // map views to go back to
   geoms: null,        // id -> parcel boundary, loaded after the page is up
 };
 
@@ -587,6 +588,11 @@ function apply() {
     if (f.onlyFav) return isFav(t.id);                       // a favorite always shows
     if (f.list) return listsOf(t.id).includes(f.list);       // so does anything on a list
     if (state.showHidden) return isHidden(t.id);             // "show hidden" = the hidden ones, all of them
+    if (f.q) {                                               // search = across everything, no sliders
+      const hay = [t.town, t.county, t.address, t.zip, t.townName, t.cityName, t.source, t.id,
+                   t.price, t.acres, t.parcel?.owner].join(' ').toLowerCase();
+      return f.q.split(/\s+/).every(w => hay.includes(w));
+    }
     if (isHidden(t.id) && !isFav(t.id)) return false;
     if (located(t) && t.drive > f.drive) return false;      // unknown is not "too far"
     { const sh = shop(t); if (sh && sh.min > f.groc) return false; }
@@ -604,10 +610,6 @@ function apply() {
     if (f.hoaKnown && !(t.hoaKnown === true)) return false;
     if (f.byOwner && !t.byOwner) return false;
     if (f.finance && !t.ownerFinance) return false;
-    if (f.q) {
-      const hay = `${t.town} ${t.county} ${t.address} ${t.zip || ''}`.toLowerCase();
-      if (!hay.includes(f.q)) return false;
-    }
     return true;
   });
 
@@ -673,10 +675,11 @@ function renderCards(rows) {
   const missing = kind => Object.entries(state.hidden).filter(([id, m]) => m[kind] && !ids.has(id));
   const note = (n, what) => n ? `<div class="empty-state" style="padding:12px 18px;text-align:left">
       ${n} ${what}${n > 1 ? 's are' : ' is'} no longer on the list — sold, withdrawn, or ruled out (HOA / too far / too steep).</div>` : '';
-  const head = f.onlyFav ? note(missing('fav').length, 'favorite')
+  const head = f.q ? `<div class="empty-state" style="padding:12px 18px;text-align:left">Searching all ${state.tracts.length} tracts for “${esc(f.q)}” — filters set aside.</div>`
+             : f.onlyFav ? note(missing('fav').length, 'favorite')
              : state.showHidden ? `<div class="empty-state" style="padding:12px 18px;text-align:left">Showing your hidden listings, ignoring the other filters.</div>` + note(missing('h').length, 'hidden listing')
              : '';
-  if (head && (rows.length || f.onlyFav || state.showHidden)) {
+  if (head && (rows.length || f.onlyFav || state.showHidden || f.q)) {
     box.innerHTML = head + (rows.length ? rows.map(cardHtml).join('') : '<div class="empty-state">None to show.</div>');
     return;
   }
@@ -829,7 +832,9 @@ function showDetail(id, opts = {}) {
   wireDetail(root, id);
   if (document.body.classList.contains('view-list')) setView('map');
 
+  if (!opts.keepView) pushView();
   const drawParcel = () => {
+    if (state.detailId !== id) return;          // the panel moved on while boundaries were loading
     const g = state.geoms?.[id];
     parcelLayer.clearLayers();
     if (g) parcelLayer.addData({ type: 'Feature', geometry: g });
@@ -842,6 +847,18 @@ function showDetail(id, opts = {}) {
     if (b.isValid()) map.fitBounds(b, { ...pad, maxZoom: 16, animate: true, duration: .6 });
   };
   if (t.parcel?.hasGeom && !state.geoms) loadGeoms().then(drawParcel); else drawParcel();
+}
+
+function pushView() {
+  state.viewStack.push({ c: map.getCenter(), z: map.getZoom() });
+  if (state.viewStack.length > 20) state.viewStack.shift();
+  $('#backBtn').hidden = false;
+}
+function goBack() {
+  const v = state.viewStack.pop();
+  if (!state.detailId) {} else closeDetail();
+  if (v) map.setView(v.c, v.z, { animate: false });
+  $('#backBtn').hidden = !state.viewStack.length;
 }
 
 function closeDetail() {
@@ -965,7 +982,8 @@ function wire() {
   });
 
   // popup buttons
-  $('#detailClose').addEventListener('click', closeDetail);
+  $('#detailClose').addEventListener('click', goBack);
+  $('#backBtn').addEventListener('click', goBack);
 
   // lightbox
   $('#lbClose').addEventListener('click', closeLightbox);
