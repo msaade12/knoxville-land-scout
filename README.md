@@ -213,6 +213,10 @@ Listing pins are often a little off — on the road, or on the neighbour — so 
 at every parcel within ~150 m of the pin and prefers the one whose deeded acreage matches the
 listing (within 8%); otherwise it takes the parcel under the pin and the popup says the
 listing acreage disagrees. A deeded acreage of 0 in the state data means "not recorded".
+**Knox County has no boundaries.** Knox keeps its parcels in KGIS, a subscription service
+(its REST endpoints answer 401), and does not contribute to the state's public layer; the
+state's own Property Viewer draws Knox from a service it loads behind a private config. 117 of
+the 142 tracts without a boundary are Knox. The panel says so and links to KGIS.
 Boundaries are looked up once and carried forward (`parcel` on the tract; geometry in
 `data/parcels.json`, loaded by the page after first paint).
 
