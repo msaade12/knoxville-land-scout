@@ -661,6 +661,21 @@ function renderNewBanner() {
        <span class="nb-act">show only these</span>`;
 }
 
+/** The last "Restore all" batch: the saved snapshot, or - for a restore made
+ *  before snapshots existed - the un-hidden marks that share one timestamp. */
+function undoBatch() {
+  try {
+    const u = JSON.parse(localStorage.getItem('kls-undo'));
+    if (u?.ids?.length) return u;
+  } catch {}
+  const off = Object.entries(state.hidden).filter(([, m]) => m.h === false && m.at);
+  if (off.length < 2) return null;
+  const latest = off.map(([, m]) => m.at).sort().pop();
+  const t0 = Date.parse(latest);
+  const ids = off.filter(([, m]) => Math.abs(Date.parse(m.at) - t0) < 2000).map(([id]) => id);
+  return ids.length >= 2 ? { at: latest, ids } : null;
+}
+
 function renderCounts(rows) {
   const nNew = rows.filter(isNew).length;
   const nHid = Object.values(state.hidden).filter(v => v.h).length;
@@ -670,6 +685,10 @@ function renderCounts(rows) {
   $('#resultCount').textContent =
     `${rows.length} of ${state.tracts.length} tracts` + (nNew ? ` · ${nNew} new` : '');
   $('#hideCount').textContent = `${nHid} hidden`;
+  const u = undoBatch();
+  const ub = $('#undoRestore');
+  ub.hidden = !u || u.ids.every(id => state.hidden[id]?.h);
+  if (!ub.hidden) ub.textContent = `Undo restore (${u.ids.length})`;
   $('#showHidden').textContent = state.showHidden ? 'Hide hidden' : 'Show hidden';
 }
 
@@ -959,8 +978,20 @@ function wire() {
     state.showHidden = !state.showHidden; apply();
   });
   $('#restoreAll').addEventListener('click', () => {
+    const ids = Object.keys(state.hidden).filter(id => state.hidden[id].h);
+    if (!ids.length) return;
+    if (!confirm(`Un-hide all ${ids.length} hidden listing${ids.length > 1 ? 's' : ''}? You can undo this afterwards.`)) return;
     const now = new Date().toISOString();
-    for (const id of Object.keys(state.hidden)) state.hidden[id] = { h: false, at: now };
+    try { localStorage.setItem('kls-undo', JSON.stringify({ at: now, ids })); } catch {}
+    for (const id of ids) state.hidden[id] = { ...state.hidden[id], h: false, at: now };
+    saveLocalHidden(); queuePush(); apply();
+  });
+  $('#undoRestore').addEventListener('click', () => {
+    const u = undoBatch();
+    if (!u) return;
+    const now = new Date().toISOString();
+    for (const id of u.ids) state.hidden[id] = { ...(state.hidden[id] || {}), h: true, at: now };
+    try { localStorage.removeItem('kls-undo'); } catch {}
     saveLocalHidden(); queuePush(); apply();
   });
 
