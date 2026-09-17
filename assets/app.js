@@ -562,6 +562,7 @@ function currentFilters() {
     city: +$('#fCity').value,
     price: +$('#fPrice').value,
     acres: +$('#fAcres').value,
+    acresMax: +$('#fAcresMax').value,
     county: $('#fCounty').value,
     sort: $('#fSort').value,
     onlyNew: $('#fNew').checked,
@@ -587,6 +588,7 @@ function apply() {
     if (located(t) && t.cityMin != null && t.cityMin > f.city) return false;
     if (t.price > f.price) return false;
     if (t.acres < f.acres) return false;
+    if (f.acresMax < 100 && t.acres > f.acresMax) return false;   // 100 = no limit
     if (f.county && t.county !== f.county) return false;
     if (f.onlyNew && !isNew(t)) return false;
     if (f.onlyCut && !priceCut(t)) return false;
@@ -889,7 +891,7 @@ function setView(v) {
 
 function wire() {
   ['#fDrive', '#fPrice', '#fAcres', '#fCounty', '#fSort',
-   '#fNew', '#fCut', '#fPhoto', '#fConfirmed', '#fGroc', '#fFlood', '#fFav', '#fList', '#fHoa', '#fCity', '#fOwner', '#fFinance'].forEach(sel =>
+   '#fNew', '#fCut', '#fPhoto', '#fConfirmed', '#fGroc', '#fFlood', '#fFav', '#fList', '#fHoa', '#fCity', '#fOwner', '#fFinance', '#fAcresMax'].forEach(sel =>
     $(sel).addEventListener('input', () => { syncOutputs(); apply(); }));
 
   let searchTimer;
@@ -906,7 +908,7 @@ function wire() {
   });
 
   $('#resetFilters').addEventListener('click', () => {
-    $('#fDrive').value = 60; $('#fPrice').value = 250000; $('#fAcres').value = 10;
+    $('#fDrive').value = 60; $('#fPrice').value = 250000; $('#fAcres').value = 10; $('#fAcresMax').value = 100;
     $('#fGroc').value = 15; $('#fCity').value = 15;
     $('#fCounty').value = ''; $('#fSort').value = 'ppa';
     $('#fNew').checked = false; $('#fCut').checked = false;
@@ -1016,6 +1018,11 @@ function syncOutputs() {
   $('#oDrive').textContent = $('#fDrive').value + ' min';
   $('#oPrice').textContent = fmtK(+$('#fPrice').value);
   $('#oAcres').textContent = (+$('#fAcres').value).toString();
+  $('#oAcresMax').textContent = +$('#fAcresMax').value >= 100 ? 'any' : (+$('#fAcresMax').value).toString();
+  // keep min <= max
+  if (+$('#fAcresMax').value < 100 && +$('#fAcres').value > +$('#fAcresMax').value) {
+    $('#fAcres').value = $('#fAcresMax').value; $('#oAcres').textContent = $('#fAcres').value;
+  }
   $('#oGroc').textContent = $('#fGroc').value + ' min';
   $('#oCity').textContent = $('#fCity').value + ' min';
 }
