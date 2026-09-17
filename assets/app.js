@@ -33,6 +33,11 @@ const milesFrom = (lat, lon) => {
           + Math.cos(rad(KNOX[0])) * Math.cos(rad(lat)) * Math.sin(dLon / 2) ** 2;
   return Math.round(2 * R * Math.asin(Math.sqrt(a)) * 10) / 10;
 };
+/** Lowercase, punctuation to spaces, so "Rd," matches "Rd" and "St." matches "st". */
+const norm = s => String(s ?? '').toLowerCase().replace(/[^a-z0-9]+/g, ' ');
+const NOISE = new Set(['tn', 'tennessee', 'usa', 'us', 'county', 'the', 'of']);
+const searchWords = q => norm(q).split(' ').filter(w => w && !NOISE.has(w));
+
 const daysAgo = iso => {
   const d = Date.parse(iso);
   return Number.isNaN(d) ? Infinity : Math.floor((Date.now() - d) / 86400000);
@@ -589,9 +594,9 @@ function apply() {
     if (f.list) return listsOf(t.id).includes(f.list);       // so does anything on a list
     if (state.showHidden) return isHidden(t.id);             // "show hidden" = the hidden ones, all of them
     if (f.q) {                                               // search = across everything, no sliders
-      const hay = [t.town, t.county, t.address, t.zip, t.townName, t.cityName, t.source, t.id,
-                   t.price, t.acres, t.parcel?.owner].join(' ').toLowerCase();
-      return f.q.split(/\s+/).every(w => hay.includes(w));
+      const hay = norm([t.town, t.county, t.address, t.zip, t.townName, t.cityName, t.source, t.id,
+                        t.price, t.acres, t.parcel?.owner, t.url].join(' '));
+      return searchWords(f.q).every(w => hay.includes(w));
     }
     if (isHidden(t.id) && !isFav(t.id)) return false;
     if (located(t) && t.drive > f.drive) return false;      // unknown is not "too far"
