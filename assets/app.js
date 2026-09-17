@@ -439,6 +439,14 @@ function convenienceLine(t) {
   return bits.join(' · ');
 }
 
+/** One line describing the water on a tract, or null. */
+function waterLine(t) {
+  const w = t.water; if (!w) return null;
+  const bits = w.streams.map(s => `${s.name || 'unnamed branch'} (${s.kind})`);
+  if (w.lakes.length) bits.push(...w.lakes.map(l => `${l.name || 'pond'} — lake frontage`));
+  return bits.length ? bits.join(' · ') : null;
+}
+
 /** Plain-language terrain from the averaged hillside slope. */
 const terrain = s => s == null ? null
   : s < 3  ? 'flat'
@@ -490,6 +498,7 @@ function popupHtml(t) {
         ${t.cityMin != null ? `<div style="grid-column:1/-1"><b>${t.cityMin} min to ${esc(t.cityName)}</b><span>nearest real town, pop. ${(t.cityPop||0).toLocaleString('en-US')}, by road</span></div>` : ''}
         ${t.townName ? `<div style="grid-column:1/-1"><b>Nearest town: ${esc(t.townName)}</b><span>${esc(t.townKind || 'place')}, pop. ${t.townPop != null ? t.townPop.toLocaleString('en-US') : 'n/a'} · ${t.townMi} mi</span></div>` : ''}
         ${t.convenience ? `<div style="grid-column:1/-1"><b>Convenience ${stars(t.convenience)} ${esc(t.convenienceLabel)}</b><span>${esc(convenienceLine(t))}</span></div>` : ''}
+        ${t.water ? `<div style="grid-column:1/-1"><b>${waterLine(t) ? 'Water: ' + esc(waterLine(t)) : 'No mapped stream or lake'}</b><span>USGS National Hydrography, ${t.water.how === 'parcel' ? 'within the parcel boundary' : 'within ~60 m of the pin (no boundary)'}</span></div>` : ''}
         ${t.flood ? `<div style="grid-column:1/-1"><b>${t.flood === 'sfha' ? 'In a FEMA flood zone' : t.flood === 'x500' ? 'FEMA 500-year zone' : 'Outside FEMA flood zones'}</b><span>${esc(t.floodZone || '')}${t.floodSub ? ' — ' + esc(t.floodSub.toLowerCase()) : ''} · at the pin, per NFHL</span></div>` : ''}
         ${t.slope != null ? `<div><b>${terrain(t.slope)}</b><span>${t.slope}° slope${
           t.elev != null ? `, ${Math.round(t.elev * 3.281)} ft` : ''}</span></div>` : ''}
@@ -530,6 +539,8 @@ function cardHtml(t) {
       ? `<span class="tag city" title="${esc(t.cityName)}, pop. ${(t.cityPop||0).toLocaleString('en-US')}">${t.cityMin} min ${esc(t.cityName)}</span>` : '',
     t.parcel?.hasGeom ? '<span class="tag" title="Click to see the property boundary">boundary</span>' : '',
     t.byOwner ? '<span class="tag owner" title="Offered directly by the owner">by owner</span>' : '',
+    t.water?.stream ? `<span class="tag water" title="${esc(waterLine(t))}">stream${t.water.streams.find(s => s.name) ? ' · ' + esc(t.water.streams.find(s => s.name).name) : ''}</span>` : '',
+    t.water?.lakes?.length ? '<span class="tag water">lake frontage</span>' : '',
     t.ownerFinance ? '<span class="tag owner" title="The post mentions owner financing / monthly payments">owner financing</span>' : '',
     (t.source === 'Whitetail' || t.source === 'Craigslist') ? `<span class="tag">${t.source}</span>` : '',
     t.hoaKnown === false || (t.hoaKnown == null && t.source === 'Redfin' && t.hoa == null)
@@ -581,6 +592,7 @@ function currentFilters() {
     hoaKnown: $('#fHoa').checked,
     byOwner: $('#fOwner').checked,
     finance: $('#fFinance').checked,
+    stream: $('#fStream').checked,
     onlyFav: $('#fFav').checked,
     list: $('#fList').value,
     q: $('#search').value.trim().toLowerCase(),
@@ -615,6 +627,7 @@ function apply() {
     if (f.hoaKnown && !(t.hoaKnown === true)) return false;
     if (f.byOwner && !t.byOwner) return false;
     if (f.finance && !t.ownerFinance) return false;
+    if (f.stream && !(t.water?.stream || t.water?.lakes?.length)) return false;
     return true;
   });
 
@@ -947,7 +960,7 @@ function setView(v) {
 
 function wire() {
   ['#fDrive', '#fPrice', '#fAcres', '#fCounty', '#fSort',
-   '#fNew', '#fCut', '#fPhoto', '#fConfirmed', '#fGroc', '#fFlood', '#fFav', '#fList', '#fHoa', '#fCity', '#fOwner', '#fFinance', '#fAcresMax'].forEach(sel =>
+   '#fNew', '#fCut', '#fPhoto', '#fConfirmed', '#fGroc', '#fFlood', '#fFav', '#fList', '#fHoa', '#fCity', '#fOwner', '#fFinance', '#fAcresMax', '#fStream'].forEach(sel =>
     $(sel).addEventListener('input', () => { syncOutputs(); apply(); }));
 
   let searchTimer;
@@ -969,7 +982,7 @@ function wire() {
     $('#fCounty').value = ''; $('#fSort').value = 'ppa';
     $('#fNew').checked = false; $('#fCut').checked = false;
     $('#fPhoto').checked = false; $('#fConfirmed').checked = false; $('#fFlood').checked = false;
-    $('#fFav').checked = false; $('#fList').value = ''; $('#fHoa').checked = false; $('#fOwner').checked = false; $('#fFinance').checked = false;
+    $('#fFav').checked = false; $('#fList').value = ''; $('#fHoa').checked = false; $('#fOwner').checked = false; $('#fFinance').checked = false; $('#fStream').checked = false;
     $('#search').value = '';
     syncOutputs(); apply();
   });

@@ -220,6 +220,16 @@ the 142 tracts without a boundary are Knox. The panel says so and links to KGIS.
 Boundaries are looked up once and carried forward (`parcel` on the tract; geometry in
 `data/parcels.json`, loaded by the page after first paint).
 
+## Streams and lakes (USGS)
+
+Every tract carries `water` from the **USGS National Hydrography Dataset**: the streams that
+cross its parcel boundary (year-round, seasonal or ephemeral, with the GNIS name where there
+is one) and any lake or reservoir touching it. Where there is no boundary the check is a
+~60 m box around the pin and the panel says so. The **Stream / water** filter keeps tracts
+with a year-round or seasonal stream, or lake frontage; ephemeral channels are shown in the
+panel but don't count. Looked up once (two queries per tract), carried forward, capped at
+300 a run.
+
 ## Flood zones (FEMA)
 
 Two things come from FEMA's **National Flood Hazard Layer**, the official source:

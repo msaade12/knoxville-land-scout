@@ -190,6 +190,7 @@ input[type=range]{width:100%;accent-color:var(--accent);margin:3px 0}
 .tag.cut{background:var(--cut);color:#fff}
 .tag.groc{background:#e7efe9;color:#2f6b4f}
 .tag.owner{background:#f3e6f7;color:#6a2c7a}
+.tag.water{background:#dceefb;color:#1d4f80}
 .tag.city{background:#e4ecf7;color:#2b4f85}
 .tag.terr{background:#efeae1;color:#6b5b45}
 .tag.unconf{background:#fff;color:var(--ink-3);border:1px dashed var(--line-2)}

@@ -479,6 +479,99 @@ def add_parcels(tracts):
     return done
 
 
+# ----------------------------------------------------------------- water ---
+
+NHD = "https://hydro.nationalmap.gov/arcgis/rest/services/nhd/MapServer/{}/query"
+WATER_CAP = int(os.environ.get("WATER_CAP", "300"))
+WATER_PAUSE = 0.4
+# NHD fcodes: 46006 perennial stream, 46003 intermittent, 46007 ephemeral,
+# 55800 artificial path (a river's line through a lake), 33600 canal/ditch,
+# 42800 pipeline. Only the first three count as a natural stream.
+STREAM_KIND = {46006: "year-round", 46003: "seasonal", 46007: "ephemeral"}
+
+
+def _nhd(layer, geom, gtype, fields, tries=3):
+    q = urllib.parse.urlencode({
+        "geometry": json.dumps(geom), "geometryType": gtype, "inSR": 4326,
+        "spatialRel": "esriSpatialRelIntersects", "outFields": fields,
+        "returnGeometry": "false", "f": "json"})
+    for attempt in range(tries):
+        try:
+            req = urllib.request.Request(NHD.format(layer), data=q.encode(),
+                                         headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                d = json.load(r)
+            if "error" in d:
+                raise RuntimeError(d["error"].get("message", "error"))
+            return d.get("features") or []
+        except Exception as e:                               # noqa: BLE001
+            if attempt == tries - 1:
+                log(f"  ! nhd: {e}")
+                return None
+            time.sleep(3 * (attempt + 1))
+
+
+def water_for(t, geoms):
+    """Streams crossing the parcel (or within ~60 m of the pin when there is
+    no boundary) and lakes/ponds touching it, from USGS NHD. Returns a dict
+    or None on failure."""
+    g = geoms.get(t["id"])
+    if g:
+        rings = g["coordinates"] if g["type"] == "Polygon" else g["coordinates"][0]
+        geom, gtype, how = {"rings": rings, "spatialReference": {"wkid": 4326}}, "esriGeometryPolygon", "parcel"
+    else:
+        d = 0.0006
+        geom, gtype, how = {"xmin": t["lon"] - d, "ymin": t["lat"] - d, "xmax": t["lon"] + d,
+                            "ymax": t["lat"] + d, "spatialReference": {"wkid": 4326}}, "esriGeometryEnvelope", "near pin"
+    fl = _nhd(6, geom, gtype, "gnis_name,fcode")
+    if fl is None:
+        return None
+    streams, seen = [], set()
+    for f in fl:
+        a = f["attributes"]
+        kind = STREAM_KIND.get(a.get("fcode"))
+        if not kind:
+            continue
+        key = ((a.get("gnis_name") or "").strip(), kind)
+        if key in seen:
+            continue
+        seen.add(key)
+        streams.append({"name": key[0] or None, "kind": kind})
+    time.sleep(WATER_PAUSE)
+    wb = _nhd(12, geom, gtype, "gnis_name,ftype")
+    lakes = []
+    if wb:
+        for f in wb:
+            a = f["attributes"]
+            if a.get("ftype") in (390, 436):          # LakePond, Reservoir
+                lakes.append({"name": (a.get("gnis_name") or "").strip() or None})
+    return {"streams": streams, "lakes": lakes, "how": how,
+            "stream": any(s["kind"] != "ephemeral" for s in streams)}
+
+
+def add_water(tracts, geoms):
+    todo = [t for t in tracts if t.get("geo") == "parcel"
+            and t.get("lat") is not None and "water" not in t]
+    if not todo:
+        return 0
+    log(f"water lookups needed: {len(todo)} (doing up to {WATER_CAP})")
+    done, streak = 0, 0
+    for t in todo[:WATER_CAP]:
+        r = water_for(t, geoms)
+        if r is None:
+            streak += 1
+            if streak >= 5:
+                log("  nhd: five failures running - stopping for this run")
+                break
+            continue
+        streak = 0
+        t["water"] = r
+        done += 1
+        time.sleep(WATER_PAUSE)
+    log(f"water lookups done: {done}")
+    return done
+
+
 # ----------------------------------------------------------- convenience ---
 
 def load_json(name, default):
@@ -1285,7 +1378,7 @@ def main():
             if old.get("baseline"):
                 t["baseline"] = True
             # Terrain and routing never change and cost API calls - carry them.
-            for k in ("gallery", "imgs", "hoaKnown", "byOwner", "ownerFinance", "parcel", "flood", "floodZone", "floodSub",
+            for k in ("gallery", "imgs", "hoaKnown", "byOwner", "ownerFinance", "parcel", "water", "flood", "floodZone", "floodSub",
                       "cityRoad", "cityMin", "cityName", "cityPop",
                       "slope", "elev", "relief", "shopRoad",
                       "shopMin", "shopName", "shopCity", "shopMi", "driveRoad"):
@@ -1393,6 +1486,9 @@ def main():
 
     # ---- the parcel itself: boundary, deeded acres, owner, assessor link --
     add_parcels(list(found.values()))
+
+    # ---- water: streams crossing the parcel, lakes touching it (USGS NHD) --
+    add_water(list(found.values()), load_json("parcels.json", {}))
 
     # ---- nearest town and everyday convenience (local data, recomputed) ----
     n = add_convenience(list(found.values()),
