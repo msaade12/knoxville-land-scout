@@ -1,10 +1,61 @@
 {
- "generated": "2026-09-16T20:46:39+00:00",
- "date": "2026-09-16",
+ "generated": "2026-09-17T11:41:22+00:00",
+ "date": "2026-09-17",
  "count": 825,
  "confirmed": 810,
  "new": [],
- "priceCuts": [],
+ "priceCuts": [
+  {
+   "id": "rf163609009",
+   "from": 50000,
+   "to": 45000,
+   "delta": -5000,
+   "acres": 0.28,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4517-Shane-Ln-37921/home/163609009"
+  },
+  {
+   "id": "rf202753987",
+   "from": 239900,
+   "to": 239800,
+   "delta": -100,
+   "acres": 2.06,
+   "town": "Friendsville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Friendsville/107-Long-Powers-Rd-37737/home/202753987"
+  },
+  {
+   "id": "rf202668825",
+   "from": 55000,
+   "to": 45000,
+   "delta": -10000,
+   "acres": 0.74,
+   "town": "Kingston",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Kingston/Lot-2-Malea-LN-37763/home/202668825"
+  },
+  {
+   "id": "rf103870456",
+   "from": 55000,
+   "to": 45000,
+   "delta": -10000,
+   "acres": 1.01,
+   "town": "Kingston",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Kingston/Fourth-St-37763/home/103870456"
+  },
+  {
+   "id": "rf87529599",
+   "from": 99000,
+   "to": 89000,
+   "delta": -10000,
+   "acres": 9.09,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/Waldo-Rd-37854/home/87529599"
+  }
+ ],
  "priceIncreases": [],
  "unconfirmed": [
   {
@@ -14,7 +65,7 @@
    "town": "Rockwood",
    "county": "Roane",
    "url": "https://www.redfin.com/TN/Rockwood/822-W-Bates-St-37854/home/103868729",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf197723905",
@@ -23,7 +74,7 @@
    "town": "Seymour",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Seymour/Reagan-Springs-Rd-37865/home/197723905",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf104134276",
@@ -32,7 +83,7 @@
    "town": "Sevierville",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Sevierville/Old-Hag-Hollow-Way-37876/home/104134276",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf201260285",
@@ -41,7 +92,7 @@
    "town": "Madisonville",
    "county": "Monroe",
    "url": "https://www.redfin.com/TN/Madisonville/6-Saffles-Ln-37354/home/201260285",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf190890927",
@@ -50,7 +101,7 @@
    "town": "Madisonville",
    "county": "Monroe",
    "url": "https://www.redfin.com/TN/Madisonville/3011-Ballplay-Rd-37354/home/190890927",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf111031104",
@@ -59,7 +110,7 @@
    "town": "Sevierville",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Sevierville/Mossy-Cove-Way-37876/home/111031104",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf180598739",
@@ -68,7 +119,7 @@
    "town": "Pittman Center",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Pittman-Center/Lot-24-Lakeshore-Ave-37876/home/180598739",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf111323141",
@@ -77,7 +128,7 @@
    "town": "Gatlinburg",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Gatlinburg/Branam-Hollow-Rd-37738/home/111323141",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf197723800",
@@ -86,7 +137,7 @@
    "town": "Sevierville",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Sevierville/Anderson-Way-37876/home/197723800",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf200792177",
@@ -95,7 +146,7 @@
    "town": "Harriman",
    "county": "Morgan",
    "url": "https://www.redfin.com/TN/Harriman/222-Heritage-Hills-Rd-37748/home/200792177",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf111408250",
@@ -104,7 +155,7 @@
    "town": "Sevierville",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Sevierville/873-Indian-Gap-Rd-37876/home/111408250",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf195543606",
@@ -113,7 +164,7 @@
    "town": "Maryville",
    "county": "Blount",
    "url": "https://www.redfin.com/TN/Maryville/4585-Crooked-Creek-Way-37803/home/195543606",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf111340069",
@@ -122,7 +173,7 @@
    "town": "Sevierville",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Sevierville/3910-Wilhite-Rd-37876/home/111340069",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf194042084",
@@ -131,7 +182,7 @@
    "town": "Sevierville",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Sevierville/340-Swadis-Dr-37876/home/194042084",
-   "missCount": 1
+   "missCount": 2
   }
  ],
  "retired": [],
