@@ -1,106 +1,107 @@
 {
- "generated": "2026-09-17T17:37:37+00:00",
- "date": "2026-09-17",
- "count": 825,
- "confirmed": 809,
+ "generated": "2026-09-18T17:04:48+00:00",
+ "date": "2026-09-18",
+ "count": 818,
+ "confirmed": 811,
  "new": [
   {
-   "id": "rf102972584",
-   "acres": 0.59,
-   "price": 99900,
-   "ppa": 169322,
+   "id": "rf205592512",
+   "acres": 0.2,
+   "price": 45000,
+   "ppa": 225000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/400-Bays-Mountain-Rd-37920/home/102972584"
+   "url": "https://www.redfin.com/TN/Knoxville/2463-Adams-Ave-37917/home/205592512"
+  },
+  {
+   "id": "rf205592492",
+   "acres": 0.18,
+   "price": 55000,
+   "ppa": 305556,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/2459-Adams-Ave-37917/home/205592492"
+  },
+  {
+   "id": "rf205592477",
+   "acres": 0.16,
+   "price": 45000,
+   "ppa": 281250,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/2455-Adams-Ave-37917/home/205592477"
+  },
+  {
+   "id": "rf205592449",
+   "acres": 0.18,
+   "price": 48000,
+   "ppa": 266667,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/2451-Adams-Ave-37917/home/205592449"
+  },
+  {
+   "id": "rf163374003",
+   "acres": 0.16,
+   "price": 70000,
+   "ppa": 437500,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/1922-Dodson-Ave-37917/home/163374003"
+  },
+  {
+   "id": "rf205598606",
+   "acres": 0.77,
+   "price": 39900,
+   "ppa": 51818,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/519-Sunflower-Cir-37874/home/205598606"
+  },
+  {
+   "id": "rf205587511",
+   "acres": 5.0,
+   "price": 99900,
+   "ppa": 19980,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/45-Old-Mine-Rd-37874/home/205587511"
   }
  ],
  "priceCuts": [
   {
-   "id": "rf163590925",
-   "from": 42000,
-   "to": 40000,
-   "delta": -2000,
-   "acres": 0.42,
+   "id": "rf163414278",
+   "from": 49000,
+   "to": 39000,
+   "delta": -10000,
+   "acres": 0.43,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2506-Shaler-Ln-37920/home/163590925"
+   "url": "https://www.redfin.com/TN/Knoxville/3010-Masters-Ln-37918/home/163414278"
   },
   {
-   "id": "rf205494821",
-   "from": 100000,
-   "to": 89000,
-   "delta": -11000,
-   "acres": 4.48,
+   "id": "rf174440407",
+   "from": 69900,
+   "to": 59900,
+   "delta": -10000,
+   "acres": 1.9,
    "town": "Dandridge",
    "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/2139-Stillhouse-Rd-37725/home/205494821"
+   "url": "https://www.redfin.com/TN/Dandridge/Lot-17-Waterstone-Dr-37725/home/174440407"
+  },
+  {
+   "id": "rf103864844",
+   "from": 67500,
+   "to": 65000,
+   "delta": -2500,
+   "acres": 1.36,
+   "town": "Harriman",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Harriman/222-Vann-Dr-37748/home/103864844"
   }
  ],
  "priceIncreases": [],
  "unconfirmed": [
-  {
-   "id": "rf103868729",
-   "acres": 10.7,
-   "price": 70000,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/822-W-Bates-St-37854/home/103868729",
-   "missCount": 2
-  },
-  {
-   "id": "rf197723905",
-   "acres": 21.0,
-   "price": 159900,
-   "town": "Seymour",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Seymour/Reagan-Springs-Rd-37865/home/197723905",
-   "missCount": 2
-  },
-  {
-   "id": "rf104134276",
-   "acres": 11.4,
-   "price": 88000,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Old-Hag-Hollow-Way-37876/home/104134276",
-   "missCount": 2
-  },
-  {
-   "id": "rf201260285",
-   "acres": 18.13,
-   "price": 149999,
-   "town": "Madisonville",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Madisonville/6-Saffles-Ln-37354/home/201260285",
-   "missCount": 2
-  },
-  {
-   "id": "rf190890927",
-   "acres": 19.82,
-   "price": 199000,
-   "town": "Madisonville",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Madisonville/3011-Ballplay-Rd-37354/home/190890927",
-   "missCount": 2
-  },
-  {
-   "id": "rf111031104",
-   "acres": 20.13,
-   "price": 207000,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Mossy-Cove-Way-37876/home/111031104",
-   "missCount": 2
-  },
-  {
-   "id": "rf180598739",
-   "acres": 16.6,
-   "price": 175000,
-   "town": "Pittman Center",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Pittman-Center/Lot-24-Lakeshore-Ave-37876/home/180598739",
-   "missCount": 2
-  },
   {
    "id": "cl91cd82ebed",
    "acres": 2.0,
@@ -108,7 +109,110 @@
    "town": "Rockwood",
    "county": "Roane",
    "url": "https://www.craigslist.org/view/d/rockwood-20-acres-vacant-land-for-sale/t5cNMxizQPbu8R44iArrUQ",
+   "missCount": 2
+  },
+  {
+   "id": "rf163590925",
+   "acres": 0.42,
+   "price": 40000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/2506-Shaler-Ln-37920/home/163590925",
    "missCount": 1
+  },
+  {
+   "id": "rf62972592",
+   "acres": 0.4,
+   "price": 39900,
+   "town": "Maryville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Maryville/4126-Legends-Way-37801/home/62972592",
+   "missCount": 1
+  },
+  {
+   "id": "rf203214418",
+   "acres": 2.2,
+   "price": 250000,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/2131-Sockless-Rd-37725/home/203214418",
+   "missCount": 1
+  },
+  {
+   "id": "rf205522794",
+   "acres": 0.55,
+   "price": 90000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/0-Lindy-Dr-37920/home/205522794",
+   "missCount": 1
+  },
+  {
+   "id": "rf87470499",
+   "acres": 0.12,
+   "price": 24900,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/1316-Minnesota-Ave-37921/home/87470499",
+   "missCount": 1
+  }
+ ],
+ "retired": [
+  {
+   "id": "rf103868729",
+   "acres": 10.7,
+   "price": 70000,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/822-W-Bates-St-37854/home/103868729"
+  },
+  {
+   "id": "rf197723905",
+   "acres": 21.0,
+   "price": 159900,
+   "town": "Seymour",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Seymour/Reagan-Springs-Rd-37865/home/197723905"
+  },
+  {
+   "id": "rf104134276",
+   "acres": 11.4,
+   "price": 88000,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/Old-Hag-Hollow-Way-37876/home/104134276"
+  },
+  {
+   "id": "rf201260285",
+   "acres": 18.13,
+   "price": 149999,
+   "town": "Madisonville",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Madisonville/6-Saffles-Ln-37354/home/201260285"
+  },
+  {
+   "id": "rf190890927",
+   "acres": 19.82,
+   "price": 199000,
+   "town": "Madisonville",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Madisonville/3011-Ballplay-Rd-37354/home/190890927"
+  },
+  {
+   "id": "rf111031104",
+   "acres": 20.13,
+   "price": 207000,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/Mossy-Cove-Way-37876/home/111031104"
+  },
+  {
+   "id": "rf180598739",
+   "acres": 16.6,
+   "price": 175000,
+   "town": "Pittman Center",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Pittman-Center/Lot-24-Lakeshore-Ave-37876/home/180598739"
   },
   {
    "id": "rf111323141",
@@ -116,8 +220,7 @@
    "price": 150000,
    "town": "Gatlinburg",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Gatlinburg/Branam-Hollow-Rd-37738/home/111323141",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Gatlinburg/Branam-Hollow-Rd-37738/home/111323141"
   },
   {
    "id": "rf197723800",
@@ -125,8 +228,7 @@
    "price": 194900,
    "town": "Sevierville",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Anderson-Way-37876/home/197723800",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Sevierville/Anderson-Way-37876/home/197723800"
   },
   {
    "id": "rf200792177",
@@ -134,8 +236,7 @@
    "price": 220000,
    "town": "Harriman",
    "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Harriman/222-Heritage-Hills-Rd-37748/home/200792177",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Harriman/222-Heritage-Hills-Rd-37748/home/200792177"
   },
   {
    "id": "rf111408250",
@@ -143,8 +244,7 @@
    "price": 227000,
    "town": "Sevierville",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/873-Indian-Gap-Rd-37876/home/111408250",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Sevierville/873-Indian-Gap-Rd-37876/home/111408250"
   },
   {
    "id": "rf195543606",
@@ -152,8 +252,7 @@
    "price": 199969,
    "town": "Maryville",
    "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/4585-Crooked-Creek-Way-37803/home/195543606",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Maryville/4585-Crooked-Creek-Way-37803/home/195543606"
   },
   {
    "id": "rf111340069",
@@ -161,8 +260,7 @@
    "price": 200000,
    "town": "Sevierville",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/3910-Wilhite-Rd-37876/home/111340069",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Sevierville/3910-Wilhite-Rd-37876/home/111340069"
   },
   {
    "id": "rf194042084",
@@ -170,21 +268,59 @@
    "price": 250000,
    "town": "Sevierville",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/340-Swadis-Dr-37876/home/194042084",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Sevierville/340-Swadis-Dr-37876/home/194042084"
   }
  ],
- "retired": [],
  "gone": [],
  "tooFar": [
   {
-   "id": "rf119104387",
-   "acres": 1.83,
+   "id": "rf63016801",
+   "acres": 2.0,
+   "price": 150000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/2441-Quail-Ridge-Ln-37920/home/63016801",
+   "drive": 25,
+   "shopMin": 19
+  },
+  {
+   "id": "rf111163948",
+   "acres": 5.0,
+   "price": 229900,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/Ravens-Den-Way-37862/home/111163948",
+   "drive": 58,
+   "shopMin": 24
+  },
+  {
+   "id": "rf111271525",
+   "acres": 5.4,
+   "price": 199000,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/Happy-Hollow-Rd-37862/home/111271525",
+   "drive": 55,
+   "shopMin": 20
+  },
+  {
+   "id": "rf181385286",
+   "acres": 0.49,
    "price": 55000,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/727-Rocky-Branch-Rd-37861/home/119104387",
-   "drive": 40,
+   "town": "Lafollette",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/LaFollette/Prestige-37766/home/181385286",
+   "drive": 67,
+   "shopMin": 28
+  },
+  {
+   "id": "rf191318828",
+   "acres": 5.02,
+   "price": 80000,
+   "town": "Lafollette",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/LaFollette/Lot-1-Road-37766/home/191318828",
+   "drive": 67,
    "shopMin": 28
   }
  ],

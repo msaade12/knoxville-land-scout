@@ -9974,5 +9974,35 @@
   "detail": "28 min to Walmart, Jefferson City",
   "on": "2026-09-17",
   "town": "Rutledge"
+ },
+ "rf63016801": {
+  "reason": "too far",
+  "detail": "19 min to Food City, Knoxville",
+  "on": "2026-09-18",
+  "town": "Knoxville"
+ },
+ "rf111163948": {
+  "reason": "too far",
+  "detail": "24 min to Publix, Pigeon Forge",
+  "on": "2026-09-18",
+  "town": "Sevierville"
+ },
+ "rf111271525": {
+  "reason": "too far",
+  "detail": "20 min to Publix, Pigeon Forge",
+  "on": "2026-09-18",
+  "town": "Sevierville"
+ },
+ "rf181385286": {
+  "reason": "too far",
+  "detail": "67 min to Knoxville",
+  "on": "2026-09-18",
+  "town": "Lafollette"
+ },
+ "rf191318828": {
+  "reason": "too far",
+  "detail": "67 min to Knoxville",
+  "on": "2026-09-18",
+  "town": "Lafollette"
  }
 }
