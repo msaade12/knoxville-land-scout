@@ -10004,5 +10004,11 @@
   "detail": "67 min to Knoxville",
   "on": "2026-09-18",
   "town": "Lafollette"
+ },
+ "rf205602820": {
+  "reason": "too far",
+  "detail": "16 min to Food City, Kingston",
+  "on": "2026-09-19",
+  "town": "Kingston"
  }
 }
