@@ -1,29 +1,117 @@
 {
- "generated": "2026-09-20T16:47:08+00:00",
- "date": "2026-09-20",
- "count": 814,
- "confirmed": 806,
- "new": [],
- "priceCuts": [],
+ "generated": "2026-09-21T18:40:13+00:00",
+ "date": "2026-09-21",
+ "count": 813,
+ "confirmed": 803,
+ "new": [
+  {
+   "id": "rf163577752",
+   "acres": 0.18,
+   "price": 29999,
+   "ppa": 166661,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/1105-Maryland-Ave-37921/home/163577752"
+  },
+  {
+   "id": "rf87523666",
+   "acres": 1.35,
+   "price": 29900,
+   "ppa": 22148,
+   "town": "Harriman",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Harriman/261-Harding-Rd-37748/home/87523666"
+  },
+  {
+   "id": "rf205615682",
+   "acres": 5.64,
+   "price": 189900,
+   "ppa": 33670,
+   "town": "Kingston",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Kingston/Browns-Peninsula-Tract-8-37763/home/205615682"
+  }
+ ],
+ "priceCuts": [
+  {
+   "id": "rf87487631",
+   "from": 235000,
+   "to": 225000,
+   "delta": -10000,
+   "acres": 2.4,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/3116-Soaring-Hawk-Way-37932/home/87487631"
+  },
+  {
+   "id": "rf203472641",
+   "from": 75000,
+   "to": 70000,
+   "delta": -5000,
+   "acres": 0.76,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4921-Wise-Hills-Rd-37920/unit-2/home/203472641"
+  },
+  {
+   "id": "rf203146151",
+   "from": 75000,
+   "to": 70000,
+   "delta": -5000,
+   "acres": 0.76,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4921-Wise-Hills-Rd-37920/unit-1/home/203146151"
+  },
+  {
+   "id": "rf62994500",
+   "from": 49950,
+   "to": 39950,
+   "delta": -10000,
+   "acres": 0.3,
+   "town": "Loudon",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Loudon/439-Chestnut-Ln-37774/home/62994500"
+  },
+  {
+   "id": "rf202019991",
+   "from": 99000,
+   "to": 90000,
+   "delta": -9000,
+   "acres": 5.08,
+   "town": "Talbott",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Talbott/S-Rushy-Springs-Rd-37877/home/202019991"
+  }
+ ],
  "priceIncreases": [],
  "unconfirmed": [
   {
-   "id": "rf205393367",
-   "acres": 15.69,
-   "price": 225000,
-   "town": "Oliver Springs",
-   "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Oliver-Springs/10414-Petros-Hwy-37840/home/205393367",
-   "missCount": 2
-  },
-  {
-   "id": "rf204631897",
-   "acres": 5.0,
-   "price": 99900,
+   "id": "rf87502448",
+   "acres": 13.67,
+   "price": 120000,
    "town": "Sweetwater",
    "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Sweetwater/46-Old-Mine-Rd-37874/home/204631897",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Sweetwater/Sweetwater-Vonore-Rd-37874/home/87502448",
+   "missCount": 1
+  },
+  {
+   "id": "rf63017523",
+   "acres": 12.14,
+   "price": 159000,
+   "town": "Maynardville",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Maynardville/Ailor-Gap-Rd-37807/home/63017523",
+   "missCount": 1
+  },
+  {
+   "id": "rf87491353",
+   "acres": 1.1,
+   "price": 34900,
+   "town": "La Follette",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/La-Follette/Martha-Lee-Ln-37766/home/87491353",
+   "missCount": 1
   },
   {
    "id": "rf205598606",
@@ -32,6 +120,15 @@
    "town": "Sweetwater",
    "county": "Monroe",
    "url": "https://www.redfin.com/TN/Sweetwater/519-Sunflower-Cir-37874/home/205598606",
+   "missCount": 2
+  },
+  {
+   "id": "rf183266822",
+   "acres": 0.36,
+   "price": 19900,
+   "town": "Bean Station",
+   "county": "Grainger",
+   "url": "https://www.redfin.com/TN/Bean-Station/Tbd-Sycamore-St-37708/home/183266822",
    "missCount": 1
   },
   {
@@ -41,25 +138,25 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/21-Cypress-Dr-37725/home/174439979",
+   "missCount": 2
+  },
+  {
+   "id": "rf103864842",
+   "acres": 0.34,
+   "price": 26000,
+   "town": "Harriman",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Harriman/Vann-Dr-37748/home/103864842",
    "missCount": 1
   },
   {
-   "id": "rf102116032",
-   "acres": 0.67,
-   "price": 70000,
+   "id": "rf145745007",
+   "acres": 0.45,
+   "price": 39000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/5016-Ridgemont-Dr-37918/home/102116032",
-   "missCount": 2
-  },
-  {
-   "id": "rf163419703",
-   "acres": 0.62,
-   "price": 70000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Ridgemont-Dr-37918/home/163419703",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/Silverhill-Dr-37921/home/145745007",
+   "missCount": 1
   },
   {
    "id": "rf124632223",
@@ -68,53 +165,56 @@
    "town": "Jefferson City",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Jefferson-City/192-Bicentennial-Dr-37760/home/124632223",
-   "missCount": 1
+   "missCount": 2
   }
  ],
  "retired": [
   {
-   "id": "rf163590925",
-   "acres": 0.42,
-   "price": 40000,
+   "id": "rf205393367",
+   "acres": 15.69,
+   "price": 225000,
+   "town": "Oliver Springs",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Oliver-Springs/10414-Petros-Hwy-37840/home/205393367"
+  },
+  {
+   "id": "rf204631897",
+   "acres": 5.0,
+   "price": 99900,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/46-Old-Mine-Rd-37874/home/204631897"
+  },
+  {
+   "id": "rf102116032",
+   "acres": 0.67,
+   "price": 70000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2506-Shaler-Ln-37920/home/163590925"
+   "url": "https://www.redfin.com/TN/Knoxville/5016-Ridgemont-Dr-37918/home/102116032"
   },
   {
-   "id": "rf62972592",
-   "acres": 0.4,
-   "price": 39900,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/4126-Legends-Way-37801/home/62972592"
-  },
-  {
-   "id": "rf203214418",
-   "acres": 2.2,
-   "price": 250000,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/2131-Sockless-Rd-37725/home/203214418"
-  },
-  {
-   "id": "rf205522794",
-   "acres": 0.55,
-   "price": 90000,
+   "id": "rf163419703",
+   "acres": 0.62,
+   "price": 70000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/0-Lindy-Dr-37920/home/205522794"
-  },
-  {
-   "id": "rf87470499",
-   "acres": 0.12,
-   "price": 24900,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1316-Minnesota-Ave-37921/home/87470499"
+   "url": "https://www.redfin.com/TN/Knoxville/Ridgemont-Dr-37918/home/163419703"
   }
  ],
  "gone": [],
- "tooFar": [],
+ "tooFar": [
+  {
+   "id": "rf145007682",
+   "acres": 2.2,
+   "price": 35000,
+   "town": "Sharps Chapel",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Sharps-Chapel/156-Lakeview-Dr-37866/home/145007682",
+   "drive": 69,
+   "shopMin": 34
+  }
+ ],
  "tooSteep": [],
  "rejected": [],
  "baseline": false
