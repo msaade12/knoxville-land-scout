@@ -10016,5 +10016,89 @@
   "detail": "69 min to Knoxville",
   "on": "2026-09-21",
   "town": "Sharps Chapel"
+ },
+ "rf87165758": {
+  "reason": "too far",
+  "detail": "23 min to Publix, Pigeon Forge",
+  "on": "2026-09-22",
+  "town": "Seymour"
+ },
+ "rf111317517": {
+  "reason": "too far",
+  "detail": "32 min to Publix, Pigeon Forge",
+  "on": "2026-09-22",
+  "town": "Sevierville"
+ },
+ "rf62971117": {
+  "reason": "too far",
+  "detail": "18 min to Food City, Newport",
+  "on": "2026-09-22",
+  "town": "Dandridge"
+ },
+ "rf111339823": {
+  "reason": "too far",
+  "detail": "18 min to Aldi, Sevierville",
+  "on": "2026-09-22",
+  "town": "Sevierville"
+ },
+ "rf64242753": {
+  "reason": "too far",
+  "detail": "22 min to Publix, Pigeon Forge",
+  "on": "2026-09-22",
+  "town": "Sevierville"
+ },
+ "rf205645070": {
+  "reason": "too far",
+  "detail": "16 min to Publix, Pigeon Forge",
+  "on": "2026-09-22",
+  "town": "Sevierville"
+ },
+ "rf111107190": {
+  "reason": "too far",
+  "detail": "19 min to Publix, Pigeon Forge",
+  "on": "2026-09-22",
+  "town": "Sevierville"
+ },
+ "rf111317026": {
+  "reason": "too far",
+  "detail": "23 min to Publix, Pigeon Forge",
+  "on": "2026-09-22",
+  "town": "Sevierville"
+ },
+ "rf62967824": {
+  "reason": "too far",
+  "detail": "26 min to Aldi, Sevierville",
+  "on": "2026-09-22",
+  "town": "Sevierville"
+ },
+ "rf87529928": {
+  "reason": "too far",
+  "detail": "17 min to Kroger, Harriman",
+  "on": "2026-09-22",
+  "town": "Harriman"
+ },
+ "rf103363656": {
+  "reason": "too far",
+  "detail": "75 min to Knoxville",
+  "on": "2026-09-22",
+  "town": "Tellico Plains"
+ },
+ "rf62964760": {
+  "reason": "too far",
+  "detail": "65 min to Knoxville",
+  "on": "2026-09-22",
+  "town": "Jacksboro"
+ },
+ "rf205626823": {
+  "reason": "too far",
+  "detail": "72 min to Knoxville",
+  "on": "2026-09-22",
+  "town": "Lafollette"
+ },
+ "rf205627544": {
+  "reason": "too far",
+  "detail": "83 min to Knoxville",
+  "on": "2026-09-22",
+  "town": "Deer Lodge"
  }
 }
