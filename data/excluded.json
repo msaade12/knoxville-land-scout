@@ -10100,5 +10100,23 @@
   "detail": "83 min to Knoxville",
   "on": "2026-09-22",
   "town": "Deer Lodge"
+ },
+ "rf111164516": {
+  "reason": "too far",
+  "detail": "24 min to Walmart, Sevierville",
+  "on": "2026-09-24",
+  "town": "Sevierville"
+ },
+ "rf196855964": {
+  "reason": "too far",
+  "detail": "82 min to Knoxville",
+  "on": "2026-09-24",
+  "town": "Sunbright"
+ },
+ "wt9eada7efd9": {
+  "reason": "too far",
+  "detail": "82 min to Knoxville",
+  "on": "2026-09-24",
+  "town": "Oneida"
  }
 }
