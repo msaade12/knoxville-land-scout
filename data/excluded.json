@@ -10118,5 +10118,23 @@
   "detail": "82 min to Knoxville",
   "on": "2026-09-24",
   "town": "Oneida"
+ },
+ "rf194218664": {
+  "reason": "too far",
+  "detail": "62 min to Knoxville",
+  "on": "2026-09-25",
+  "town": "Maynardville"
+ },
+ "rf67618485": {
+  "reason": "too far",
+  "detail": "61 min to Knoxville",
+  "on": "2026-09-25",
+  "town": "Cosby"
+ },
+ "rf205690152": {
+  "reason": "too far",
+  "detail": "80 min to Knoxville",
+  "on": "2026-09-25",
+  "town": "Deer Lodge"
  }
 }

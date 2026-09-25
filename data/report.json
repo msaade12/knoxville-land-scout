@@ -1,77 +1,103 @@
 {
- "generated": "2026-09-24T18:04:13+00:00",
- "date": "2026-09-24",
- "count": 815,
- "confirmed": 808,
+ "generated": "2026-09-25T18:03:27+00:00",
+ "date": "2026-09-25",
+ "count": 820,
+ "confirmed": 814,
  "new": [
   {
-   "id": "rf87140260",
-   "acres": 5.0,
-   "price": 225000,
-   "ppa": 45000,
-   "town": "Loudon",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Loudon/2255-Hubbard-Rd-37774/home/87140260"
+   "id": "rf63009209",
+   "acres": 0.38,
+   "price": 118000,
+   "ppa": 310526,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Lonas-Dr-37909/home/63009209"
   },
   {
-   "id": "rf205665498",
-   "acres": 5.02,
-   "price": 175000,
-   "ppa": 34861,
-   "town": "New Market",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/New-Market/Tract-9-W-Old-A-J-HWY-37820/home/205665498"
+   "id": "rf62974000",
+   "acres": 3.69,
+   "price": 74900,
+   "ppa": 20298,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Stock-Creek-Rd-37920/home/62974000"
   },
   {
-   "id": "rf87527060",
-   "acres": 8.73,
-   "price": 100000,
-   "ppa": 11455,
-   "town": "Rockwood",
+   "id": "rf205692533",
+   "acres": 0.71,
+   "price": 62000,
+   "ppa": 87324,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/S-B-Ogle-LN-37863/home/205692533"
+  },
+  {
+   "id": "rf205691125",
+   "acres": 0.71,
+   "price": 62000,
+   "ppa": 87324,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/SB-Ogle-Ln-37876/home/205691125"
+  },
+  {
+   "id": "rf205690920",
+   "acres": 0.4,
+   "price": 49000,
+   "ppa": 122500,
+   "town": "Pigeon Forge",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Pigeon-Forge/Progress-Hill-Blvd-37863/home/205690920"
+  },
+  {
+   "id": "rf205676554",
+   "acres": 1.33,
+   "price": 79990,
+   "ppa": 60143,
+   "town": "Seymour",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Seymour/Lot-2-E-Union-Valley-Rd-37865/home/205676554"
+  },
+  {
+   "id": "rf204678783",
+   "acres": 0.58,
+   "price": 20000,
+   "ppa": 34483,
+   "town": "Harriman",
    "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/Hall-St-37854/home/87527060"
+   "url": "https://www.redfin.com/TN/Harriman/630-Circle-Dr-37748/home/204678783"
   }
  ],
  "priceCuts": [
   {
-   "id": "rf63022666",
-   "from": 189000,
-   "to": 182000,
-   "delta": -7000,
-   "acres": 9.4,
-   "town": "Luttrell",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Luttrell/Keystown-Rd-37779/home/63022666"
+   "id": "rf170016417",
+   "from": 185000,
+   "to": 150000,
+   "delta": -35000,
+   "acres": 18.63,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/651-Mars-Hill-Rd-37923/home/170016417"
   },
   {
-   "id": "rf205494821",
-   "from": 89000,
-   "to": 75000,
-   "delta": -14000,
-   "acres": 4.48,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/2139-Stillhouse-Rd-37725/home/205494821"
+   "id": "rf87141553",
+   "from": 225000,
+   "to": 215000,
+   "delta": -10000,
+   "acres": 5.21,
+   "town": "Greenback",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Unknown/Unknown-37742/home/87141553"
   },
   {
-   "id": "rf185200057",
-   "from": 189000,
-   "to": 188000,
-   "delta": -1000,
-   "acres": 2.2,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Lot-3-Chestnut-Hill-Rd-37725/home/185200057"
-  },
-  {
-   "id": "rf62969890",
-   "from": 189000,
-   "to": 188000,
-   "delta": -1000,
-   "acres": 2.2,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Chestnut-Hill-Rd-37725/home/62969890"
+   "id": "rf102131659",
+   "from": 185000,
+   "to": 170000,
+   "delta": -15000,
+   "acres": 12.0,
+   "town": "Seymour",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Seymour/Unknown-37865/home/102131659"
   }
  ],
  "priceIncreases": [],
@@ -83,7 +109,7 @@
    "town": "Sevierville",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Sevierville/Jones-Cove-Rd-37876/home/183946844",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf205522979",
@@ -92,16 +118,16 @@
    "town": "Maynardville",
    "county": "Union",
    "url": "https://www.redfin.com/TN/Maynardville/Tract-1-Ousley-Gap-Rd-37807/home/205522979",
-   "missCount": 1
+   "missCount": 2
   },
   {
-   "id": "cl7f3d6b9f0a",
-   "acres": 6.0,
-   "price": 180000,
-   "town": "Seymour",
+   "id": "rf202246625",
+   "acres": 6.16,
+   "price": 174900,
+   "town": "Sevierville",
    "county": "Sevier",
-   "url": "https://www.craigslist.org/view/d/seymour-acres-unrestricted-sevier-county/ap8NvrLAaswPrpPRXVSbdD",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Sevierville/1-Pittman-Center-Rd-37876/home/202246625",
+   "missCount": 1
   },
   {
    "id": "rf205615682",
@@ -110,15 +136,6 @@
    "town": "Kingston",
    "county": "Roane",
    "url": "https://www.redfin.com/TN/Kingston/Browns-Peninsula-Tract-8-37763/home/205615682",
-   "missCount": 1
-  },
-  {
-   "id": "rf87523162",
-   "acres": 0.2,
-   "price": 10000,
-   "town": "Harriman",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/Mayberry-St-37748/home/87523162",
    "missCount": 2
   },
   {
@@ -128,90 +145,58 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/211-S-Patty-Rd-37924/home/144307100",
-   "missCount": 1
+   "missCount": 2
   }
  ],
  "retired": [
   {
-   "id": "rf104539174",
-   "acres": 14.95,
-   "price": 159000,
-   "town": "Lafollette",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/LaFollette/Lake-Drive-Ln-37766/home/104539174"
-  },
-  {
-   "id": "rf195330277",
-   "acres": 15.79,
-   "price": 229000,
-   "town": "Madisonville",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Madisonville/0-New-Highway-68-37354/home/195330277"
-  },
-  {
-   "id": "rf103864844",
-   "acres": 1.36,
-   "price": 65000,
-   "town": "Harriman",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/222-Vann-Dr-37748/home/103864844"
-  },
-  {
-   "id": "rf62901048",
-   "acres": 5.0,
-   "price": 250000,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Oak-Grove-Rd-37725/home/62901048"
-  },
-  {
-   "id": "rf62978374",
-   "acres": 0.74,
-   "price": 47500,
+   "id": "cl7f3d6b9f0a",
+   "acres": 6.0,
+   "price": 180000,
    "town": "Seymour",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Seymour/Mountain-Grove-Ln-37865/home/62978374"
+   "url": "https://www.craigslist.org/view/d/seymour-acres-unrestricted-sevier-county/ap8NvrLAaswPrpPRXVSbdD"
   },
   {
-   "id": "rf111329402",
-   "acres": 0.7,
-   "price": 150000,
-   "town": "Gatlinburg",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Gatlinburg/Ownby-Cir-37738/home/111329402"
+   "id": "rf87523162",
+   "acres": 0.2,
+   "price": 10000,
+   "town": "Harriman",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Harriman/Mayberry-St-37748/home/87523162"
   }
  ],
  "gone": [],
  "tooFar": [
   {
-   "id": "rf111164516",
-   "acres": 9.11,
-   "price": 219000,
-   "town": "Sevierville",
+   "id": "rf194218664",
+   "acres": 5.02,
+   "price": 250000,
+   "town": "Maynardville",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Unknown/Unknown-Unknown/home/194218664",
+   "drive": 62,
+   "shopMin": 27
+  },
+  {
+   "id": "rf67618485",
+   "acres": 4.76,
+   "price": 70000,
+   "town": "Cosby",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Unknown-37876/home/111164516",
-   "drive": 51,
-   "shopMin": 24
+   "url": "https://www.redfin.com/TN/Cosby/Yellow-Breeches-Rd-37722/home/67618485",
+   "drive": 61,
+   "shopMin": 23
   },
   {
-   "id": "rf196855964",
-   "acres": 23.0,
-   "price": 165000,
-   "town": "Sunbright",
+   "id": "rf205690152",
+   "acres": 5.19,
+   "price": 99500,
+   "town": "Deer Lodge",
    "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Sunbright/1521-Mill-Creek-Rd-37872/home/196855964",
-   "drive": 82,
-   "shopMin": 45
-  },
-  {
-   "id": "wt9eada7efd9",
-   "acres": 157.0,
-   "price": 165000,
-   "town": "Oneida",
-   "county": "Morgan",
-   "url": "https://www.whitetailproperties.com/hunting-land/tennessee/morgan/cabin-timber-retreat-with-hunting-lease-available-in-morgan-county-tn",
-   "drive": 82,
-   "shopMin": 45
+   "url": "https://www.redfin.com/TN/Deer-Lodge/126-Bo-s-Way-37726/home/205690152",
+   "drive": 80,
+   "shopMin": 31
   }
  ],
  "tooSteep": [],
