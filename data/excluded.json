@@ -10136,5 +10136,11 @@
   "detail": "80 min to Knoxville",
   "on": "2026-09-25",
   "town": "Deer Lodge"
+ },
+ "rf103874673": {
+  "reason": "too far",
+  "detail": "27 min to Food City, Kingston",
+  "on": "2026-09-26",
+  "town": "Ten Mile"
  }
 }
