@@ -10142,5 +10142,11 @@
   "detail": "27 min to Food City, Kingston",
   "on": "2026-09-26",
   "town": "Ten Mile"
+ },
+ "rf205703442": {
+  "reason": "too far",
+  "detail": "16 min to Food City, Newport",
+  "on": "2026-09-27",
+  "town": "Dandridge"
  }
 }

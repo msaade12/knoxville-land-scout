@@ -1,121 +1,20 @@
 {
- "generated": "2026-09-26T17:08:52+00:00",
- "date": "2026-09-26",
- "count": 827,
- "confirmed": 822,
+ "generated": "2026-09-27T17:43:46+00:00",
+ "date": "2026-09-27",
+ "count": 826,
+ "confirmed": 819,
  "new": [
   {
-   "id": "rf205696884",
-   "acres": 5.26,
-   "price": 249900,
-   "ppa": 47510,
-   "town": "Mascot",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Mascot/10816-Richland-Rd-37806/unit-24-89/home/205696884"
-  },
-  {
-   "id": "rf205696863",
-   "acres": 5.19,
-   "price": 249900,
-   "ppa": 48150,
-   "town": "Mascot",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Mascot/0000-Richland-Road-RD-37806/home/205696863"
-  },
-  {
-   "id": "rf112981467",
-   "acres": 5.45,
-   "price": 140900,
-   "ppa": 25853,
-   "town": "Powell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Powell/8200-Schroeder-Rd-37849/home/112981467"
-  },
-  {
-   "id": "rf102944282",
-   "acres": 0.17,
-   "price": 35000,
-   "ppa": 205882,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/218-Shipman-Dr-37918/home/102944282"
-  },
-  {
-   "id": "rf205703126",
-   "acres": 0.83,
-   "price": 45000,
-   "ppa": 54217,
-   "town": "Louisville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Louisville/Lot-31-Singleton-Station-Rd-37777/home/205703126"
-  },
-  {
-   "id": "rf205703108",
-   "acres": 0.91,
-   "price": 55000,
-   "ppa": 60440,
-   "town": "Louisville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Louisville/Lot-28-Singleton-Station-Rd-37777/home/205703108"
-  },
-  {
-   "id": "rf205703050",
-   "acres": 0.75,
-   "price": 110000,
-   "ppa": 146667,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/Lot-2R-1-Walker-Rd-37801/home/205703050"
-  },
-  {
-   "id": "rf197048683",
-   "acres": 3.93,
-   "price": 240000,
-   "ppa": 61069,
-   "town": "Walland",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Walland/4536-E-Lamar-Alexander-Pkwy-37886/home/197048683"
-  },
-  {
-   "id": "rf124463397",
-   "acres": 6.1,
-   "price": 120000,
-   "ppa": 19672,
-   "town": "White Pine",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/White-Pine/3509-Bell-Rd-37890/home/124463397"
-  },
-  {
-   "id": "rf205702277",
-   "acres": 6.88,
-   "price": 249000,
-   "ppa": 36192,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Swannsylvania-Rd-37725/unit-2/home/205702277"
-  },
-  {
-   "id": "rf205598606",
-   "acres": 0.77,
-   "price": 39900,
-   "ppa": 51818,
-   "town": "Sweetwater",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Sweetwater/519-Sunflower-Cir-37874/home/205598606"
+   "id": "rf205704323",
+   "acres": 0.24,
+   "price": 90000,
+   "ppa": 375000,
+   "town": "Gatlinburg",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Gatlinburg/Lot-15-Davenport-Rd-37738/home/205704323"
   }
  ],
- "priceCuts": [
-  {
-   "id": "rf124520358",
-   "from": 75000,
-   "to": 69000,
-   "delta": -6000,
-   "acres": 4.0,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/McGaha-Hollow-Rd-37725/home/124520358"
-  }
- ],
+ "priceCuts": [],
  "priceIncreases": [],
  "unconfirmed": [
   {
@@ -125,16 +24,16 @@
    "town": "Lafollette",
    "county": "Campbell",
    "url": "https://www.redfin.com/TN/LaFollette/Lot-93-Saddle-Ridge-DR-37766/home/198259152",
-   "missCount": 1
+   "missCount": 2
   },
   {
-   "id": "rf202246625",
-   "acres": 6.16,
-   "price": 174900,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/1-Pittman-Center-Rd-37876/home/202246625",
-   "missCount": 2
+   "id": "rf87526806",
+   "acres": 2.45,
+   "price": 99900,
+   "town": "Lenoir City",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Lenoir-City/Babbs-Rd-37771/home/87526806",
+   "missCount": 1
   },
   {
    "id": "rf87180670",
@@ -143,6 +42,15 @@
    "town": "Maryville",
    "county": "Blount",
    "url": "https://www.redfin.com/TN/Maryville/Sevier-Ave-37804/home/87180670",
+   "missCount": 2
+  },
+  {
+   "id": "rf205692533",
+   "acres": 0.71,
+   "price": 62000,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/S-B-Ogle-LN-37863/home/205692533",
    "missCount": 1
   },
   {
@@ -152,57 +60,51 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/1636-Leconte-Rd-37914/home/196137871",
+   "missCount": 2
+  },
+  {
+   "id": "rf103870260",
+   "acres": 0.32,
+   "price": 95000,
+   "town": "Harriman",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Harriman/3071-Roane-State-Hwy-37748/home/103870260",
    "missCount": 1
   }
  ],
  "retired": [
   {
-   "id": "rf183946844",
-   "acres": 26.36,
-   "price": 195000,
+   "id": "rf202246625",
+   "acres": 6.16,
+   "price": 174900,
    "town": "Sevierville",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Jones-Cove-Rd-37876/home/183946844"
-  },
-  {
-   "id": "rf205522979",
-   "acres": 9.98,
-   "price": 99900,
-   "town": "Maynardville",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Maynardville/Tract-1-Ousley-Gap-Rd-37807/home/205522979"
-  },
-  {
-   "id": "rf205615682",
-   "acres": 5.64,
-   "price": 189900,
-   "town": "Kingston",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Kingston/Browns-Peninsula-Tract-8-37763/home/205615682"
-  },
-  {
-   "id": "rf144307100",
-   "acres": 1.0,
-   "price": 75000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/211-S-Patty-Rd-37924/home/144307100"
+   "url": "https://www.redfin.com/TN/Sevierville/1-Pittman-Center-Rd-37876/home/202246625"
   }
  ],
  "gone": [],
  "tooFar": [
   {
-   "id": "rf103874673",
-   "acres": 0.42,
-   "price": 220000,
-   "town": "Ten Mile",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Ten-Mile/119-Cross-Winds-Rd-37880/home/103874673",
-   "drive": 60,
-   "shopMin": 27
+   "id": "rf205703442",
+   "acres": 5.02,
+   "price": 199000,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/Swannsylvania-Rd-37725/unit-4/home/205703442",
+   "drive": 47,
+   "shopMin": 16
   }
  ],
  "tooSteep": [],
- "rejected": [],
+ "rejected": [
+  {
+   "id": "rf205691125",
+   "acres": 0.71,
+   "price": 62000,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/SB-Ogle-Ln-37876/home/205691125"
+  }
+ ],
  "baseline": false
 }
