@@ -1,30 +1,51 @@
 {
- "generated": "2026-09-27T17:43:46+00:00",
- "date": "2026-09-27",
- "count": 826,
- "confirmed": 819,
+ "generated": "2026-09-28T17:59:44+00:00",
+ "date": "2026-09-28",
+ "count": 418,
+ "confirmed": 411,
  "new": [
   {
-   "id": "rf205704323",
-   "acres": 0.24,
-   "price": 90000,
-   "ppa": 375000,
-   "town": "Gatlinburg",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Gatlinburg/Lot-15-Davenport-Rd-37738/home/205704323"
+   "id": "rf179738926",
+   "acres": 20.0,
+   "price": 199900,
+   "ppa": 9995,
+   "town": "Oliver Springs",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Oliver-Springs/1525-Cove-Ln-37840/home/179738926"
   }
  ],
- "priceCuts": [],
+ "priceCuts": [
+  {
+   "id": "rf103002007",
+   "from": 39900,
+   "to": 37500,
+   "delta": -2400,
+   "acres": 1.13,
+   "town": "Maynardville",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Maynardville/Unknown-37807/home/103002007"
+  },
+  {
+   "id": "rf119015313",
+   "from": 24400,
+   "to": 23900,
+   "delta": -500,
+   "acres": 1.0,
+   "town": "Blaine",
+   "county": "Grainger",
+   "url": "https://www.redfin.com/TN/Blaine/Long-Acres-Rd-37709/home/119015313"
+  }
+ ],
  "priceIncreases": [],
  "unconfirmed": [
   {
-   "id": "rf198259152",
-   "acres": 1.04,
-   "price": 19900,
-   "town": "Lafollette",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/LaFollette/Lot-93-Saddle-Ridge-DR-37766/home/198259152",
-   "missCount": 2
+   "id": "rf112981467",
+   "acres": 5.45,
+   "price": 140900,
+   "town": "Powell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Powell/8200-Schroeder-Rd-37849/home/112981467",
+   "missCount": 1
   },
   {
    "id": "rf87526806",
@@ -33,16 +54,34 @@
    "town": "Lenoir City",
    "county": "Roane",
    "url": "https://www.redfin.com/TN/Lenoir-City/Babbs-Rd-37771/home/87526806",
+   "missCount": 2
+  },
+  {
+   "id": "rf205696863",
+   "acres": 5.19,
+   "price": 249900,
+   "town": "Mascot",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Mascot/0000-Richland-Road-RD-37806/home/205696863",
    "missCount": 1
   },
   {
-   "id": "rf87180670",
-   "acres": 5.08,
-   "price": 224999,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/Sevier-Ave-37804/home/87180670",
-   "missCount": 2
+   "id": "rf205676554",
+   "acres": 1.33,
+   "price": 79990,
+   "town": "Seymour",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Seymour/Lot-2-E-Union-Valley-Rd-37865/home/205676554",
+   "missCount": 1
+  },
+  {
+   "id": "rf202666878",
+   "acres": 0.53,
+   "price": 44900,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Lot-12-Vanhorn-Rd-NE-37918/home/202666878",
+   "missCount": 1
   },
   {
    "id": "rf205692533",
@@ -51,15 +90,6 @@
    "town": "Sevierville",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Sevierville/S-B-Ogle-LN-37863/home/205692533",
-   "missCount": 1
-  },
-  {
-   "id": "rf196137871",
-   "acres": 1.13,
-   "price": 140000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1636-Leconte-Rd-37914/home/196137871",
    "missCount": 2
   },
   {
@@ -69,42 +99,38 @@
    "town": "Harriman",
    "county": "Roane",
    "url": "https://www.redfin.com/TN/Harriman/3071-Roane-State-Hwy-37748/home/103870260",
-   "missCount": 1
+   "missCount": 2
   }
  ],
  "retired": [
   {
-   "id": "rf202246625",
-   "acres": 6.16,
-   "price": 174900,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/1-Pittman-Center-Rd-37876/home/202246625"
+   "id": "rf198259152",
+   "acres": 1.04,
+   "price": 19900,
+   "town": "Lafollette",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/LaFollette/Lot-93-Saddle-Ridge-DR-37766/home/198259152"
+  },
+  {
+   "id": "rf87180670",
+   "acres": 5.08,
+   "price": 224999,
+   "town": "Maryville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Maryville/Sevier-Ave-37804/home/87180670"
+  },
+  {
+   "id": "rf196137871",
+   "acres": 1.13,
+   "price": 140000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/1636-Leconte-Rd-37914/home/196137871"
   }
  ],
  "gone": [],
- "tooFar": [
-  {
-   "id": "rf205703442",
-   "acres": 5.02,
-   "price": 199000,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Swannsylvania-Rd-37725/unit-4/home/205703442",
-   "drive": 47,
-   "shopMin": 16
-  }
- ],
+ "tooFar": [],
  "tooSteep": [],
- "rejected": [
-  {
-   "id": "rf205691125",
-   "acres": 0.71,
-   "price": 62000,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/SB-Ogle-Ln-37876/home/205691125"
-  }
- ],
+ "rejected": [],
  "baseline": false
 }
