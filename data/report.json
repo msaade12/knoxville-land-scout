@@ -1,39 +1,56 @@
 {
- "generated": "2026-09-28T17:59:44+00:00",
+ "generated": "2026-09-28T20:08:57+00:00",
  "date": "2026-09-28",
- "count": 418,
- "confirmed": 411,
+ "count": 422,
+ "confirmed": 415,
  "new": [
   {
-   "id": "rf179738926",
-   "acres": 20.0,
-   "price": 199900,
-   "ppa": 9995,
-   "town": "Oliver Springs",
-   "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Oliver-Springs/1525-Cove-Ln-37840/home/179738926"
+   "id": "rf62999890",
+   "acres": 1.63,
+   "price": 75000,
+   "ppa": 46012,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Cochise-Dr-37918/home/62999890"
+  },
+  {
+   "id": "rf62892518",
+   "acres": 0.16,
+   "price": 40000,
+   "ppa": 250000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/1728-Massachusetts-Ave-37921/home/62892518"
+  },
+  {
+   "id": "rf87182084",
+   "acres": 0.9,
+   "price": 45000,
+   "ppa": 50000,
+   "town": "Maryville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Maryville/Melissa-Ln-37801/home/87182084"
+  },
+  {
+   "id": "rf205842990",
+   "acres": 0.52,
+   "price": 36900,
+   "ppa": 70962,
+   "town": "Lafollette",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/LaFollette/311-W-Chestnut-St-37766/home/205842990"
   }
  ],
  "priceCuts": [
   {
-   "id": "rf103002007",
-   "from": 39900,
-   "to": 37500,
-   "delta": -2400,
-   "acres": 1.13,
-   "town": "Maynardville",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Maynardville/Unknown-37807/home/103002007"
-  },
-  {
-   "id": "rf119015313",
-   "from": 24400,
-   "to": 23900,
-   "delta": -500,
-   "acres": 1.0,
-   "town": "Blaine",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Blaine/Long-Acres-Rd-37709/home/119015313"
+   "id": "rf185428729",
+   "from": 185000,
+   "to": 160000,
+   "delta": -25000,
+   "acres": 5.04,
+   "town": "Loudon",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Loudon/4600-Vonore-Rd-37774/home/185428729"
   }
  ],
  "priceIncreases": [],
@@ -102,32 +119,7 @@
    "missCount": 2
   }
  ],
- "retired": [
-  {
-   "id": "rf198259152",
-   "acres": 1.04,
-   "price": 19900,
-   "town": "Lafollette",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/LaFollette/Lot-93-Saddle-Ridge-DR-37766/home/198259152"
-  },
-  {
-   "id": "rf87180670",
-   "acres": 5.08,
-   "price": 224999,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/Sevier-Ave-37804/home/87180670"
-  },
-  {
-   "id": "rf196137871",
-   "acres": 1.13,
-   "price": 140000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1636-Leconte-Rd-37914/home/196137871"
-  }
- ],
+ "retired": [],
  "gone": [],
  "tooFar": [],
  "tooSteep": [],
