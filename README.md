@@ -9,25 +9,21 @@ Swept from Redfin every morning, mapped, and published free on GitHub Pages.
 
 ## What it does
 
-One scheduled run a day — the GitHub Action (`.github/workflows/daily.yml`) at 9:15am ET.
-Nothing runs on the owner's machine.
+One scheduled run a day — the GitHub Action (`.github/workflows/daily.yml`), scheduled for
+9:15am ET; GitHub often starts it a few hours late. **Nothing runs on the owner's machine.**
 
-**Zillow does not refresh.** It returns 403 to GitHub's servers (confirmed by the Probe
-workflow, which you can re-run from the Actions tab). The Zillow-sourced tracts already in the
-data are carried forward untouched — a run that could not consult Zillow never treats them as
-missing — and `scripts/daily-local.sh` still runs the full sweep with Zillow from any home
-connection if someone chooses to (`python3 scripts/sweep.py` does the same).
+**Zillow is off.** It returns 403 to GitHub's servers (confirmed by the Probe workflow,
+which you can re-run from the Actions tab), and the owner does not want anything running at
+home. The 406 Zillow-only listings, frozen since 16 Sep, were removed on 28 Sep 2026.
+`scripts/zillow.py` stays in the repo, dormant; `SWEEP_WITH_ZILLOW=1` turns it on for a run
+from a connection Zillow accepts.
 
 `scripts/sweep.py`:
 
-1. Pulls active vacant-land listings from **two sources**: Redfin's CSV export for the
-   12 counties, then Zillow's county land pages (`scripts/zillow.py`). Zillow's page
-   embeds every listing's coordinates and photo carousel, so no per-listing fetch is
-   needed. The two are matched as one parcel when county, price and acreage (±0.06)
-   agree: Zillow then supplies coordinates for a Redfin tract we only knew to the town,
-   revives an archived tract Redfin's export dropped, or — if Redfin never had it — adds
-   it with a `z…` id. Redfin's export omits whole MLS boards (Sevier County came back with
-   3 of 16); Zillow fills that gap.
+1. Pulls active land listings from Redfin's CSV export for the 12 counties, plus
+   Craigslist by-owner posts and Whitetail Properties (`scripts/sources.py`). Listings on
+   more than one site are matched as one parcel when county, price and acreage agree.
+   Redfin's export omits some MLS listings — with Zillow off, those are simply not seen.
 2. Filters to the criteria: 10+ acres, ≤ $250k, ACTIVE, no building square footage.
 3. Assigns each parcel to a county by point-in-polygon against `data/counties.json`.
 4. Diffs against the previous run — what's new, what changed price, what vanished.
@@ -131,7 +127,7 @@ data/anchors.json       174 anchor stores (Walmart, Kroger, Food City…) — wh
 data/stores.json        301 supermarkets of any kind — fallback when routing is unavailable
 photos/rf*.webp         one photo per listing, served same-origin
 scripts/sweep.py        the daily sweep — stdlib only, no dependencies
-scripts/zillow.py       Zillow county search: coordinates, status, photo carousel
+scripts/zillow.py       Zillow county search — dormant, off since 28 Sep (403 to GitHub)
 scripts/sources.py      Craigslist, Whitetail, Powell + Ayers auctions
 data/auctions.json      upcoming land auctions
 scripts/report.py       renders report.json as Markdown for the Actions summary
@@ -265,9 +261,9 @@ it this run. The site shows only verified tracts by default ("Verified only"). T
 inherited from the original archive on town-centre pins, or missing from the export — are
 **approx pin**: shown at the town centre, tagged *approx pin*, with **no** drive, shopping
 or terrain figures — those would be measured from the wrong spot. Nothing on a town-centre
-pin is routed, surveyed, or judged on distance. Each run tries to place them: first from
-Zillow (matched by county, price and acreage), then from up to 20 Redfin listing pages
-(Redfin serves a bot challenge to bursts, so this is slow and often yields nothing).
+pin is routed, surveyed, or judged on distance. Redfin's listing pages serve a bot challenge,
+so there is no automatic way to place them; they retire after 3 runs Redfin doesn't return
+them.
 
 ## What gets dropped, and why
 
@@ -287,13 +283,11 @@ The sweep distinguishes three very different things:
 
 ## Known gaps
 
-- **Redfin + Zillow only.** LandSearch, LandWatch, Land.com and LandsOfAmerica all
-  return 403 to non-browser requests; Redfin's listing pages serve a bot challenge to
-  anything beyond one request per session; Redfin's detail APIs are 403. Craigslist FSBO
-  and the auction houses are not swept. Owner-financing and by-owner flags came from
-  those sources, so those filters are not on the site.
-- **Galleries are hotlinked.** A Zillow-matched tract shows its whole carousel in the
-  viewer, served from `photos.zillowstatic.com`; only the primary photo is committed.
+- **No Zillow.** It blocks GitHub (403), and nothing runs on the owner's machine. Listings
+  that appear only on Zillow are not on this site. LandSearch, LandWatch, Land.com,
+  LandsOfAmerica and Homes.com also return 403; Redfin's listing pages serve a bot challenge.
+- **Galleries are hotlinked.** A few Redfin tracts matched to Zillow before 28 Sep show a
+  carousel served from `photos.zillowstatic.com`; only the primary photo is committed.
 - **Photos are one per listing.** Redfin's CDN serves the same image at every photo index
   for these land listings, so there is no gallery to pull.
 - **No parcel boundaries.** Redfin gives a point, not a polygon.

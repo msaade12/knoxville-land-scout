@@ -24,10 +24,9 @@ jobs:
           python-version: '3.12'
 
       - name: Sweep Redfin
-        # Zillow returns 403 to GitHub's servers, so this run is Redfin-only.
-        # The full sweep with Zillow runs from the owner's Mac (scripts/daily-local.sh).
+        # The only scheduled run. Redfin, Craigslist, Whitetail and the auctions;
+        # Zillow is off (it blocks GitHub). Nothing runs on the owner's machine.
         env:
-          SWEEP_SKIP_ZILLOW: "1"
           PAGE_FETCH_CAP: "0"
         run: python3 scripts/sweep.py
 
@@ -38,7 +37,7 @@ jobs:
         run: |
           git config user.name  "land-scout[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/tracts.json data/report.json data/excluded.json data/parcels.json photos
+          git add -A data photos
           if git diff --cached --quiet; then
             echo "Nothing changed — a quiet day is a cheap day."
             exit 0

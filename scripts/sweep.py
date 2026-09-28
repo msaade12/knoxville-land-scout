@@ -1330,11 +1330,12 @@ def main():
         log("FATAL: swept zero tracts - refusing to overwrite the archive.")
         return 2
 
-    # ---- second source ---------------------------------------------------
+    # ---- Zillow: off. It returns 403 to GitHub's servers, and the owner does
+    # not want anything running on a home machine, so its listings were
+    # removed on 28 Sep 2026. SWEEP_WITH_ZILLOW=1 turns it back on for a run
+    # from a connection Zillow accepts.
     zillow_covered = set()
-    if os.environ.get("SWEEP_SKIP_ZILLOW"):
-        log("zillow: skipped (SWEEP_SKIP_ZILLOW set)")
-    else:
+    if os.environ.get("SWEEP_WITH_ZILLOW"):
         zillow_covered = merge_zillow(found, prev, excluded, polys, stores)
     sources_covered = merge_sources(found, prev, excluded, polys, stores, today)
 
