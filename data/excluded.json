@@ -10148,5 +10148,59 @@
   "detail": "16 min to Food City, Newport",
   "on": "2026-09-27",
   "town": "Dandridge"
+ },
+ "rf205996291": {
+  "reason": "too far",
+  "detail": "19 min to Food City, Maryville",
+  "on": "2026-09-29",
+  "town": "Maryville"
+ },
+ "rf87918052": {
+  "reason": "too far",
+  "detail": "19 min to Walmart, Clinton",
+  "on": "2026-09-29",
+  "town": "Andersonville"
+ },
+ "rf87917631": {
+  "reason": "too far",
+  "detail": "63 min to Knoxville",
+  "on": "2026-09-29",
+  "town": "Sharps Chapel"
+ },
+ "rf87921071": {
+  "reason": "too far",
+  "detail": "25 min to Food City, Maynardville City Limits",
+  "on": "2026-09-29",
+  "town": "Sharps Chapel"
+ },
+ "rf103000975": {
+  "reason": "too far",
+  "detail": "66 min to Knoxville",
+  "on": "2026-09-29",
+  "town": "Sharps Chapel"
+ },
+ "rf62937353": {
+  "reason": "too far",
+  "detail": "22 min to Publix, Pigeon Forge",
+  "on": "2026-09-29",
+  "town": "Sevierville"
+ },
+ "rf104533814": {
+  "reason": "too far",
+  "detail": "85 min to Knoxville",
+  "on": "2026-09-29",
+  "town": "Newcomb"
+ },
+ "rf63001609": {
+  "reason": "too far",
+  "detail": "69 min to Knoxville",
+  "on": "2026-09-29",
+  "town": "Lafollette"
+ },
+ "rf87531824": {
+  "reason": "too far",
+  "detail": "86 min to Knoxville",
+  "on": "2026-09-29",
+  "town": "Robbins"
  }
 }
