@@ -10202,5 +10202,53 @@
   "detail": "86 min to Knoxville",
   "on": "2026-09-29",
   "town": "Robbins"
+ },
+ "rf204906907": {
+  "reason": "too far",
+  "detail": "22 min to Aldi, Sevierville",
+  "on": "2026-09-30",
+  "town": "Sevierville"
+ },
+ "rf204899281": {
+  "reason": "too far",
+  "detail": "22 min to Aldi, Sevierville",
+  "on": "2026-09-30",
+  "town": "Sevierville"
+ },
+ "rf204906898": {
+  "reason": "too far",
+  "detail": "22 min to Aldi, Sevierville",
+  "on": "2026-09-30",
+  "town": "Sevierville"
+ },
+ "rf204890801": {
+  "reason": "too far",
+  "detail": "22 min to Aldi, Sevierville",
+  "on": "2026-09-30",
+  "town": "Sevierville"
+ },
+ "rf204890790": {
+  "reason": "too far",
+  "detail": "22 min to Aldi, Sevierville",
+  "on": "2026-09-30",
+  "town": "Sevierville"
+ },
+ "rf196540846": {
+  "reason": "too far",
+  "detail": "63 min to Knoxville",
+  "on": "2026-09-30",
+  "town": "Philadelphia"
+ },
+ "rf103861524": {
+  "reason": "too far",
+  "detail": "61 min to Knoxville",
+  "on": "2026-09-30",
+  "town": "Kingston"
+ },
+ "rf206004946": {
+  "reason": "too far",
+  "detail": "86 min to Knoxville",
+  "on": "2026-09-30",
+  "town": "Robbins"
  }
 }
