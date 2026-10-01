@@ -10250,5 +10250,23 @@
   "detail": "86 min to Knoxville",
   "on": "2026-09-30",
   "town": "Robbins"
+ },
+ "rf200772823": {
+  "reason": "too far",
+  "detail": "16 min to Food City, Dandridge",
+  "on": "2026-10-01",
+  "town": "Dandridge"
+ },
+ "rf87527867": {
+  "reason": "too far",
+  "detail": "66 min to Knoxville",
+  "on": "2026-10-01",
+  "town": "Rockwood"
+ },
+ "rf189097349": {
+  "reason": "too far",
+  "detail": "91 min to Knoxville",
+  "on": "2026-10-01",
+  "town": "Reliance"
  }
 }
