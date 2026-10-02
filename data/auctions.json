@@ -1,18 +1,18 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "auctions": [
+  {
+   "name": "257+/- Acres Offered in 10 Tracts with Luxury Ranch Home, Barn, Pond and More",
+   "url": "https://www.ayersauctionrealty.com/auction/hwy231-rd-farm-land-home-for-sale-bedford-county-83171/details",
+   "when": "10/13/26",
+   "acres": 257.0,
+   "source": "Ayers Auction"
+  },
   {
    "name": "9 1/2 Acre Farm in 3 Tracts",
    "url": "https://www.ayersauctionrealty.com/auction/9-12-acre-farm-in-3-tracts-83874/details",
    "when": "",
    "acres": 2.0,
-   "source": "Ayers Auction"
-  },
-  {
-   "name": "257+/- Acres Offered in 10 Tracts with Luxury Ranch Home, Barn, Pond and More",
-   "url": "https://www.ayersauctionrealty.com/auction/hwy231-rd-farm-land-home-for-sale-bedford-county-83171/details",
-   "when": "",
-   "acres": 257.0,
    "source": "Ayers Auction"
   },
   {

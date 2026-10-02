@@ -10268,5 +10268,47 @@
   "detail": "91 min to Knoxville",
   "on": "2026-10-01",
   "town": "Reliance"
+ },
+ "rf62964873": {
+  "reason": "too far",
+  "detail": "34 min to Food City, Lenoir City",
+  "on": "2026-10-02",
+  "town": "Kingston"
+ },
+ "rf87528066": {
+  "reason": "too far",
+  "detail": "64 min to Knoxville",
+  "on": "2026-10-02",
+  "town": "Rockwood"
+ },
+ "rf87529779": {
+  "reason": "too far",
+  "detail": "66 min to Knoxville",
+  "on": "2026-10-02",
+  "town": "Rockwood"
+ },
+ "rf103873780": {
+  "reason": "too far",
+  "detail": "67 min to Knoxville",
+  "on": "2026-10-02",
+  "town": "Rockwood"
+ },
+ "rf200128062": {
+  "reason": "too far",
+  "detail": "72 min to Knoxville",
+  "on": "2026-10-02",
+  "town": "Wartburg"
+ },
+ "rf192146605": {
+  "reason": "too far",
+  "detail": "93 min to Knoxville",
+  "on": "2026-10-02",
+  "town": "Sunbright"
+ },
+ "cl53569b552b": {
+  "reason": "too far",
+  "detail": "24 min to Walmart, Newport",
+  "on": "2026-10-02",
+  "town": "Cosby"
  }
 }
