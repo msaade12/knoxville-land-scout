@@ -1,81 +1,41 @@
 {
- "generated": "2026-10-02T18:27:05+00:00",
- "date": "2026-10-02",
- "count": 430,
- "confirmed": 407,
+ "generated": "2026-10-03T17:14:48+00:00",
+ "date": "2026-10-03",
+ "count": 417,
+ "confirmed": 408,
  "new": [
   {
-   "id": "rf163526254",
-   "acres": 0.53,
-   "price": 45000,
-   "ppa": 84906,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Wilkesboro-Ln-37912/home/163526254"
+   "id": "rf102117022",
+   "acres": 0.52,
+   "price": 15000,
+   "ppa": 28846,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/119-Baker-Rd-37854/home/102117022"
   },
   {
-   "id": "rf172596293",
-   "acres": 0.87,
-   "price": 65000,
-   "ppa": 74713,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Lot-55-Oak-Lake-Dr-37876/home/172596293"
-  },
-  {
-   "id": "rf105454860",
-   "acres": 2.18,
-   "price": 135000,
-   "ppa": 61927,
-   "town": "Oakdale",
-   "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Oakdale/1783-Airport-Rd-37829/home/105454860"
+   "id": "rf103871194",
+   "acres": 1.37,
+   "price": 40000,
+   "ppa": 29197,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/1431-Mountain-View-Rd-37854/home/103871194"
   }
  ],
  "priceCuts": [
   {
-   "id": "rf193217944",
-   "from": 239900,
-   "to": 229900,
-   "delta": -10000,
-   "acres": 9.92,
+   "id": "rf160509665",
+   "from": 29750,
+   "to": 29500,
+   "delta": -250,
+   "acres": 0.34,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Unknown/9150-Brownlow-Newman-Ln-Unknown/home/193217944"
-  },
-  {
-   "id": "rf203472641",
-   "from": 70000,
-   "to": 65000,
-   "delta": -5000,
-   "acres": 0.76,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/4921-Wise-Hills-Rd-37920/unit-2/home/203472641"
-  },
-  {
-   "id": "rf203146151",
-   "from": 70000,
-   "to": 65000,
-   "delta": -5000,
-   "acres": 0.76,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/4921-Wise-Hills-Rd-37920/unit-1/home/203146151"
+   "url": "https://www.redfin.com/TN/Knoxville/901-Texas-Ave-37921/home/160509665"
   }
  ],
- "priceIncreases": [
-  {
-   "id": "rf206019891",
-   "from": 100000,
-   "to": 110000,
-   "delta": 10000,
-   "acres": 1.37,
-   "town": "Maynardville",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Maynardville/Little-Valley-Rd-37807/home/206019891"
-  }
- ],
+ "priceIncreases": [],
  "unconfirmed": [
   {
    "id": "rf205494821",
@@ -84,7 +44,7 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/2139-Stillhouse-Rd-37725/home/205494821",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf202019991",
@@ -93,15 +53,6 @@
    "town": "Talbott",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Talbott/S-Rushy-Springs-Rd-37877/home/202019991",
-   "missCount": 1
-  },
-  {
-   "id": "rf146135710",
-   "acres": 8.27,
-   "price": 153000,
-   "town": "Clinton",
-   "county": "Anderson",
-   "url": "https://www.redfin.com/TN/Clinton/211-Jason-Hovater-Way-37716/home/146135710",
    "missCount": 2
   },
   {
@@ -111,51 +62,6 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/Stock-Creek-Rd-37920/home/62974000",
-   "missCount": 1
-  },
-  {
-   "id": "rf102118424",
-   "acres": 6.05,
-   "price": 150000,
-   "town": "Oliver Springs",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Oliver-Springs/303-Charles-Butler-Rd-37840/home/102118424",
-   "missCount": 2
-  },
-  {
-   "id": "rf103002007",
-   "acres": 1.13,
-   "price": 37500,
-   "town": "Maynardville",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Maynardville/Unknown-37807/home/103002007",
-   "missCount": 2
-  },
-  {
-   "id": "rf190593558",
-   "acres": 2.55,
-   "price": 125000,
-   "town": "Greenback",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Greenback/Highway-95-N-37742/home/190593558",
-   "missCount": 2
-  },
-  {
-   "id": "rf87465354",
-   "acres": 0.9,
-   "price": 49900,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/7012-Terry-Dr-37924/home/87465354",
-   "missCount": 2
-  },
-  {
-   "id": "rf87141830",
-   "acres": 1.56,
-   "price": 94900,
-   "town": "Lenoir City",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Lenoir-City/Montview-Rd-37771/home/87141830",
    "missCount": 2
   },
   {
@@ -165,15 +71,6 @@
    "town": "Maryville",
    "county": "Blount",
    "url": "https://www.redfin.com/TN/Maryville/Rock-Hill-Rd-37804/home/109583233",
-   "missCount": 1
-  },
-  {
-   "id": "rf163446626",
-   "acres": 0.38,
-   "price": 34900,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Lilac-Ave-37914/home/163446626",
    "missCount": 2
   },
   {
@@ -183,7 +80,7 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/5016-Ridgemont-Dr-37918/home/102116032",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf163419703",
@@ -192,25 +89,16 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/Ridgemont-Dr-37918/home/163419703",
+   "missCount": 2
+  },
+  {
+   "id": "rf196137871",
+   "acres": 1.13,
+   "price": 134900,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/1636-Leconte-Rd-37914/home/196137871",
    "missCount": 1
-  },
-  {
-   "id": "rf189726494",
-   "acres": 0.7,
-   "price": 74900,
-   "town": "Madisonville",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Madisonville/271-Thompson-Rd-37354/home/189726494",
-   "missCount": 2
-  },
-  {
-   "id": "rf87182146",
-   "acres": 0.96,
-   "price": 119000,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/1273-Middlesettlements-Rd-37801/home/87182146",
-   "missCount": 2
   },
   {
    "id": "rf163416800",
@@ -219,7 +107,7 @@
    "town": "Powell",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Powell/1033-Crown-Ridge-Ln-37849/home/163416800",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf147613555",
@@ -228,7 +116,81 @@
    "town": "Powell",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Powell/1041-Crown-Ridge-Ln-37849/home/147613555",
-   "missCount": 1
+   "missCount": 2
+  }
+ ],
+ "retired": [
+  {
+   "id": "rf146135710",
+   "acres": 8.27,
+   "price": 153000,
+   "town": "Clinton",
+   "county": "Anderson",
+   "url": "https://www.redfin.com/TN/Clinton/211-Jason-Hovater-Way-37716/home/146135710"
+  },
+  {
+   "id": "rf102118424",
+   "acres": 6.05,
+   "price": 150000,
+   "town": "Oliver Springs",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Oliver-Springs/303-Charles-Butler-Rd-37840/home/102118424"
+  },
+  {
+   "id": "rf103002007",
+   "acres": 1.13,
+   "price": 37500,
+   "town": "Maynardville",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Maynardville/Unknown-37807/home/103002007"
+  },
+  {
+   "id": "rf190593558",
+   "acres": 2.55,
+   "price": 125000,
+   "town": "Greenback",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Greenback/Highway-95-N-37742/home/190593558"
+  },
+  {
+   "id": "rf87465354",
+   "acres": 0.9,
+   "price": 49900,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/7012-Terry-Dr-37924/home/87465354"
+  },
+  {
+   "id": "rf87141830",
+   "acres": 1.56,
+   "price": 94900,
+   "town": "Lenoir City",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Lenoir-City/Montview-Rd-37771/home/87141830"
+  },
+  {
+   "id": "rf163446626",
+   "acres": 0.38,
+   "price": 34900,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Lilac-Ave-37914/home/163446626"
+  },
+  {
+   "id": "rf189726494",
+   "acres": 0.7,
+   "price": 74900,
+   "town": "Madisonville",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Madisonville/271-Thompson-Rd-37354/home/189726494"
+  },
+  {
+   "id": "rf87182146",
+   "acres": 0.96,
+   "price": 119000,
+   "town": "Maryville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Maryville/1273-Middlesettlements-Rd-37801/home/87182146"
   },
   {
    "id": "rf87559716",
@@ -236,8 +198,7 @@
    "price": 99000,
    "town": "Oak Ridge",
    "county": "Anderson",
-   "url": "https://www.redfin.com/TN/Oak-Ridge/Claremont-Rd-37830/home/87559716",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Oak-Ridge/Claremont-Rd-37830/home/87559716"
   },
   {
    "id": "rf62989229",
@@ -245,8 +206,7 @@
    "price": 99900,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2405-Citadel-Ln-37922/home/62989229",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/2405-Citadel-Ln-37922/home/62989229"
   },
   {
    "id": "rf201629329",
@@ -254,8 +214,7 @@
    "price": 189900,
    "town": "Louisville",
    "county": "Blount",
-   "url": "https://www.redfin.com/TN/Louisville/3641-Louisville-Rd-37777/home/201629329",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Louisville/3641-Louisville-Rd-37777/home/201629329"
   },
   {
    "id": "rf163534686",
@@ -263,8 +222,7 @@
    "price": 69900,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2518-Ramona-St-37921/home/163534686",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/2518-Ramona-St-37921/home/163534686"
   },
   {
    "id": "rf104521424",
@@ -272,8 +230,7 @@
    "price": 134900,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/3821-Dance-Ave-37919/home/104521424",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/3821-Dance-Ave-37919/home/104521424"
   },
   {
    "id": "rf102951297",
@@ -281,107 +238,150 @@
    "price": 224900,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2400-Rim-St-37917/home/102951297",
-   "missCount": 2
-  }
- ],
- "retired": [
-  {
-   "id": "rf179738926",
-   "acres": 20.0,
-   "price": 199900,
-   "town": "Oliver Springs",
-   "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Oliver-Springs/1525-Cove-Ln-37840/home/179738926"
-  },
-  {
-   "id": "rf111164649",
-   "acres": 0.74,
-   "price": 47500,
-   "town": "Seymour",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Seymour/Mountain-Grove-Ln-37865/home/111164649"
-  },
-  {
-   "id": "rf87536940",
-   "acres": 1.4,
-   "price": 125000,
-   "town": "Oliver Springs",
-   "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Oliver-Springs/Cove-Ln-37840/home/87536940"
+   "url": "https://www.redfin.com/TN/Knoxville/2400-Rim-St-37917/home/102951297"
   }
  ],
  "gone": [],
  "tooFar": [
   {
-   "id": "rf62964873",
-   "acres": 0.46,
-   "price": 7900,
-   "town": "Kingston",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Kingston/Ridge-Dr-37763/home/62964873",
-   "drive": 57,
-   "shopMin": 34
+   "id": "rf194626903",
+   "acres": 0.49,
+   "price": 29900,
+   "town": "Baneberry",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Baneberry/13-Back-9-Dr-37890/home/194626903",
+   "drive": 52,
+   "shopMin": 17
   },
   {
-   "id": "rf87528066",
-   "acres": 0.52,
-   "price": 9900,
+   "id": "rf103362577",
+   "acres": 10.0,
+   "price": 90000,
+   "town": "Madisonville",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Madisonville/Fairview-Rd-37354/home/103362577",
+   "drive": 69,
+   "shopMin": 15
+  },
+  {
+   "id": "rf198253509",
+   "acres": 1.21,
+   "price": 41900,
    "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/Ledgerwood-Heights-Rd-37854/home/87528066",
-   "drive": 64,
-   "shopMin": 20
-  },
-  {
-   "id": "rf87529779",
-   "acres": 0.41,
-   "price": 6900,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/Lake-Overlook-Dr-37854/home/87529779",
-   "drive": 66,
-   "shopMin": 22
-  },
-  {
-   "id": "rf103873780",
-   "acres": 0.29,
-   "price": 4900,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/Lake-Overlook-Dr-37854/home/103873780",
-   "drive": 67,
-   "shopMin": 24
-  },
-  {
-   "id": "rf200128062",
-   "acres": 3.01,
-   "price": 74900,
-   "town": "Wartburg",
    "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Wartburg/1434-Catoosa-Rd-37887/home/200128062",
-   "drive": 72,
-   "shopMin": 36
+   "url": "https://www.redfin.com/TN/Rockwood/23-Lower-Rockwood-Rd-37854/home/198253509",
+   "drive": 55,
+   "shopMin": 17
   },
   {
-   "id": "rf192146605",
+   "id": "rf198252566",
+   "acres": 1.02,
+   "price": 40500,
+   "town": "Rockwood",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Rockwood/21-Lower-Rockwood-Rd-37854/home/198252566",
+   "drive": 55,
+   "shopMin": 17
+  },
+  {
+   "id": "rf198251185",
+   "acres": 1.34,
+   "price": 40900,
+   "town": "Rockwood",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Rockwood/19-Lower-Rockwood-Rd-37854/home/198251185",
+   "drive": 55,
+   "shopMin": 17
+  },
+  {
+   "id": "rf198251183",
+   "acres": 1.24,
+   "price": 38500,
+   "town": "Rockwood",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Rockwood/18-Lower-Rockwood-Rd-37854/home/198251183",
+   "drive": 55,
+   "shopMin": 17
+  },
+  {
+   "id": "rf198251098",
+   "acres": 1.06,
+   "price": 38900,
+   "town": "Rockwood",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Rockwood/17-Lower-Rockwood-Rd-37854/home/198251098",
+   "drive": 55,
+   "shopMin": 17
+  },
+  {
+   "id": "rf198251062",
+   "acres": 1.08,
+   "price": 39900,
+   "town": "Rockwood",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Rockwood/16-Lower-Rockwood-Rd-37854/home/198251062",
+   "drive": 55,
+   "shopMin": 17
+  },
+  {
+   "id": "rf198703668",
+   "acres": 1.04,
+   "price": 27900,
+   "town": "Rockwood",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Rockwood/15-Lower-Rockwood-Rd-37854/home/198703668",
+   "drive": 55,
+   "shopMin": 17
+  },
+  {
+   "id": "rf206045899",
    "acres": 17.06,
    "price": 93830,
    "town": "Sunbright",
    "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Sunbright/144-Gunter-Pl-37872/home/192146605",
+   "url": "https://www.redfin.com/TN/Sunbright/144-Gunter-Pl-37872/unit-4/home/206045899",
    "drive": 93,
    "shopMin": 38
   },
   {
-   "id": "cl53569b552b",
-   "acres": 12.0,
-   "price": 249900,
-   "town": "Cosby",
-   "county": "Sevier",
-   "url": "https://www.craigslist.org/view/d/cosby-12-acres-old-cabin-1400-month-no/3QuysGcGRonGm2rgqN1NeR",
-   "drive": 55,
-   "shopMin": 24
+   "id": "rf206045900",
+   "acres": 16.82,
+   "price": 92510,
+   "town": "Sunbright",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Sunbright/144-Gunter-Pl-37872/unit-3/home/206045900",
+   "drive": 93,
+   "shopMin": 38
+  },
+  {
+   "id": "rf206045919",
+   "acres": 19.51,
+   "price": 117060,
+   "town": "Sunbright",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Sunbright/144-Gunter-Pl-37872/unit-2/home/206045919",
+   "drive": 93,
+   "shopMin": 38
+  },
+  {
+   "id": "rf206045920",
+   "acres": 18.07,
+   "price": 99385,
+   "town": "Sunbright",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Sunbright/144-Gunter-Pl-37872/unit-1/home/206045920",
+   "drive": 93,
+   "shopMin": 38
+  },
+  {
+   "id": "rf206084262",
+   "acres": 10.77,
+   "price": 99900,
+   "town": "Deer Lodge",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Deer-Lodge/10-77-Ac-Valerie-Dr-37726/home/206084262",
+   "drive": 77,
+   "shopMin": 33
   }
  ],
  "tooSteep": [],

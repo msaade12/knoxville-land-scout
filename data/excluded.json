@@ -10310,5 +10310,89 @@
   "detail": "24 min to Walmart, Newport",
   "on": "2026-10-02",
   "town": "Cosby"
+ },
+ "rf194626903": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Newport",
+  "on": "2026-10-03",
+  "town": "Baneberry"
+ },
+ "rf103362577": {
+  "reason": "too far",
+  "detail": "69 min to Knoxville",
+  "on": "2026-10-03",
+  "town": "Madisonville"
+ },
+ "rf198253509": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Harriman",
+  "on": "2026-10-03",
+  "town": "Rockwood"
+ },
+ "rf198252566": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Harriman",
+  "on": "2026-10-03",
+  "town": "Rockwood"
+ },
+ "rf198251185": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Harriman",
+  "on": "2026-10-03",
+  "town": "Rockwood"
+ },
+ "rf198251183": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Harriman",
+  "on": "2026-10-03",
+  "town": "Rockwood"
+ },
+ "rf198251098": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Harriman",
+  "on": "2026-10-03",
+  "town": "Rockwood"
+ },
+ "rf198251062": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Harriman",
+  "on": "2026-10-03",
+  "town": "Rockwood"
+ },
+ "rf198703668": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Harriman",
+  "on": "2026-10-03",
+  "town": "Rockwood"
+ },
+ "rf206045899": {
+  "reason": "too far",
+  "detail": "93 min to Knoxville",
+  "on": "2026-10-03",
+  "town": "Sunbright"
+ },
+ "rf206045900": {
+  "reason": "too far",
+  "detail": "93 min to Knoxville",
+  "on": "2026-10-03",
+  "town": "Sunbright"
+ },
+ "rf206045919": {
+  "reason": "too far",
+  "detail": "93 min to Knoxville",
+  "on": "2026-10-03",
+  "town": "Sunbright"
+ },
+ "rf206045920": {
+  "reason": "too far",
+  "detail": "93 min to Knoxville",
+  "on": "2026-10-03",
+  "town": "Sunbright"
+ },
+ "rf206084262": {
+  "reason": "too far",
+  "detail": "77 min to Knoxville",
+  "on": "2026-10-03",
+  "town": "Deer Lodge"
  }
 }
