@@ -10394,5 +10394,11 @@
   "detail": "77 min to Knoxville",
   "on": "2026-10-03",
   "town": "Deer Lodge"
+ },
+ "rf206089319": {
+  "reason": "too far",
+  "detail": "23 min to Food City, Blaine",
+  "on": "2026-10-04",
+  "town": "Rutledge"
  }
 }
