@@ -10400,5 +10400,53 @@
   "detail": "23 min to Food City, Blaine",
   "on": "2026-10-04",
   "town": "Rutledge"
+ },
+ "rf206111197": {
+  "reason": "too far",
+  "detail": "16 min to Publix, Pigeon Forge",
+  "on": "2026-10-06",
+  "town": "Sevierville"
+ },
+ "rf200803427": {
+  "reason": "too far",
+  "detail": "76 min to Knoxville",
+  "on": "2026-10-06",
+  "town": "Tellico Plains"
+ },
+ "rf104554439": {
+  "reason": "too far",
+  "detail": "70 min to Knoxville",
+  "on": "2026-10-06",
+  "town": "La Follette"
+ },
+ "rf104531246": {
+  "reason": "too far",
+  "detail": "68 min to Knoxville",
+  "on": "2026-10-06",
+  "town": "Newcomb"
+ },
+ "rf197391122": {
+  "reason": "too far",
+  "detail": "64 min to Knoxville",
+  "on": "2026-10-06",
+  "town": "Pioneer"
+ },
+ "rf104529250": {
+  "reason": "too far",
+  "detail": "69 min to Knoxville",
+  "on": "2026-10-06",
+  "town": "La Follette"
+ },
+ "rf206089955": {
+  "reason": "too far",
+  "detail": "77 min to Knoxville",
+  "on": "2026-10-06",
+  "town": "Deer Lodge"
+ },
+ "rf193391509": {
+  "reason": "too far",
+  "detail": "18 min to Food City, Harriman",
+  "on": "2026-10-06",
+  "town": "Rockwood"
  }
 }
