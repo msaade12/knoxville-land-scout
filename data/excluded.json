@@ -10448,5 +10448,17 @@
   "detail": "18 min to Food City, Harriman",
   "on": "2026-10-06",
   "town": "Rockwood"
+ },
+ "rf176996142": {
+  "reason": "too far",
+  "detail": "20 min to Food City, Morristown",
+  "on": "2026-10-07",
+  "town": "Bean Station"
+ },
+ "rf87528085": {
+  "reason": "too far",
+  "detail": "19 min to Food City, Kingston",
+  "on": "2026-10-07",
+  "town": "Kingston"
  }
 }
