@@ -10460,5 +10460,29 @@
   "detail": "19 min to Food City, Kingston",
   "on": "2026-10-07",
   "town": "Kingston"
+ },
+ "rf206159983": {
+  "reason": "too far",
+  "detail": "21 min to Food City, Maynardville City Limits",
+  "on": "2026-10-08",
+  "town": "Sharps Chapel"
+ },
+ "rf124458782": {
+  "reason": "too far",
+  "detail": "16 min to Food City, Newport",
+  "on": "2026-10-08",
+  "town": "Dandridge"
+ },
+ "rf62989738": {
+  "reason": "too far",
+  "detail": "21 min to Publix, Pigeon Forge",
+  "on": "2026-10-08",
+  "town": "Sevierville"
+ },
+ "rf103872549": {
+  "reason": "too far",
+  "detail": "62 min to Knoxville",
+  "on": "2026-10-08",
+  "town": "Rockwood"
  }
 }
