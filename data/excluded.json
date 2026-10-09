@@ -10484,5 +10484,41 @@
   "detail": "62 min to Knoxville",
   "on": "2026-10-08",
   "town": "Rockwood"
+ },
+ "rf206176169": {
+  "reason": "too far",
+  "detail": "65 min to Knoxville",
+  "on": "2026-10-09",
+  "town": "Sharps Chapel"
+ },
+ "rf202221619": {
+  "reason": "too far",
+  "detail": "20 min to Food City, Sevier",
+  "on": "2026-10-09",
+  "town": "Seymour"
+ },
+ "rf175561299": {
+  "reason": "too far",
+  "detail": "24 min to Walmart, Lenoir City",
+  "on": "2026-10-09",
+  "town": "Loudon"
+ },
+ "rf206177488": {
+  "reason": "too far",
+  "detail": "71 min to Knoxville",
+  "on": "2026-10-09",
+  "town": "Vonore"
+ },
+ "rf129836994": {
+  "reason": "too far",
+  "detail": "75 min to Knoxville",
+  "on": "2026-10-09",
+  "town": "Speedwell"
+ },
+ "rf107682690": {
+  "reason": "too far",
+  "detail": "77 min to Knoxville",
+  "on": "2026-10-09",
+  "town": "Lafollette"
  }
 }
