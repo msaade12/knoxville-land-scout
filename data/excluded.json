@@ -10520,5 +10520,11 @@
   "detail": "77 min to Knoxville",
   "on": "2026-10-09",
   "town": "Lafollette"
+ },
+ "rf103362650": {
+  "reason": "too far",
+  "detail": "66 min to Knoxville",
+  "on": "2026-10-10",
+  "town": "Madisonville"
  }
 }
