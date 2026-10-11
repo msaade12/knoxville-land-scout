@@ -1,40 +1,31 @@
 {
- "generated": "2026-10-10T17:50:22+00:00",
- "date": "2026-10-10",
- "count": 424,
+ "generated": "2026-10-11T18:06:22+00:00",
+ "date": "2026-10-11",
+ "count": 422,
  "confirmed": 416,
  "new": [
   {
-   "id": "rf206194748",
-   "acres": 0.65,
-   "price": 129900,
-   "ppa": 199846,
-   "town": "Kimberlin Heights",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Kimberlin-Heights/Undisclosed-address-37920/home/206194748"
-  },
-  {
-   "id": "rf206188390",
-   "acres": 1.25,
-   "price": 199000,
-   "ppa": 159200,
+   "id": "rf163607279",
+   "acres": 0.39,
+   "price": 67900,
+   "ppa": 174103,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1134-Tarklin-Valley-Rd-37920/home/206188390"
-  },
-  {
-   "id": "rf163448966",
-   "acres": 4.02,
-   "price": 225000,
-   "ppa": 55970,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/4910-Sparks-Rd-37931/home/163448966"
+   "url": "https://www.redfin.com/TN/Knoxville/3109-Landview-Dr-37914/home/163607279"
   }
  ],
  "priceCuts": [],
  "priceIncreases": [],
  "unconfirmed": [
+  {
+   "id": "rf184917339",
+   "acres": 8.45,
+   "price": 79900,
+   "town": "Rocky Top",
+   "county": "Anderson",
+   "url": "https://www.redfin.com/TN/Rocky-Top/Strong-Hollow-Ln-37769/home/184917339",
+   "missCount": 1
+  },
   {
    "id": "rf183950895",
    "acres": 5.01,
@@ -42,7 +33,7 @@
    "town": "Madisonville",
    "county": "Monroe",
    "url": "https://www.redfin.com/TN/Madisonville/30-Ballplay-Rd-37354/home/183950895",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf174440407",
@@ -51,7 +42,7 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/Lot-17-Waterstone-Dr-37725/home/174440407",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf204678783",
@@ -60,7 +51,7 @@
    "town": "Harriman",
    "county": "Roane",
    "url": "https://www.redfin.com/TN/Harriman/360-Circle-Dr-37748/home/204678783",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf197638599",
@@ -69,7 +60,7 @@
    "town": "Powell",
    "county": "Anderson",
    "url": "https://www.redfin.com/TN/Powell/250-Wells-Rd-37849/home/197638599",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf87462900",
@@ -78,16 +69,17 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/5817-Ridgewood-Rd-37918/home/87462900",
-   "missCount": 1
-  },
+   "missCount": 2
+  }
+ ],
+ "retired": [
   {
    "id": "rf62970672",
    "acres": 1.46,
    "price": 199900,
    "town": "Clinton",
    "county": "Anderson",
-   "url": "https://www.redfin.com/TN/Clinton/Harbour-Dr-37716/home/62970672",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Clinton/Harbour-Dr-37716/home/62970672"
   },
   {
    "id": "rf103869569",
@@ -95,8 +87,7 @@
    "price": 189900,
    "town": "Rockwood",
    "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/706-N-Gateway-Ave-37854/home/103869569",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Rockwood/706-N-Gateway-Ave-37854/home/103869569"
   },
   {
    "id": "rf111137360",
@@ -104,65 +95,11 @@
    "price": 150000,
    "town": "Gatlinburg",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Gatlinburg/431-W-Loop-Rd-37738/home/111137360",
-   "missCount": 2
-  }
- ],
- "retired": [
-  {
-   "id": "rf205524336",
-   "acres": 1.51,
-   "price": 38000,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/103-Docks-of-the-Bay-Dr-37854/home/205524336"
-  },
-  {
-   "id": "rf104539286",
-   "acres": 5.5,
-   "price": 205000,
-   "town": "La Follette",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/La-Follette/1573-Demory-Rd-37766/home/104539286"
-  },
-  {
-   "id": "rf205842990",
-   "acres": 0.52,
-   "price": 36900,
-   "town": "Lafollette",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/LaFollette/311-W-Chestnut-St-37766/home/205842990"
-  },
-  {
-   "id": "rf206008248",
-   "acres": 1.38,
-   "price": 124900,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/4745-Morganton-Rd-37801/home/206008248"
-  },
-  {
-   "id": "rf204691382",
-   "acres": 0.39,
-   "price": 65000,
-   "town": "Gatlinburg",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Gatlinburg/154-Gatlin-Dr-37738/home/204691382"
+   "url": "https://www.redfin.com/TN/Gatlinburg/431-W-Loop-Rd-37738/home/111137360"
   }
  ],
  "gone": [],
- "tooFar": [
-  {
-   "id": "rf103362650",
-   "acres": 5.0,
-   "price": 99900,
-   "town": "Madisonville",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Madisonville/Big-Creek-Rd-37354/home/103362650",
-   "drive": 66,
-   "shopMin": 11
-  }
- ],
+ "tooFar": [],
  "tooSteep": [],
  "rejected": [],
  "baseline": false
