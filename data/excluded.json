@@ -10526,5 +10526,11 @@
   "detail": "66 min to Knoxville",
   "on": "2026-10-10",
   "town": "Madisonville"
+ },
+ "rf87532727": {
+  "reason": "too far",
+  "detail": "82 min to Knoxville",
+  "on": "2026-10-13",
+  "town": "Deer Lodge"
  }
 }
