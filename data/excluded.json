@@ -10532,5 +10532,41 @@
   "detail": "82 min to Knoxville",
   "on": "2026-10-13",
   "town": "Deer Lodge"
+ },
+ "rf206240047": {
+  "reason": "too far",
+  "detail": "17 min to Publix, Pigeon Forge",
+  "on": "2026-10-14",
+  "town": "Sevierville"
+ },
+ "rf192189176": {
+  "reason": "too far",
+  "detail": "16 min to Food City, Pigeon Forge",
+  "on": "2026-10-14",
+  "town": "Pigeon Forge"
+ },
+ "rf197240375": {
+  "reason": "too far",
+  "detail": "21 min to Food City, Harriman",
+  "on": "2026-10-14",
+  "town": "Rockwood"
+ },
+ "rf103861469": {
+  "reason": "too far",
+  "detail": "62 min to Knoxville",
+  "on": "2026-10-14",
+  "town": "Kingston"
+ },
+ "rf206249802": {
+  "reason": "too far",
+  "detail": "65 min to Knoxville",
+  "on": "2026-10-14",
+  "town": "Madisonville"
+ },
+ "rf201531721": {
+  "reason": "too far",
+  "detail": "77 min to Knoxville",
+  "on": "2026-10-14",
+  "town": "Tellico Plains"
  }
 }
