@@ -10568,5 +10568,17 @@
   "detail": "77 min to Knoxville",
   "on": "2026-10-14",
   "town": "Tellico Plains"
+ },
+ "rf206364937": {
+  "reason": "too far",
+  "detail": "18 min to Food City, Maynardville City Limits",
+  "on": "2026-10-16",
+  "town": "Maynardville"
+ },
+ "rf87490485": {
+  "reason": "too far",
+  "detail": "74 min to Knoxville",
+  "on": "2026-10-16",
+  "town": "Duff"
  }
 }
