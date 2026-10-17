@@ -10580,5 +10580,11 @@
   "detail": "74 min to Knoxville",
   "on": "2026-10-16",
   "town": "Duff"
+ },
+ "rf62922213": {
+  "reason": "too far",
+  "detail": "71 min to Knoxville",
+  "on": "2026-10-17",
+  "town": "Deer Lodge"
  }
 }
