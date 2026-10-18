@@ -1,58 +1,22 @@
 {
- "generated": "2026-10-17T16:34:52+00:00",
- "date": "2026-10-17",
- "count": 438,
+ "generated": "2026-10-18T16:30:58+00:00",
+ "date": "2026-10-18",
+ "count": 434,
  "confirmed": 428,
  "new": [
   {
-   "id": "rf189953351",
-   "acres": 0.62,
-   "price": 58000,
-   "ppa": 93548,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/3500-Arrow-Dr-37914/home/189953351"
-  },
-  {
-   "id": "rf206371233",
-   "acres": 12.71,
-   "price": 250000,
-   "ppa": 19670,
-   "town": "Powell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Powell/Lot-3-Conner-Rd-37849/home/206371233"
-  },
-  {
-   "id": "rf124723143",
-   "acres": 6.2,
-   "price": 249900,
-   "ppa": 40306,
-   "town": "Jefferson City",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Jefferson-City/E-Old-Andrew-Johnson-Hwy-37760/home/124723143"
-  },
-  {
-   "id": "rf111328459",
-   "acres": 12.04,
-   "price": 199900,
-   "ppa": 16603,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/2345-Paradise-Way-37876/home/111328459"
+   "id": "cl1f992afea9",
+   "acres": 10.7,
+   "price": 70000,
+   "ppa": 6542,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.craigslist.org/view/d/rockwood-107-acres-wooded-land-for-sale/kyCcuQmQFrAUeKkDGsZs9z"
   }
  ],
  "priceCuts": [],
  "priceIncreases": [],
  "unconfirmed": [
-  {
-   "id": "rf197562205",
-   "acres": 42.39,
-   "price": 224900,
-   "town": "Luttrell",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Luttrell/560-Prospect-Rd-37779/home/197562205",
-   "missCount": 2
-  },
   {
    "id": "rf205598606",
    "acres": 0.77,
@@ -60,7 +24,7 @@
    "town": "Sweetwater",
    "county": "Monroe",
    "url": "https://www.redfin.com/TN/Sweetwater/519-Sunflower-Cir-37874/home/205598606",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf87165379",
@@ -69,7 +33,7 @@
    "town": "Maryville",
    "county": "Blount",
    "url": "https://www.redfin.com/TN/Maryville/Ridge-Rd-37803/home/87165379",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf62886013",
@@ -78,6 +42,15 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/7120-Terry-Dr-37924/home/62886013",
+   "missCount": 2
+  },
+  {
+   "id": "rf189953351",
+   "acres": 0.62,
+   "price": 58000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/3500-Arrow-Dr-37914/home/189953351",
    "missCount": 1
   },
   {
@@ -87,42 +60,6 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/4210-Skyline-Dr-37914/home/163607533",
-   "missCount": 1
-  },
-  {
-   "id": "rf63014150",
-   "acres": 1.04,
-   "price": 119000,
-   "town": "Harriman",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/2-Bowman-Bend-Rd-37748/home/63014150",
-   "missCount": 2
-  },
-  {
-   "id": "rf163547854",
-   "acres": 0.5,
-   "price": 75000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/301-Wilona-Ln-37922/home/163547854",
-   "missCount": 2
-  },
-  {
-   "id": "rf102945930",
-   "acres": 0.41,
-   "price": 113000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2919-Edgewood-Ave-37917/home/102945930",
-   "missCount": 2
-  },
-  {
-   "id": "rf163596540",
-   "acres": 0.23,
-   "price": 72000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/4432-Earl-Bryan-St-37938/home/163596540",
    "missCount": 2
   },
   {
@@ -132,48 +69,53 @@
    "town": "La Follette",
    "county": "Campbell",
    "url": "https://www.redfin.com/TN/La-Follette/105-W-Ash-St-37766/home/62921118",
-   "missCount": 1
+   "missCount": 2
   }
  ],
  "retired": [
   {
-   "id": "rf202237946",
-   "acres": 7.39,
-   "price": 250000,
+   "id": "rf197562205",
+   "acres": 42.39,
+   "price": 224900,
    "town": "Luttrell",
    "county": "Union",
-   "url": "https://www.redfin.com/TN/Luttrell/130-Donahue-Rd-37779/home/202237946"
+   "url": "https://www.redfin.com/TN/Luttrell/560-Prospect-Rd-37779/home/197562205"
   },
   {
-   "id": "rf163448966",
-   "acres": 4.02,
-   "price": 225000,
+   "id": "rf63014150",
+   "acres": 1.04,
+   "price": 119000,
+   "town": "Harriman",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Harriman/2-Bowman-Bend-Rd-37748/home/63014150"
+  },
+  {
+   "id": "rf163547854",
+   "acres": 0.5,
+   "price": 75000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/4910-Sparks-Rd-37931/home/163448966"
+   "url": "https://www.redfin.com/TN/Knoxville/301-Wilona-Ln-37922/home/163547854"
   },
   {
-   "id": "cl1cb462daf0",
-   "acres": 2.0,
-   "price": 199999,
-   "town": "Norris",
-   "county": "Anderson",
-   "url": "https://www.craigslist.org/view/d/norris-acres-in-andersonville/wjLeNZwHNWAKfu7hQgz3eB"
+   "id": "rf102945930",
+   "acres": 0.41,
+   "price": 113000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/2919-Edgewood-Ave-37917/home/102945930"
+  },
+  {
+   "id": "rf163596540",
+   "acres": 0.23,
+   "price": 72000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4432-Earl-Bryan-St-37938/home/163596540"
   }
  ],
  "gone": [],
- "tooFar": [
-  {
-   "id": "rf62922213",
-   "acres": 4.5,
-   "price": 38000,
-   "town": "Deer Lodge",
-   "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Deer-Lodge/Deer-Lodge-Hwy-37726/home/62922213",
-   "drive": 71,
-   "shopMin": 35
-  }
- ],
+ "tooFar": [],
  "tooSteep": [],
  "rejected": [],
  "baseline": false
