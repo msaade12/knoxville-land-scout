@@ -1,48 +1,106 @@
 {
- "generated": "2026-10-18T16:30:58+00:00",
- "date": "2026-10-18",
- "count": 434,
- "confirmed": 428,
+ "generated": "2026-10-19T19:25:37+00:00",
+ "date": "2026-10-19",
+ "count": 433,
+ "confirmed": 426,
  "new": [
   {
-   "id": "cl1f992afea9",
-   "acres": 10.7,
-   "price": 70000,
-   "ppa": 6542,
-   "town": "Rockwood",
+   "id": "rf87524321",
+   "acres": 2.5,
+   "price": 55000,
+   "ppa": 22000,
+   "town": "Harriman",
    "county": "Roane",
-   "url": "https://www.craigslist.org/view/d/rockwood-107-acres-wooded-land-for-sale/kyCcuQmQFrAUeKkDGsZs9z"
+   "url": "https://www.redfin.com/TN/Harriman/147-Old-Jones-Rd-37748/home/87524321"
+  },
+  {
+   "id": "rf204678783",
+   "acres": 0.58,
+   "price": 20000,
+   "ppa": 34483,
+   "town": "Harriman",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Harriman/360-Circle-Dr-37748/home/204678783"
+  },
+  {
+   "id": "rf179308779",
+   "acres": 2.08,
+   "price": 55000,
+   "ppa": 26442,
+   "town": "Caryville",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/Caryville/353-Walden-Ridge-Ln-37714/home/179308779"
+  },
+  {
+   "id": "clec3ee6fea2",
+   "acres": 0.99,
+   "price": 89000,
+   "ppa": 89899,
+   "town": "Loudon",
+   "county": "Roane",
+   "url": "https://www.craigslist.org/view/d/loudon-land-099-acres-eagle-nest-dr/8htzkcTL8RGan9gN0GtZkw"
   }
  ],
- "priceCuts": [],
+ "priceCuts": [
+  {
+   "id": "rf202386998",
+   "from": 124900,
+   "to": 109900,
+   "delta": -15000,
+   "acres": 1.3,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4100-Cottonwood-Dr-37921/home/202386998"
+  },
+  {
+   "id": "rf198736279",
+   "from": 84000,
+   "to": 74000,
+   "delta": -10000,
+   "acres": 0.5,
+   "town": "Lenoir City",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Lenoir-City/3140-Buttermilk-Rd-37771/home/198736279"
+  },
+  {
+   "id": "rf103357583",
+   "from": 39900,
+   "to": 38200,
+   "delta": -1700,
+   "acres": 1.05,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/Edgewood-Dr-37874/home/103357583"
+  }
+ ],
  "priceIncreases": [],
  "unconfirmed": [
   {
-   "id": "rf205598606",
-   "acres": 0.77,
-   "price": 35000,
-   "town": "Sweetwater",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Sweetwater/519-Sunflower-Cir-37874/home/205598606",
-   "missCount": 2
-  },
-  {
-   "id": "rf87165379",
-   "acres": 4.14,
-   "price": 206500,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/Ridge-Rd-37803/home/87165379",
-   "missCount": 2
-  },
-  {
-   "id": "rf62886013",
-   "acres": 2.03,
-   "price": 179900,
-   "town": "Knoxville",
+   "id": "rf192692715",
+   "acres": 2.25,
+   "price": 133000,
+   "town": "Corryton",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/7120-Terry-Dr-37924/home/62886013",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Corryton/8012-Corryton-Rd-37721/home/192692715",
+   "missCount": 1
+  },
+  {
+   "id": "rf62943718",
+   "acres": 0.6,
+   "price": 44900,
+   "town": "Caryville",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/Caryville/1235-Sharp-Ln-37714/home/62943718",
+   "missCount": 1
+  },
+  {
+   "id": "rf87144509",
+   "acres": 0.82,
+   "price": 70000,
+   "town": "Lenoir City",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Lenoir-City/5598-Harrison-Rd-37771/home/87144509",
+   "missCount": 1
   },
   {
    "id": "rf189953351",
@@ -51,7 +109,60 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/3500-Arrow-Dr-37914/home/189953351",
+   "missCount": 2
+  },
+  {
+   "id": "rf102951736",
+   "acres": 0.37,
+   "price": 35000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/805-Beaman-Lake-Rd-37914/home/102951736",
    "missCount": 1
+  },
+  {
+   "id": "rf87494107",
+   "acres": 0.46,
+   "price": 47900,
+   "town": "Caryville",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/Caryville/1347-Sharp-Ln-37714/home/87494107",
+   "missCount": 1
+  },
+  {
+   "id": "rf62989544",
+   "acres": 0.16,
+   "price": 35000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/1233-Ohio-Ave-37921/home/62989544",
+   "missCount": 1
+  }
+ ],
+ "retired": [
+  {
+   "id": "rf205598606",
+   "acres": 0.77,
+   "price": 35000,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/519-Sunflower-Cir-37874/home/205598606"
+  },
+  {
+   "id": "rf87165379",
+   "acres": 4.14,
+   "price": 206500,
+   "town": "Maryville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Maryville/Ridge-Rd-37803/home/87165379"
+  },
+  {
+   "id": "rf62886013",
+   "acres": 2.03,
+   "price": 179900,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/7120-Terry-Dr-37924/home/62886013"
   },
   {
    "id": "rf163607533",
@@ -59,8 +170,7 @@
    "price": 33500,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/4210-Skyline-Dr-37914/home/163607533",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/4210-Skyline-Dr-37914/home/163607533"
   },
   {
    "id": "rf62921118",
@@ -68,54 +178,22 @@
    "price": 95000,
    "town": "La Follette",
    "county": "Campbell",
-   "url": "https://www.redfin.com/TN/La-Follette/105-W-Ash-St-37766/home/62921118",
-   "missCount": 2
-  }
- ],
- "retired": [
-  {
-   "id": "rf197562205",
-   "acres": 42.39,
-   "price": 224900,
-   "town": "Luttrell",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Luttrell/560-Prospect-Rd-37779/home/197562205"
-  },
-  {
-   "id": "rf63014150",
-   "acres": 1.04,
-   "price": 119000,
-   "town": "Harriman",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/2-Bowman-Bend-Rd-37748/home/63014150"
-  },
-  {
-   "id": "rf163547854",
-   "acres": 0.5,
-   "price": 75000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/301-Wilona-Ln-37922/home/163547854"
-  },
-  {
-   "id": "rf102945930",
-   "acres": 0.41,
-   "price": 113000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2919-Edgewood-Ave-37917/home/102945930"
-  },
-  {
-   "id": "rf163596540",
-   "acres": 0.23,
-   "price": 72000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/4432-Earl-Bryan-St-37938/home/163596540"
+   "url": "https://www.redfin.com/TN/La-Follette/105-W-Ash-St-37766/home/62921118"
   }
  ],
  "gone": [],
- "tooFar": [],
+ "tooFar": [
+  {
+   "id": "rf62804878",
+   "acres": 0.6,
+   "price": 99900,
+   "town": "Tallassee",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Tallassee/6011-Ohio-St-37878/home/62804878",
+   "drive": 57,
+   "shopMin": 34
+  }
+ ],
  "tooSteep": [],
  "rejected": [],
  "baseline": false

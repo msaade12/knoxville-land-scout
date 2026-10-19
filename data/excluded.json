@@ -10586,5 +10586,11 @@
   "detail": "71 min to Knoxville",
   "on": "2026-10-17",
   "town": "Deer Lodge"
+ },
+ "rf62804878": {
+  "reason": "too far",
+  "detail": "34 min to Food City, Maryville",
+  "on": "2026-10-19",
+  "town": "Tallassee"
  }
 }
