@@ -10592,5 +10592,41 @@
   "detail": "34 min to Food City, Maryville",
   "on": "2026-10-19",
   "town": "Tallassee"
+ },
+ "rf204655794": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Tazewell",
+  "on": "2026-10-20",
+  "town": "Treadway"
+ },
+ "rf202087962": {
+  "reason": "too far",
+  "detail": "19 min to Aldi, Sevierville",
+  "on": "2026-10-20",
+  "town": "Sevierville"
+ },
+ "rf111325964": {
+  "reason": "too far",
+  "detail": "23 min to Aldi, Sevierville",
+  "on": "2026-10-20",
+  "town": "Sevierville"
+ },
+ "rf111312798": {
+  "reason": "too far",
+  "detail": "23 min to Aldi, Sevierville",
+  "on": "2026-10-20",
+  "town": "Sevierville"
+ },
+ "rf104770986": {
+  "reason": "too far",
+  "detail": "92 min to Knoxville",
+  "on": "2026-10-20",
+  "town": "Tellico Plains"
+ },
+ "rf104532433": {
+  "reason": "too far",
+  "detail": "75 min to Knoxville",
+  "on": "2026-10-20",
+  "town": "Speedwell"
  }
 }
