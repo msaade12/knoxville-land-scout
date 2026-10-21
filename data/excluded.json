@@ -10628,5 +10628,17 @@
   "detail": "75 min to Knoxville",
   "on": "2026-10-20",
   "town": "Speedwell"
+ },
+ "rf205465621": {
+  "reason": "too far",
+  "detail": "28 min to Aldi, Sevierville",
+  "on": "2026-10-21",
+  "town": "Pigeon Forge"
+ },
+ "rf104522133": {
+  "reason": "too far",
+  "detail": "18 min to Walmart, Jacksboro",
+  "on": "2026-10-21",
+  "town": "Jacksboro"
  }
 }
