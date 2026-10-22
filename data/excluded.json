@@ -10640,5 +10640,29 @@
   "detail": "18 min to Walmart, Jacksboro",
   "on": "2026-10-21",
   "town": "Jacksboro"
+ },
+ "rf118982682": {
+  "reason": "too far",
+  "detail": "20 min to Food City, Morristown",
+  "on": "2026-10-22",
+  "town": "Bean Station"
+ },
+ "rf88629337": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Gatlinburg",
+  "on": "2026-10-22",
+  "town": "Gatlinburg"
+ },
+ "rf62842059": {
+  "reason": "too far",
+  "detail": "76 min to Knoxville",
+  "on": "2026-10-22",
+  "town": "Tellico Plains"
+ },
+ "wtc4784a483f": {
+  "reason": "too far",
+  "detail": "74 min to Knoxville",
+  "on": "2026-10-22",
+  "town": "Jellico"
  }
 }
