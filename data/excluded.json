@@ -10664,5 +10664,23 @@
   "detail": "74 min to Knoxville",
   "on": "2026-10-22",
   "town": "Jellico"
+ },
+ "rf197412283": {
+  "reason": "too far",
+  "detail": "24 min to Walmart, Jefferson City",
+  "on": "2026-10-23",
+  "town": ""
+ },
+ "rf103876143": {
+  "reason": "too far",
+  "detail": "18 min to Food City, Loudon",
+  "on": "2026-10-23",
+  "town": "Loudon"
+ },
+ "rf103361608": {
+  "reason": "too far",
+  "detail": "63 min to Knoxville",
+  "on": "2026-10-23",
+  "town": "Madisonville"
  }
 }
