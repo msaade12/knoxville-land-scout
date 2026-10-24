@@ -1,78 +1,99 @@
 {
- "generated": "2026-10-23T18:04:20+00:00",
- "date": "2026-10-23",
- "count": 442,
- "confirmed": 425,
+ "generated": "2026-10-24T16:47:28+00:00",
+ "date": "2026-10-24",
+ "count": 438,
+ "confirmed": 429,
  "new": [
   {
-   "id": "rf87472626",
-   "acres": 0.21,
-   "price": 60000,
-   "ppa": 285714,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1620-Robert-Huff-Ln-37914/home/87472626"
+   "id": "rf183946588",
+   "acres": 5.0,
+   "price": 175000,
+   "ppa": 35000,
+   "town": "Jefferson City",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Jefferson-City/Coile-Rd-37760/home/183946588"
   },
   {
-   "id": "rf163526942",
-   "acres": 0.43,
-   "price": 64900,
-   "ppa": 150930,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/3111-Sycamore-View-Ct-37921/home/163526942"
+   "id": "rf87525357",
+   "acres": 5.93,
+   "price": 159900,
+   "ppa": 26965,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/S-Chamberlain-Ave-37854/home/87525357"
   },
   {
-   "id": "rf87144509",
-   "acres": 0.82,
-   "price": 65000,
-   "ppa": 79268,
-   "town": "Lenoir City",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Lenoir-City/5598-Harrison-Rd-37771/home/87144509"
+   "id": "rf200398847",
+   "acres": 8.2,
+   "price": 75000,
+   "ppa": 9146,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/E-Wheeler-St-37854/home/200398847"
   },
   {
-   "id": "rf199891832",
-   "acres": 6.19,
-   "price": 239900,
-   "ppa": 38756,
-   "town": "Oakdale",
-   "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Oakdale/247-Copperhead-Rd-37829/home/199891832"
+   "id": "rf87495233",
+   "acres": 0.79,
+   "price": 40000,
+   "ppa": 50633,
+   "town": "Caryville",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/Caryville/Park-Rd-37714/home/87495233"
+  },
+  {
+   "id": "cl9016b6e096",
+   "acres": 0.99,
+   "price": 89500,
+   "ppa": 90404,
+   "town": "Loudon",
+   "county": "Roane",
+   "url": "https://www.craigslist.org/view/d/loudon-land-099-acres-eagle-nest-dr/cMBtyhXP8RG-srAKOxNwyA"
   }
  ],
  "priceCuts": [
   {
-   "id": "rf118962823",
-   "from": 114900,
-   "to": 94900,
-   "delta": -20000,
-   "acres": 2.12,
-   "town": "Bean Station",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Bean-Station/Old-Lee-Hwy-37708/home/118962823"
+   "id": "rf101642562",
+   "from": 150000,
+   "to": 148900,
+   "delta": -1100,
+   "acres": 5.05,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4907-Parva-Dr-37914/home/101642562"
+  },
+  {
+   "id": "rf87486218",
+   "from": 80000,
+   "to": 55000,
+   "delta": -25000,
+   "acres": 1.45,
+   "town": "Mascot",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Mascot/3824-Strong-Rd-37806/home/87486218"
+  },
+  {
+   "id": "rf111304316",
+   "from": 72000,
+   "to": 62000,
+   "delta": -10000,
+   "acres": 0.77,
+   "town": "Seymour",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Seymour/Bobbie-Jean-Ln-37865/home/111304316"
+  },
+  {
+   "id": "rf103002805",
+   "from": 239900,
+   "to": 199900,
+   "delta": -40000,
+   "acres": 14.11,
+   "town": "Maynardville",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Maynardville/562-Hinds-Creek-Rd-37807/home/103002805"
   }
  ],
  "priceIncreases": [],
  "unconfirmed": [
-  {
-   "id": "rf179738926",
-   "acres": 20.0,
-   "price": 199900,
-   "town": "Oliver Springs",
-   "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Oliver-Springs/1525-Cove-Ln-37840/home/179738926",
-   "missCount": 2
-  },
-  {
-   "id": "rf201534247",
-   "acres": 14.13,
-   "price": 169900,
-   "town": "Heiskell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Heiskell/W-Bullrun-Valley-Dr-37754/home/201534247",
-   "missCount": 2
-  },
   {
    "id": "rf124469031",
    "acres": 5.02,
@@ -80,6 +101,15 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/1470-Cedar-School-Rd-37725/home/124469031",
+   "missCount": 2
+  },
+  {
+   "id": "rf87524321",
+   "acres": 2.5,
+   "price": 55000,
+   "town": "Harriman",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Harriman/147-Old-Jones-Rd-37748/home/87524321",
    "missCount": 1
   },
   {
@@ -89,7 +119,7 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/Briggs-Rd-37725/home/124454653",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf204660271",
@@ -98,7 +128,7 @@
    "town": "Bean Station",
    "county": "Grainger",
    "url": "https://www.redfin.com/TN/Bean-Station/2-Rhondas-Way-37708/home/204660271",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf204641101",
@@ -107,7 +137,7 @@
    "town": "Bean Station",
    "county": "Grainger",
    "url": "https://www.redfin.com/TN/Bean-Station/Lot-1-Rhondas-Way-37708/home/204641101",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf87157344",
@@ -116,15 +146,6 @@
    "town": "Rockford",
    "county": "Blount",
    "url": "https://www.redfin.com/TN/Rockford/Williams-Hill-Dr-37853/home/87157344",
-   "missCount": 1
-  },
-  {
-   "id": "rf203509140",
-   "acres": 0.98,
-   "price": 45900,
-   "town": "Gatlinburg",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Gatlinburg/Lot-10-Maple-Hill-Way-37738/home/203509140",
    "missCount": 2
   },
   {
@@ -134,7 +155,7 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/Isabell-Dr-37725/home/124600788",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf124511091",
@@ -143,15 +164,6 @@
    "town": "White Pine",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/White-Pine/3250-Leadvale-Rd-37890/home/124511091",
-   "missCount": 1
-  },
-  {
-   "id": "rf104523781",
-   "acres": 0.37,
-   "price": 30000,
-   "town": "La Follette",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/La-Follette/Sandy-Cir-37766/home/104523781",
    "missCount": 2
   },
   {
@@ -161,7 +173,41 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/Highway-139-37725/home/124645190",
-   "missCount": 1
+   "missCount": 2
+  }
+ ],
+ "retired": [
+  {
+   "id": "rf179738926",
+   "acres": 20.0,
+   "price": 199900,
+   "town": "Oliver Springs",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Oliver-Springs/1525-Cove-Ln-37840/home/179738926"
+  },
+  {
+   "id": "rf201534247",
+   "acres": 14.13,
+   "price": 169900,
+   "town": "Heiskell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Heiskell/W-Bullrun-Valley-Dr-37754/home/201534247"
+  },
+  {
+   "id": "rf203509140",
+   "acres": 0.98,
+   "price": 45900,
+   "town": "Gatlinburg",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Gatlinburg/Lot-10-Maple-Hill-Way-37738/home/203509140"
+  },
+  {
+   "id": "rf104523781",
+   "acres": 0.37,
+   "price": 30000,
+   "town": "La Follette",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/La-Follette/Sandy-Cir-37766/home/104523781"
   },
   {
    "id": "rf205592512",
@@ -169,8 +215,7 @@
    "price": 45000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2463-Adams-Ave-37917/home/205592512",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/2463-Adams-Ave-37917/home/205592512"
   },
   {
    "id": "rf205592449",
@@ -178,8 +223,7 @@
    "price": 48000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2451-Adams-Ave-37917/home/205592449",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/2451-Adams-Ave-37917/home/205592449"
   },
   {
    "id": "rf205592477",
@@ -187,8 +231,7 @@
    "price": 45000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2455-Adams-Ave-37917/home/205592477",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/2455-Adams-Ave-37917/home/205592477"
   },
   {
    "id": "rf205592492",
@@ -196,8 +239,7 @@
    "price": 55000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2459-Adams-Ave-37917/home/205592492",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/2459-Adams-Ave-37917/home/205592492"
   },
   {
    "id": "rf163607479",
@@ -205,51 +247,20 @@
    "price": 114900,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1706-Woodbine-Ave-37917/home/163607479",
-   "missCount": 2
-  }
- ],
- "retired": [
-  {
-   "id": "rf205325332",
-   "acres": 0.93,
-   "price": 84900,
-   "town": "Kodak",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Kodak/254-Moore-Dr-37764/unit-1-C-R-3A/home/205325332"
+   "url": "https://www.redfin.com/TN/Knoxville/1706-Woodbine-Ave-37917/home/163607479"
   }
  ],
  "gone": [],
  "tooFar": [
   {
-   "id": "rf197412283",
-   "acres": 0.5,
-   "price": 20000,
-   "town": "",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Unknown/Harbin-Rd-Unknown/home/197412283",
-   "drive": 48,
-   "shopMin": 24
-  },
-  {
-   "id": "rf103876143",
-   "acres": 0.9,
-   "price": 42500,
-   "town": "Loudon",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Loudon/Duke-Ln-37774/home/103876143",
-   "drive": 48,
-   "shopMin": 18
-  },
-  {
-   "id": "rf103361608",
-   "acres": 9.7,
-   "price": 190000,
-   "town": "Madisonville",
+   "id": "rf186003147",
+   "acres": 16.0,
+   "price": 250000,
+   "town": "Reliance",
    "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Madisonville/209-Saffles-Ln-37354/home/103361608",
-   "drive": 63,
-   "shopMin": 9
+   "url": "https://www.redfin.com/TN/Reliance/Creek-Rd-37369/home/186003147",
+   "drive": 91,
+   "shopMin": 30
   }
  ],
  "tooSteep": [],

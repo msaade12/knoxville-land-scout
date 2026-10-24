@@ -10682,5 +10682,11 @@
   "detail": "63 min to Knoxville",
   "on": "2026-10-23",
   "town": "Madisonville"
+ },
+ "rf186003147": {
+  "reason": "too far",
+  "detail": "91 min to Knoxville",
+  "on": "2026-10-24",
+  "town": "Reliance"
  }
 }
