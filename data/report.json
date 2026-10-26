@@ -1,22 +1,108 @@
 {
- "generated": "2026-10-25T17:03:02+00:00",
- "date": "2026-10-25",
- "count": 431,
- "confirmed": 429,
+ "generated": "2026-10-26T19:22:08+00:00",
+ "date": "2026-10-26",
+ "count": 435,
+ "confirmed": 428,
  "new": [
   {
-   "id": "rf200797824",
-   "acres": 5.5,
-   "price": 69900,
-   "ppa": 12709,
-   "town": "Ten Mile",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Ten-Mile/5-5-Acres-Pleasant-Hill-Rd-37880/unit-1/home/200797824"
+   "id": "rf201534247",
+   "acres": 14.13,
+   "price": 169900,
+   "ppa": 12024,
+   "town": "Heiskell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Heiskell/W-Bullrun-Valley-Dr-37754/home/201534247"
+  },
+  {
+   "id": "rf63025920",
+   "acres": 0.39,
+   "price": 99000,
+   "ppa": 253846,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/10311-N-River-Trl-37922/home/63025920"
+  },
+  {
+   "id": "rf87559716",
+   "acres": 0.4,
+   "price": 75000,
+   "ppa": 187500,
+   "town": "Oak Ridge",
+   "county": "Anderson",
+   "url": "https://www.redfin.com/TN/Oak-Ridge/Undisclosed-address-37830/home/87559716"
+  },
+  {
+   "id": "rf206672323",
+   "acres": 1.11,
+   "price": 89900,
+   "ppa": 80991,
+   "town": "Jefferson City",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Jefferson-City/Lot2R2-Crooke-Rd-37760/home/206672323"
+  },
+  {
+   "id": "rf206672066",
+   "acres": 1.2,
+   "price": 89900,
+   "ppa": 74917,
+   "town": "Jefferson City",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Jefferson-City/Lot2R3-Crooke-Rd-37760/home/206672066"
   }
  ],
- "priceCuts": [],
+ "priceCuts": [
+  {
+   "id": "rf163372758",
+   "from": 35000,
+   "to": 21500,
+   "delta": -13500,
+   "acres": 0.16,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Massachusetts-Ave-37921/home/163372758"
+  },
+  {
+   "id": "rf163446032",
+   "from": 60000,
+   "to": 48000,
+   "delta": -12000,
+   "acres": 0.44,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/2917-Brooks-Ave-37914/home/163446032"
+  },
+  {
+   "id": "rf124512505",
+   "from": 67000,
+   "to": 57000,
+   "delta": -10000,
+   "acres": 4.98,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/Upper-Rinehart-Rd-37725/home/124512505"
+  },
+  {
+   "id": "rf107659268",
+   "from": 11000,
+   "to": 9500,
+   "delta": -1500,
+   "acres": 0.75,
+   "town": "Harriman",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Harriman/Ruritan-Rd-37748/home/107659268"
+  }
+ ],
  "priceIncreases": [],
  "unconfirmed": [
+  {
+   "id": "rf200398847",
+   "acres": 8.2,
+   "price": 75000,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/E-Wheeler-St-37854/home/200398847",
+   "missCount": 1
+  },
   {
    "id": "rf87498459",
    "acres": 2.4,
@@ -24,82 +110,62 @@
    "town": "Sweetwater",
    "county": "Monroe",
    "url": "https://www.redfin.com/TN/Sweetwater/136-Linwood-Dr-37874/home/87498459",
+   "missCount": 2
+  },
+  {
+   "id": "rf202110484",
+   "acres": 13.75,
+   "price": 250000,
+   "town": "Madisonville",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Madisonville/Highway-411-37354/unit-3/home/202110484",
    "missCount": 1
   },
+  {
+   "id": "rf87553181",
+   "acres": 1.09,
+   "price": 49900,
+   "town": "Lake City",
+   "county": "Anderson",
+   "url": "https://www.redfin.com/TN/Lake-City/147-Stephens-Rd-37769/home/87553181",
+   "missCount": 1
+  },
+  {
+   "id": "rf62985971",
+   "acres": 0.95,
+   "price": 69900,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4335-Henson-Rd-37921/home/62985971",
+   "missCount": 1
+  },
+  {
+   "id": "rf62892518",
+   "acres": 0.16,
+   "price": 29900,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/1728-Massachusetts-Ave-37921/home/62892518",
+   "missCount": 1
+  },
+  {
+   "id": "rf201571310",
+   "acres": 0.27,
+   "price": 89700,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/1160-Navy-Dr-SW-37920/home/201571310",
+   "missCount": 1
+  }
+ ],
+ "retired": [
   {
    "id": "rf87524321",
    "acres": 2.5,
    "price": 55000,
    "town": "Harriman",
    "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/147-Old-Jones-Rd-37748/home/87524321",
-   "missCount": 2
-  }
- ],
- "retired": [
-  {
-   "id": "rf124469031",
-   "acres": 5.02,
-   "price": 80000,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/1470-Cedar-School-Rd-37725/home/124469031"
-  },
-  {
-   "id": "rf124454653",
-   "acres": 6.36,
-   "price": 150000,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Briggs-Rd-37725/home/124454653"
-  },
-  {
-   "id": "rf204660271",
-   "acres": 2.39,
-   "price": 62900,
-   "town": "Bean Station",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Bean-Station/2-Rhondas-Way-37708/home/204660271"
-  },
-  {
-   "id": "rf204641101",
-   "acres": 2.39,
-   "price": 62900,
-   "town": "Bean Station",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Bean-Station/Lot-1-Rhondas-Way-37708/home/204641101"
-  },
-  {
-   "id": "rf87157344",
-   "acres": 1.06,
-   "price": 35000,
-   "town": "Rockford",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Rockford/Williams-Hill-Dr-37853/home/87157344"
-  },
-  {
-   "id": "rf124600788",
-   "acres": 1.58,
-   "price": 84909,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Isabell-Dr-37725/home/124600788"
-  },
-  {
-   "id": "rf124511091",
-   "acres": 0.96,
-   "price": 59900,
-   "town": "White Pine",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/White-Pine/3250-Leadvale-Rd-37890/home/124511091"
-  },
-  {
-   "id": "rf124645190",
-   "acres": 0.59,
-   "price": 79900,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Highway-139-37725/home/124645190"
+   "url": "https://www.redfin.com/TN/Harriman/147-Old-Jones-Rd-37748/home/87524321"
   }
  ],
  "gone": [],
