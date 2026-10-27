@@ -10688,5 +10688,29 @@
   "detail": "91 min to Knoxville",
   "on": "2026-10-24",
   "town": "Reliance"
+ },
+ "rf87458374": {
+  "reason": "too far",
+  "detail": "16 min to Walmart, Knoxville",
+  "on": "2026-10-27",
+  "town": "Knoxville"
+ },
+ "rf206698403": {
+  "reason": "too far",
+  "detail": "65 min to Knoxville",
+  "on": "2026-10-27",
+  "town": "Sevierville"
+ },
+ "rf104531824": {
+  "reason": "too far",
+  "detail": "62 min to Knoxville",
+  "on": "2026-10-27",
+  "town": "Lafollette"
+ },
+ "rf105454644": {
+  "reason": "too far",
+  "detail": "69 min to Knoxville",
+  "on": "2026-10-27",
+  "town": "Oakdale"
  }
 }
