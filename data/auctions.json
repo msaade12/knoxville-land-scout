@@ -1,5 +1,5 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "auctions": [
   {
    "name": "3 Bedroom 2 Bath Double Wide on 2.07 Acres @ 1648 Dutch Valley Road",
@@ -13,6 +13,13 @@
    "url": "https://www.powellauction.com/events/1300fishhatcheryroad/",
    "when": "2026-10-31",
    "acres": 13.93,
+   "source": "Powell Auction"
+  },
+  {
+   "name": "Home & 16+/- acres with Private Lake \u2013 536 Corum Road \u2013 Knoxville, TN 37924",
+   "url": "https://www.powellauction.com/events/536corumroad/",
+   "when": "2026-11-10",
+   "acres": 16.0,
    "source": "Powell Auction"
   },
   {
