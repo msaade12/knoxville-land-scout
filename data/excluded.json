@@ -10754,5 +10754,17 @@
   "detail": "23 min to Walmart, Madisonville",
   "on": "2026-10-29",
   "town": "Vonore"
+ },
+ "rf206740119": {
+  "reason": "too far",
+  "detail": "18 min to Food City, Blaine",
+  "on": "2026-10-30",
+  "town": "Rutledge"
+ },
+ "rf103862094": {
+  "reason": "too far",
+  "detail": "23 min to Kroger, Harriman",
+  "on": "2026-10-30",
+  "town": "Rockwood"
  }
 }
