@@ -10766,5 +10766,11 @@
   "detail": "23 min to Kroger, Harriman",
   "on": "2026-10-30",
   "town": "Rockwood"
+ },
+ "cl34c82fc120": {
+  "reason": "too far",
+  "detail": "17 min to Aldi, Sevierville",
+  "on": "2026-10-31",
+  "town": "Sevierville"
  }
 }
