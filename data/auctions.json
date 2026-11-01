@@ -1,18 +1,18 @@
 {
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "auctions": [
-  {
-   "name": "13.93+/- Acres with River Views \u2013 1300 Fish Hatchery Road \u2013 Mohawk, TN 37810",
-   "url": "https://www.powellauction.com/events/1300fishhatcheryroad/",
-   "when": "2026-10-31",
-   "acres": 13.93,
-   "source": "Powell Auction"
-  },
   {
    "name": "Home & 16+/- acres with Private Lake \u2013 536 Corum Road \u2013 Knoxville, TN 37924",
    "url": "https://www.powellauction.com/events/536corumroad/",
    "when": "2026-11-10",
    "acres": 16.0,
+   "source": "Powell Auction"
+  },
+  {
+   "name": "Home \u2013 Shop Building \u2013 10+/- Acres \u2013 Offered in 2 Tracts \u2013 1065 Poplar Lane \u2013 Winfield, TN 37892",
+   "url": "https://www.powellauction.com/events/1065poplarlane/",
+   "when": "2026-11-12",
+   "acres": 10.0,
    "source": "Powell Auction"
   },
   {

@@ -1,78 +1,47 @@
 {
- "generated": "2026-10-31T17:42:21+00:00",
- "date": "2026-10-31",
- "count": 420,
- "confirmed": 412,
+ "generated": "2026-11-01T18:25:33+00:00",
+ "date": "2026-11-01",
+ "count": 422,
+ "confirmed": 410,
  "new": [
   {
-   "id": "rf111239446",
-   "acres": 6.3,
-   "price": 145000,
-   "ppa": 23016,
-   "town": "Seymour",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Seymour/N-Cunningham-Rd-37865/home/111239446"
+   "id": "rf163412488",
+   "acres": 1.84,
+   "price": 36500,
+   "ppa": 19837,
+   "town": "Powell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Powell/9025-Conner-Rd-37849/home/163412488"
   },
   {
-   "id": "rf205325332",
-   "acres": 0.93,
-   "price": 74900,
-   "ppa": 80538,
-   "town": "Kodak",
+   "id": "rf206774468",
+   "acres": 2.7,
+   "price": 75000,
+   "ppa": 27778,
+   "town": "Sevierville",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Kodak/254-Moore-Dr-37764/unit-1-C-R-3A/home/205325332"
+   "url": "https://www.redfin.com/TN/Sevierville/Abbey-Lane-Way-37862/unit-TBA/home/206774468"
+  },
+  {
+   "id": "rf201809031",
+   "acres": 0.37,
+   "price": 159900,
+   "ppa": 432162,
+   "town": "Kingston",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Kingston/1405-Kingston-Hwy-37763/home/201809031"
   }
  ],
  "priceCuts": [
   {
-   "id": "rf163361323",
-   "from": 112000,
-   "to": 107000,
-   "delta": -5000,
-   "acres": 6.0,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1152-Rifle-Range-Dr-37918/home/163361323"
-  },
-  {
-   "id": "rf163359576",
-   "from": 95900,
-   "to": 90000,
-   "delta": -5900,
-   "acres": 1.03,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/2915-Curtis-Ln-37918/home/163359576"
-  },
-  {
-   "id": "rf205703050",
-   "from": 110000,
-   "to": 105000,
-   "delta": -5000,
-   "acres": 0.75,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/Lot-2R-1-Walker-Rd-37801/home/205703050"
-  },
-  {
-   "id": "rf204427386",
-   "from": 139000,
-   "to": 134000,
-   "delta": -5000,
-   "acres": 1.5,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/Lot-2R-3-Walker-Rd-37801/home/204427386"
-  },
-  {
-   "id": "rf204355026",
-   "from": 110000,
-   "to": 105000,
-   "delta": -5000,
-   "acres": 0.75,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/Lot2R-2-Walker-Rd-37801/home/204355026"
+   "id": "rf87523545",
+   "from": 14000,
+   "to": 11000,
+   "delta": -3000,
+   "acres": 0.43,
+   "town": "Harriman",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Harriman/950-Cumberland-St-37748/home/87523545"
   }
  ],
  "priceIncreases": [],
@@ -84,7 +53,7 @@
    "town": "Luttrell",
    "county": "Union",
    "url": "https://www.redfin.com/TN/Luttrell/Wood-Ln-37779/home/206153985",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf200002931",
@@ -93,7 +62,7 @@
    "town": "Lafollette",
    "county": "Campbell",
    "url": "https://www.redfin.com/TN/LaFollette/Lot-442-The-Villages-II-37766/home/200002931",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf102117022",
@@ -102,7 +71,7 @@
    "town": "Rockwood",
    "county": "Roane",
    "url": "https://www.redfin.com/TN/Rockwood/119-Baker-Rd-37854/home/102117022",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf203212479",
@@ -111,7 +80,7 @@
    "town": "Sweetwater",
    "county": "Monroe",
    "url": "https://www.redfin.com/TN/Sweetwater/1-43-Ac-Randolph-Fridley-Rd-37874/home/203212479",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf111379015",
@@ -120,7 +89,7 @@
    "town": "Seymour",
    "county": "Sevier",
    "url": "https://www.redfin.com/TN/Seymour/12713-Chapman-Hwy-37865/home/111379015",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf202386998",
@@ -129,16 +98,52 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/4100-Cottonwood-Dr-37921/home/202386998",
+   "missCount": 2
+  },
+  {
+   "id": "rf146151202",
+   "acres": 2.39,
+   "price": 225000,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/Peaceful-Pt-37725/home/146151202",
    "missCount": 1
   },
   {
-   "id": "rf104312290",
-   "acres": 0.59,
-   "price": 59900,
-   "town": "Harriman",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/418-Emory-Dr-37748/home/104312290",
-   "missCount": 2
+   "id": "rf202382598",
+   "acres": 0.81,
+   "price": 104900,
+   "town": "Jacksboro",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/Jacksboro/Grandview-Ln-37757/unit-24/home/202382598",
+   "missCount": 1
+  },
+  {
+   "id": "rf201590176",
+   "acres": 0.9,
+   "price": 170000,
+   "town": "Lenoir City",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Lenoir-City/Brooksview-Rd-37772/unit-137/home/201590176",
+   "missCount": 1
+  },
+  {
+   "id": "rf87494492",
+   "acres": 0.1,
+   "price": 22000,
+   "town": "Caryville",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/Caryville/Cemetery-Rd-37714/home/87494492",
+   "missCount": 1
+  },
+  {
+   "id": "rf124749110",
+   "acres": 0.38,
+   "price": 95000,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/720-Garrett-Rd-37725/home/124749110",
+   "missCount": 1
   },
   {
    "id": "rf201649663",
@@ -147,46 +152,40 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/1170-Navy-Dr-SW-37920/home/201649663",
-   "missCount": 1
+   "missCount": 2
   }
  ],
  "retired": [
   {
-   "id": "rf87524231",
-   "acres": 2.2,
-   "price": 60000,
+   "id": "rf104312290",
+   "acres": 0.59,
+   "price": 59900,
    "town": "Harriman",
    "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/Old-Highway-70-37748/home/87524231"
-  },
-  {
-   "id": "rf163368167",
-   "acres": 2.0,
-   "price": 99900,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Holston-Dr-37924/home/163368167"
-  },
-  {
-   "id": "rf163523752",
-   "acres": 0.55,
-   "price": 49900,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Holston-Dr-37924/home/163523752"
+   "url": "https://www.redfin.com/TN/Harriman/418-Emory-Dr-37748/home/104312290"
   }
  ],
  "gone": [],
  "tooFar": [
   {
-   "id": "cl34c82fc120",
-   "acres": 0.66,
-   "price": 152500,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.craigslist.org/view/d/sevierville-land-066-acres-legend-view/Rp4QQrDU8RGeMYR8KCdbBg",
-   "drive": 46,
-   "shopMin": 17
+   "id": "rf87527831",
+   "acres": 0.58,
+   "price": 99000,
+   "town": "Kingston",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Kingston/570-Anglers-Cove-Rd-37763/home/87527831",
+   "drive": 50,
+   "shopMin": 16
+  },
+  {
+   "id": "rf206722163",
+   "acres": 6.36,
+   "price": 150000,
+   "town": "Kingston",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Kingston/6-3-acre-New-Midway-Rd-37763/home/206722163",
+   "drive": 41,
+   "shopMin": 16
   }
  ],
  "tooSteep": [],

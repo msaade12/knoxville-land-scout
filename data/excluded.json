@@ -10772,5 +10772,17 @@
   "detail": "17 min to Aldi, Sevierville",
   "on": "2026-10-31",
   "town": "Sevierville"
+ },
+ "rf87527831": {
+  "reason": "too far",
+  "detail": "16 min to Food City, Kingston",
+  "on": "2026-11-01",
+  "town": "Kingston"
+ },
+ "rf206722163": {
+  "reason": "too far",
+  "detail": "16 min to Food City, Kingston",
+  "on": "2026-11-01",
+  "town": "Kingston"
  }
 }
