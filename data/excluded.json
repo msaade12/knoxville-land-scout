@@ -10784,5 +10784,35 @@
   "detail": "16 min to Food City, Kingston",
   "on": "2026-11-01",
   "town": "Kingston"
+ },
+ "rf206785661": {
+  "reason": "too far",
+  "detail": "16 min to Publix, Pigeon Forge",
+  "on": "2026-11-02",
+  "town": "Sevierville"
+ },
+ "rf111325893": {
+  "reason": "too far",
+  "detail": "16 min to Publix, Pigeon Forge",
+  "on": "2026-11-02",
+  "town": "Sevierville"
+ },
+ "rf111335766": {
+  "reason": "too far",
+  "detail": "17 min to Publix, Pigeon Forge",
+  "on": "2026-11-02",
+  "town": "Sevierville"
+ },
+ "rf87535789": {
+  "reason": "too far",
+  "detail": "83 min to Knoxville",
+  "on": "2026-11-02",
+  "town": "Wartburg"
+ },
+ "rf206801979": {
+  "reason": "too far",
+  "detail": "76 min to Knoxville",
+  "on": "2026-11-02",
+  "town": "Deer Lodge"
  }
 }
