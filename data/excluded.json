@@ -10814,5 +10814,23 @@
   "detail": "76 min to Knoxville",
   "on": "2026-11-02",
   "town": "Deer Lodge"
+ },
+ "rf197767530": {
+  "reason": "too far",
+  "detail": "19 min to Aldi, Sevierville",
+  "on": "2026-11-03",
+  "town": "Sevierville"
+ },
+ "rf195510366": {
+  "reason": "too far",
+  "detail": "28 min to Walmart, Newport",
+  "on": "2026-11-03",
+  "town": "Sevierville"
+ },
+ "rf111252588": {
+  "reason": "too far",
+  "detail": "29 min to Food City, Newport",
+  "on": "2026-11-03",
+  "town": "Sevierville"
  }
 }
