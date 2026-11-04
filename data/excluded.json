@@ -10832,5 +10832,29 @@
   "detail": "29 min to Food City, Newport",
   "on": "2026-11-03",
   "town": "Sevierville"
+ },
+ "rf206851791": {
+  "reason": "too far",
+  "detail": "64 min to Knoxville",
+  "on": "2026-11-04",
+  "town": "Rockwood"
+ },
+ "rf87492513": {
+  "reason": "too far",
+  "detail": "74 min to Knoxville",
+  "on": "2026-11-04",
+  "town": "La Follette"
+ },
+ "rf206847489": {
+  "reason": "too far",
+  "detail": "80 min to Knoxville",
+  "on": "2026-11-04",
+  "town": "Deer Lodge"
+ },
+ "cl6e3e542222": {
+  "reason": "too far",
+  "detail": "63 min to Knoxville",
+  "on": "2026-11-04",
+  "town": "Walland"
  }
 }
