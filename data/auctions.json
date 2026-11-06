@@ -1,5 +1,5 @@
 {
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "auctions": [
   {
    "name": "AUCTION CANCELED \u2013 PRE-AUCTION OFFER ACCEPTED! Home & 16+/- acres with Private Lake \u2013 536 Corum Road \u2013 Knoxville, TN 37924",
@@ -13,6 +13,13 @@
    "url": "https://www.powellauction.com/events/1065poplarlane/",
    "when": "2026-11-12",
    "acres": 10.0,
+   "source": "Powell Auction"
+  },
+  {
+   "name": "Home & 45+/- Acres \u2013 822 Sunlight Road \u2013 Parrottsville, TN 37843 | Real Estate & Personal Property",
+   "url": "https://www.powellauction.com/events/822sunlightroad/",
+   "when": "2026-11-14",
+   "acres": 45.0,
    "source": "Powell Auction"
   },
   {
