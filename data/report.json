@@ -1,68 +1,78 @@
 {
- "generated": "2026-11-08T18:20:43+00:00",
- "date": "2026-11-08",
+ "generated": "2026-11-09T22:58:54+00:00",
+ "date": "2026-11-09",
  "count": 408,
- "confirmed": 401,
+ "confirmed": 400,
  "new": [
   {
-   "id": "rf206898209",
-   "acres": 0.41,
-   "price": 57500,
-   "ppa": 140244,
-   "town": "Lenoir City",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Lenoir-City/Davis-Dr-37772/home/206898209"
+   "id": "rf102926045",
+   "acres": 0.45,
+   "price": 105000,
+   "ppa": 233333,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/9915-Belmont-Park-Ln-37931/home/102926045"
   },
   {
-   "id": "rf111415049",
-   "acres": 4.0,
-   "price": 124000,
-   "ppa": 31000,
-   "town": "Kodak",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Kodak/Unknown-37764/home/111415049"
+   "id": "rf112981467",
+   "acres": 5.45,
+   "price": 140900,
+   "ppa": 25853,
+   "town": "Powell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Powell/8200-Schroeder-Rd-37849/home/112981467"
+  },
+  {
+   "id": "rf103863185",
+   "acres": 0.6,
+   "price": 39000,
+   "ppa": 65000,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/504-Pumphouse-Rd-37854/home/103863185"
   }
  ],
  "priceCuts": [
   {
-   "id": "rf206019891",
-   "from": 75000,
-   "to": 65000,
-   "delta": -10000,
-   "acres": 0.5,
-   "town": "Maynardville",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Maynardville/Little-Valley-Rd-37807/home/206019891"
+   "id": "rf189413355",
+   "from": 135900,
+   "to": 134900,
+   "delta": -1000,
+   "acres": 0.32,
+   "town": "Loudon",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Loudon/2920-Chestnut-Ln-37774/home/189413355"
+  },
+  {
+   "id": "rf206636316",
+   "from": 50000,
+   "to": 39999,
+   "delta": -10001,
+   "acres": 0.47,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/0008-Stetler-WAY-37863/home/206636316"
   }
  ],
  "priceIncreases": [],
  "unconfirmed": [
   {
-   "id": "rf62975860",
-   "acres": 17.3,
-   "price": 214909,
-   "town": "Heiskell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Heiskell/9406-Heiskell-Rd-37754/home/62975860",
-   "missCount": 2
+   "id": "rf189413163",
+   "acres": 3.43,
+   "price": 135500,
+   "town": "Lenoir City",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Lenoir-City/426-Foster-Rd-37771/home/189413163",
+   "missCount": 1
   },
   {
-   "id": "rf201272235",
-   "acres": 5.0,
-   "price": 235000,
-   "town": "Mascot",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Mascot/Lot-2-Richland-RD-37806/home/201272235",
-   "missCount": 2
-  },
-  {
-   "id": "rf205703126",
-   "acres": 0.83,
-   "price": 45000,
-   "town": "Louisville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Louisville/Lot-31-Singleton-Station-Rd-37777/home/205703126",
-   "missCount": 2
+   "id": "rf206873318",
+   "acres": 1.01,
+   "price": 49900,
+   "town": "Kingston",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Kingston/3836-Kingston-Hwy-37763/home/206873318",
+   "missCount": 1
   },
   {
    "id": "rf202008711",
@@ -71,7 +81,7 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/03A-Beechwood-Dr-37725/home/202008711",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf201924761",
@@ -80,6 +90,15 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/Beechwood-Dr-37725/unit-003/home/201924761",
+   "missCount": 2
+  },
+  {
+   "id": "rf206853585",
+   "acres": 0.28,
+   "price": 20000,
+   "town": "Pigeon Forge",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Pigeon-Forge/Ridgefield-DR-37863/home/206853585",
    "missCount": 1
   },
   {
@@ -89,7 +108,7 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/02A-Beechwood-Dr-37725/home/202008712",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf201924589",
@@ -98,53 +117,77 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/Beechwood-Dr-37725/unit-002/home/201924589",
+   "missCount": 2
+  },
+  {
+   "id": "rf163602395",
+   "acres": 0.46,
+   "price": 110000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Addison-Dr-37918/home/163602395",
    "missCount": 1
   }
  ],
  "retired": [
   {
-   "id": "rf200320437",
-   "acres": 3.23,
-   "price": 116500,
-   "town": "Blaine",
+   "id": "rf62975860",
+   "acres": 17.3,
+   "price": 214909,
+   "town": "Heiskell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Heiskell/9406-Heiskell-Rd-37754/home/62975860"
+  },
+  {
+   "id": "rf201272235",
+   "acres": 5.0,
+   "price": 235000,
+   "town": "Mascot",
    "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Blaine/Lot-2-Rutledge-Pike-37709/home/200320437"
+   "url": "https://www.redfin.com/TN/Mascot/Lot-2-Richland-RD-37806/home/201272235"
   },
   {
-   "id": "rf205325332",
-   "acres": 0.93,
-   "price": 74900,
-   "town": "Kodak",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Kodak/254-Moore-Dr-37764/unit-1-C-R-3A/home/205325332"
-  },
-  {
-   "id": "rf87148217",
-   "acres": 0.92,
-   "price": 130000,
-   "town": "Loudon",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Loudon/124-Holt-Dr-37774/home/87148217"
-  },
-  {
-   "id": "rf197041939",
-   "acres": 0.78,
-   "price": 189900,
-   "town": "Maryville",
+   "id": "rf205703126",
+   "acres": 0.83,
+   "price": 45000,
+   "town": "Louisville",
    "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/527-Old-Glory-Rd-37801/home/197041939"
-  },
-  {
-   "id": "rf200392606",
-   "acres": 0.53,
-   "price": 140000,
-   "town": "Kingston",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Kingston/Lot-11-12-Meadowlake-Dr-37763/home/200392606"
+   "url": "https://www.redfin.com/TN/Louisville/Lot-31-Singleton-Station-Rd-37777/home/205703126"
   }
  ],
  "gone": [],
- "tooFar": [],
+ "tooFar": [
+  {
+   "id": "rf206909051",
+   "acres": 0.35,
+   "price": 200000,
+   "town": "Speedwell",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Speedwell/TBD-Lake-Loop-Cir-37870/home/206909051",
+   "drive": 72,
+   "shopMin": 33
+  },
+  {
+   "id": "rf103872732",
+   "acres": 0.88,
+   "price": 39999,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/Pinoak-Dr-37854/home/103872732",
+   "drive": 62,
+   "shopMin": 24
+  },
+  {
+   "id": "rf206899234",
+   "acres": 2.02,
+   "price": 119900,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/1-Loch-Haven-Dr-37854/home/206899234",
+   "drive": 63,
+   "shopMin": 25
+  }
+ ],
  "tooSteep": [],
  "rejected": [],
  "baseline": false

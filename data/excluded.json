@@ -10856,5 +10856,23 @@
   "detail": "63 min to Knoxville",
   "on": "2026-11-04",
   "town": "Walland"
+ },
+ "rf206909051": {
+  "reason": "too far",
+  "detail": "72 min to Knoxville",
+  "on": "2026-11-09",
+  "town": "Speedwell"
+ },
+ "rf103872732": {
+  "reason": "too far",
+  "detail": "62 min to Knoxville",
+  "on": "2026-11-09",
+  "town": "Rockwood"
+ },
+ "rf206899234": {
+  "reason": "too far",
+  "detail": "63 min to Knoxville",
+  "on": "2026-11-09",
+  "town": "Rockwood"
  }
 }
