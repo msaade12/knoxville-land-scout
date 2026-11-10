@@ -1,6 +1,13 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "auctions": [
+  {
+   "name": "The Estate of Royce W. Slaven II- 6 parcels of real estate- 4 BR Waterfront home, 2 acreage tracts near lake, 2 Commerci",
+   "url": "https://www.ayersauctionrealty.com/auction/the-estate-of-royce-w-slaven-ii--6-parcels-of-real-estate--4-br-waterfront-home-2-acreage-tracts-near-lake-2-commercial-or-industrial-tracts-basement-building-and-343-acres-84060/details",
+   "when": "11/19/26",
+   "acres": 2.0,
+   "source": "Ayers Auction"
+  },
   {
    "name": "AUCTION CANCELED \u2013 PRE-AUCTION OFFER ACCEPTED! Home & 16+/- acres with Private Lake \u2013 536 Corum Road \u2013 Knoxville, TN 37924",
    "url": "https://www.powellauction.com/events/536corumroad/",
@@ -27,13 +34,6 @@
    "url": "https://www.ayersauctionrealty.com/auction/90096-acres-in-29-tracts-from-15-ac-to-1077-acres-each-located-on-williams-creek-rd-and-red-rock-rd-and-joins-the-big-south-fork-national-river--recreation-area-83529/details",
    "when": "",
    "acres": 900.96,
-   "source": "Ayers Auction"
-  },
-  {
-   "name": "The Estate of Royce W. Slaven II- 6 parcels of real estate- 4 BR Waterfront home, 2 acreage tracts near lake, 2 Commerci",
-   "url": "https://www.ayersauctionrealty.com/auction/the-estate-of-royce-w-slaven-ii--6-parcels-of-real-estate--4-br-waterfront-home-2-acreage-tracts-near-lake-2-commercial-or-industrial-tracts-basement-building-and-343-acres-84060/details",
-   "when": "",
-   "acres": 2.0,
    "source": "Ayers Auction"
   }
  ]

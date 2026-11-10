@@ -10874,5 +10874,17 @@
   "detail": "63 min to Knoxville",
   "on": "2026-11-09",
   "town": "Rockwood"
+ },
+ "rf87191459": {
+  "reason": "too far",
+  "detail": "23 min to Food City, Maryville",
+  "on": "2026-11-10",
+  "town": "Townsend"
+ },
+ "rf119037011": {
+  "reason": "too far",
+  "detail": "64 min to Knoxville",
+  "on": "2026-11-10",
+  "town": "Washburn"
  }
 }
