@@ -1,5 +1,5 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "auctions": [
   {
    "name": "The Estate of Royce W. Slaven II- 6 parcels of real estate- 4 BR Waterfront home, 2 acreage tracts near lake, 2 Commerci",
@@ -7,13 +7,6 @@
    "when": "11/19/26",
    "acres": 2.0,
    "source": "Ayers Auction"
-  },
-  {
-   "name": "AUCTION CANCELED \u2013 PRE-AUCTION OFFER ACCEPTED! Home & 16+/- acres with Private Lake \u2013 536 Corum Road \u2013 Knoxville, TN 37924",
-   "url": "https://www.powellauction.com/events/536corumroad/",
-   "when": "2026-11-10",
-   "acres": 16.0,
-   "source": "Powell Auction"
   },
   {
    "name": "Home \u2013 Shop Building \u2013 10+/- Acres \u2013 Offered in 2 Tracts \u2013 1065 Poplar Lane \u2013 Winfield, TN 37892",
@@ -28,13 +21,6 @@
    "when": "2026-11-14",
    "acres": 45.0,
    "source": "Powell Auction"
-  },
-  {
-   "name": "900.96 acres in 29 tracts from 15 ac. to 107.7 acres each located on Williams Creek Rd. and Red Rock Rd. and joins the B",
-   "url": "https://www.ayersauctionrealty.com/auction/90096-acres-in-29-tracts-from-15-ac-to-1077-acres-each-located-on-williams-creek-rd-and-red-rock-rd-and-joins-the-big-south-fork-national-river--recreation-area-83529/details",
-   "when": "",
-   "acres": 900.96,
-   "source": "Ayers Auction"
   }
  ]
 }

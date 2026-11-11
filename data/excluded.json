@@ -10886,5 +10886,17 @@
   "detail": "64 min to Knoxville",
   "on": "2026-11-10",
   "town": "Washburn"
+ },
+ "rf206933718": {
+  "reason": "too far",
+  "detail": "27 min to Walmart, Newport",
+  "on": "2026-11-11",
+  "town": "Sevierville"
+ },
+ "rf62925398": {
+  "reason": "too far",
+  "detail": "62 min to Knoxville",
+  "on": "2026-11-11",
+  "town": "Jellico"
  }
 }
