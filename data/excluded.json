@@ -10898,5 +10898,23 @@
   "detail": "62 min to Knoxville",
   "on": "2026-11-11",
   "town": "Jellico"
+ },
+ "rf190735957": {
+  "reason": "too far",
+  "detail": "21 min to Food City, Maynardville City Limits",
+  "on": "2026-11-12",
+  "town": "Sharps Chapel"
+ },
+ "rf195602763": {
+  "reason": "too far",
+  "detail": "21 min to Food City, Harriman",
+  "on": "2026-11-12",
+  "town": "Rockwood"
+ },
+ "rf206953480": {
+  "reason": "too far",
+  "detail": "94 min to Knoxville",
+  "on": "2026-11-12",
+  "town": "Vonore"
  }
 }

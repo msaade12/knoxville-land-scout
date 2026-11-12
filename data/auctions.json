@@ -1,5 +1,5 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "auctions": [
   {
    "name": "The Estate of Royce W. Slaven II- 6 parcels of real estate- 4 BR Waterfront home, 2 acreage tracts near lake, 2 Commerci",
@@ -21,6 +21,13 @@
    "when": "2026-11-14",
    "acres": 45.0,
    "source": "Powell Auction"
+  },
+  {
+   "name": "900.96 acres in 29 tracts from 15 ac. to 107.7 acres each located on Williams Creek Rd. and Red Rock Rd. and joins the B",
+   "url": "https://www.ayersauctionrealty.com/auction/90096-acres-in-29-tracts-from-15-ac-to-1077-acres-each-located-on-williams-creek-rd-and-red-rock-rd-and-joins-the-big-south-fork-national-river--recreation-area-83529/details",
+   "when": "",
+   "acres": 900.96,
+   "source": "Ayers Auction"
   }
  ]
 }
