@@ -1,123 +1,147 @@
 {
- "generated": "2026-11-12T20:50:56+00:00",
- "date": "2026-11-12",
- "count": 411,
- "confirmed": 401,
+ "generated": "2026-11-13T20:30:20+00:00",
+ "date": "2026-11-13",
+ "count": 414,
+ "confirmed": 410,
  "new": [
   {
-   "id": "rf205703126",
-   "acres": 0.83,
+   "id": "rf163606422",
+   "acres": 0.16,
    "price": 45000,
-   "ppa": 54217,
-   "town": "Louisville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Louisville/Lot-31-Singleton-Station-Rd-37777/home/205703126"
-  },
-  {
-   "id": "rf168776763",
-   "acres": 3.0,
-   "price": 74900,
-   "ppa": 24967,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Unknown-37876/home/168776763"
-  },
-  {
-   "id": "rf103355322",
-   "acres": 0.45,
-   "price": 89900,
-   "ppa": 199778,
-   "town": "Vonore",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Vonore/Undisclosed-address-37885/home/103355322"
-  }
- ],
- "priceCuts": [
-  {
-   "id": "rf163577752",
-   "from": 57500,
-   "to": 52500,
-   "delta": -5000,
-   "acres": 0.26,
+   "ppa": 281250,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1105-Maryland-Ave-37921/home/163577752"
+   "url": "https://www.redfin.com/TN/Knoxville/827-Vermont-Ave-37921/home/163606422"
   },
   {
-   "id": "rf103867582",
-   "from": 60000,
-   "to": 49900,
-   "delta": -10100,
-   "acres": 0.13,
-   "town": "Harriman",
+   "id": "rf163479341",
+   "acres": 0.32,
+   "price": 60000,
+   "ppa": 187500,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/1201-Chestnut-St-37920/home/163479341"
+  },
+  {
+   "id": "rf102948167",
+   "acres": 2.07,
+   "price": 210000,
+   "ppa": 101449,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/3528-Schaad-Rd-37921/home/102948167"
+  },
+  {
+   "id": "rf62971001",
+   "acres": 0.39,
+   "price": 60000,
+   "ppa": 153846,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4004-Catalpa-Ave-37914/home/62971001"
+  },
+  {
+   "id": "rf206979747",
+   "acres": 0.34,
+   "price": 45000,
+   "ppa": 132353,
+   "town": "Maynardville",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Maynardville/2-N-Glen-Rd-37807/home/206979747"
+  },
+  {
+   "id": "rf206979773",
+   "acres": 0.74,
+   "price": 99900,
+   "ppa": 135000,
+   "town": "Jefferson City",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Jefferson-City/214-Crook-RD-37760/unit-2R1/home/206979773"
+  },
+  {
+   "id": "rf206978975",
+   "acres": 0.76,
+   "price": 99900,
+   "ppa": 131447,
+   "town": "Jefferson City",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Jefferson-City/214-Crook-RD-37760/unit-2R-76-acre/home/206978975"
+  },
+  {
+   "id": "rf87527311",
+   "acres": 11.53,
+   "price": 125000,
+   "ppa": 10841,
+   "town": "Kingston",
    "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/564-Keylon-Dr-37748/home/103867582"
+   "url": "https://www.redfin.com/TN/Kingston/360-Holder-Hollow-Rd-37763/home/87527311"
+  },
+  {
+   "id": "rf87498459",
+   "acres": 2.4,
+   "price": 23000,
+   "ppa": 9583,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/136-Linwood-Dr-37874/home/87498459"
+  },
+  {
+   "id": "rf206975644",
+   "acres": 1.1,
+   "price": 49900,
+   "ppa": 45364,
+   "town": "Lafollette",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/LaFollette/522-N-Twenty-3rd-ST-37766/home/206975644"
+  },
+  {
+   "id": "cl26ca3538a5",
+   "acres": 0.3,
+   "price": 154900,
+   "ppa": 516333,
+   "town": "Loudon",
+   "county": "Loudon",
+   "url": "https://www.craigslist.org/view/d/loudon-land-03-acres-chestnut-ln/3gqfwX7f8RGF3IcMhqmFoA"
+  },
+  {
+   "id": "cl09a90964b1",
+   "acres": 1.07,
+   "price": 5500,
+   "ppa": 5140,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.craigslist.org/view/d/rockwood-107-acre-lot-rockwood-roane/rtkff3NXqm7dSRXMfrBzRL"
   }
  ],
+ "priceCuts": [],
  "priceIncreases": [],
  "unconfirmed": [
   {
-   "id": "rf104530127",
-   "acres": 9.67,
-   "price": 75000,
-   "town": "Lafollette",
+   "id": "rf179308779",
+   "acres": 2.0,
+   "price": 55000,
+   "town": "Caryville",
    "county": "Campbell",
-   "url": "https://www.redfin.com/TN/LaFollette/Greene-Ln-37766/home/104530127",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Caryville/353-Walden-Ridge-Ln-37714/home/179308779",
+   "missCount": 1
   },
   {
-   "id": "rf124512505",
-   "acres": 4.98,
-   "price": 57000,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Upper-Rinehart-Rd-37725/home/124512505",
-   "missCount": 2
+   "id": "rf205249528",
+   "acres": 1.6,
+   "price": 139900,
+   "town": "Friendsville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Friendsville/Lot-3-Hill-Valley-RD-37737/home/205249528",
+   "missCount": 1
   },
   {
-   "id": "rf103002805",
-   "acres": 14.11,
-   "price": 199900,
-   "town": "Maynardville",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Maynardville/562-Hinds-Creek-Rd-37807/home/103002805",
-   "missCount": 2
-  },
-  {
-   "id": "rf108449674",
-   "acres": 0.52,
-   "price": 24900,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/7421-N-Ruggles-Ferry-Pike-37924/home/108449674",
-   "missCount": 2
-  },
-  {
-   "id": "rf195479856",
-   "acres": 2.34,
-   "price": 119000,
-   "town": "Loudon",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Loudon/960-Corinth-Church-Rd-37774/home/195479856",
-   "missCount": 2
-  },
-  {
-   "id": "rf87572756",
-   "acres": 1.03,
-   "price": 65000,
-   "town": "Clinton",
-   "county": "Anderson",
-   "url": "https://www.redfin.com/TN/Clinton/911-Coward-Rd-37716/home/87572756",
-   "missCount": 2
-  },
-  {
-   "id": "rf202189775",
-   "acres": 1.12,
-   "price": 90000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Daniels-Rd-37938/unit-A/home/202189775",
-   "missCount": 2
+   "id": "rf202019422",
+   "acres": 1.98,
+   "price": 175900,
+   "town": "Maryville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Maryville/Undisclosed-address-37801/home/202019422",
+   "missCount": 1
   },
   {
    "id": "rf206742655",
@@ -126,7 +150,65 @@
    "town": "Powell",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Powell/Lot-3-Ventis-Ln-37849/home/206742655",
-   "missCount": 1
+   "missCount": 2
+  }
+ ],
+ "retired": [
+  {
+   "id": "rf104530127",
+   "acres": 9.67,
+   "price": 75000,
+   "town": "Lafollette",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/LaFollette/Greene-Ln-37766/home/104530127"
+  },
+  {
+   "id": "rf124512505",
+   "acres": 4.98,
+   "price": 57000,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/Upper-Rinehart-Rd-37725/home/124512505"
+  },
+  {
+   "id": "rf103002805",
+   "acres": 14.11,
+   "price": 199900,
+   "town": "Maynardville",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Maynardville/562-Hinds-Creek-Rd-37807/home/103002805"
+  },
+  {
+   "id": "rf108449674",
+   "acres": 0.52,
+   "price": 24900,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/7421-N-Ruggles-Ferry-Pike-37924/home/108449674"
+  },
+  {
+   "id": "rf195479856",
+   "acres": 2.34,
+   "price": 119000,
+   "town": "Loudon",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Loudon/960-Corinth-Church-Rd-37774/home/195479856"
+  },
+  {
+   "id": "rf87572756",
+   "acres": 1.03,
+   "price": 65000,
+   "town": "Clinton",
+   "county": "Anderson",
+   "url": "https://www.redfin.com/TN/Clinton/911-Coward-Rd-37716/home/87572756"
+  },
+  {
+   "id": "rf202189775",
+   "acres": 1.12,
+   "price": 90000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Daniels-Rd-37938/unit-A/home/202189775"
   },
   {
    "id": "rf202341666",
@@ -134,8 +216,7 @@
    "price": 90000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Daniels-Rd-37938/unit-4/home/202341666",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/Daniels-Rd-37938/unit-4/home/202341666"
   },
   {
    "id": "rf63009209",
@@ -143,67 +224,60 @@
    "price": 105000,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Lonas-Dr-37909/home/63009209",
-   "missCount": 2
-  }
- ],
- "retired": [
-  {
-   "id": "rf182771136",
-   "acres": 31.69,
-   "price": 189900,
-   "town": "Oliver Springs",
-   "county": "Anderson",
-   "url": "https://www.redfin.com/TN/Oliver-Springs/288-Frost-Bottom-Rd-37840/home/182771136"
-  },
-  {
-   "id": "rf103863185",
-   "acres": 0.6,
-   "price": 39000,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/504-Pumphouse-Rd-37854/home/103863185"
-  },
-  {
-   "id": "rf206898209",
-   "acres": 0.41,
-   "price": 57500,
-   "town": "Lenoir City",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Lenoir-City/Davis-Dr-37772/home/206898209"
+   "url": "https://www.redfin.com/TN/Knoxville/Lonas-Dr-37909/home/63009209"
   }
  ],
  "gone": [],
  "tooFar": [
   {
-   "id": "rf190735957",
-   "acres": 0.94,
-   "price": 225000,
-   "town": "Sharps Chapel",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Sharps-Chapel/Waterfront-KNL-37866/home/190735957",
-   "drive": 56,
-   "shopMin": 21
+   "id": "rf87179045",
+   "acres": 5.84,
+   "price": 240000,
+   "town": "Seymour",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Seymour/Ellejoy-Rd-37865/home/87179045",
+   "drive": 33,
+   "shopMin": 16
   },
   {
-   "id": "rf195602763",
-   "acres": 5.6,
-   "price": 100800,
-   "town": "Rockwood",
+   "id": "rf174771006",
+   "acres": 0.57,
+   "price": 65000,
+   "town": "Andersonville",
+   "county": "Anderson",
+   "url": "https://www.redfin.com/TN/Andersonville/108-Hogoheegee-Dr-37705/home/174771006",
+   "drive": 49,
+   "shopMin": 29
+  },
+  {
+   "id": "rf119077835",
+   "acres": 12.07,
+   "price": 169900,
+   "town": "Washburn",
+   "county": "Grainger",
+   "url": "https://www.redfin.com/TN/Washburn/Black-Fox-Rd-37888/home/119077835",
+   "drive": 61,
+   "shopMin": 27
+  },
+  {
+   "id": "rf206972968",
+   "acres": 1.29,
+   "price": 55000,
+   "town": "Kingston",
    "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/Airport-Rd-Lot-11-pca-37854/home/195602763",
-   "drive": 59,
-   "shopMin": 21
+   "url": "https://www.redfin.com/TN/Kingston/209-Ledgerwood-Ln-37763/unit-A-15/home/206972968",
+   "drive": 56,
+   "shopMin": 34
   },
   {
-   "id": "rf206953480",
-   "acres": 0.89,
-   "price": 30000,
-   "town": "Vonore",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Vonore/315-Pleasant-Grove-Rd-37885/home/206953480",
-   "drive": 94,
-   "shopMin": 58
+   "id": "rf87491614",
+   "acres": 0.21,
+   "price": 25000,
+   "town": "Speedwell",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/Speedwell/Arthur-Hill-Cir-37870/home/87491614",
+   "drive": 72,
+   "shopMin": 33
   }
  ],
  "tooSteep": [],

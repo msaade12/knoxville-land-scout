@@ -10916,5 +10916,35 @@
   "detail": "94 min to Knoxville",
   "on": "2026-11-12",
   "town": "Vonore"
+ },
+ "rf87179045": {
+  "reason": "too far",
+  "detail": "16 min to Food City, Sevier",
+  "on": "2026-11-13",
+  "town": "Seymour"
+ },
+ "rf174771006": {
+  "reason": "too far",
+  "detail": "29 min to Walmart, Clinton",
+  "on": "2026-11-13",
+  "town": "Andersonville"
+ },
+ "rf119077835": {
+  "reason": "too far",
+  "detail": "61 min to Knoxville",
+  "on": "2026-11-13",
+  "town": "Washburn"
+ },
+ "rf206972968": {
+  "reason": "too far",
+  "detail": "34 min to Walmart, Lenoir City",
+  "on": "2026-11-13",
+  "town": "Kingston"
+ },
+ "rf87491614": {
+  "reason": "too far",
+  "detail": "72 min to Knoxville",
+  "on": "2026-11-13",
+  "town": "Speedwell"
  }
 }
