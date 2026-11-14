@@ -1,5 +1,5 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "auctions": [
   {
    "name": "The Estate of Royce W. Slaven II- 6 parcels of real estate- 4 BR Waterfront home, 2 acreage tracts near lake, 2 Commerci",
@@ -13,6 +13,13 @@
    "url": "https://www.powellauction.com/events/822sunlightroad/",
    "when": "2026-11-14",
    "acres": 45.0,
+   "source": "Powell Auction"
+  },
+  {
+   "name": "1.3+/- Acres \u2013 728 N Highway 92 \u2013 Jefferson City, TN 37760",
+   "url": "https://www.powellauction.com/events/728nhighway92/",
+   "when": "2026-11-30",
+   "acres": 1.3,
    "source": "Powell Auction"
   }
  ]
