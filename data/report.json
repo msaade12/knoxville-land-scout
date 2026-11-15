@@ -1,50 +1,58 @@
 {
- "generated": "2026-11-14T18:43:49+00:00",
- "date": "2026-11-14",
- "count": 415,
- "confirmed": 412,
+ "generated": "2026-11-15T19:21:53+00:00",
+ "date": "2026-11-15",
+ "count": 413,
+ "confirmed": 410,
  "new": [
   {
-   "id": "rf163373229",
-   "acres": 0.61,
-   "price": 90000,
-   "ppa": 147541,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/S-Beaman-St-37914/home/163373229"
-  },
-  {
-   "id": "rf206985617",
-   "acres": 5.1,
-   "price": 250000,
-   "ppa": 49020,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/1094-Old-Newport-Hwy-37725/home/206985617"
+   "id": "rf196999870",
+   "acres": 1.05,
+   "price": 38200,
+   "ppa": 36381,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/115-N-Point-Rd-37874/home/196999870"
   }
  ],
- "priceCuts": [
-  {
-   "id": "rf163468771",
-   "from": 124999,
-   "to": 115000,
-   "delta": -9999,
-   "acres": 0.14,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/105-Greenbrier-Dr-37919/home/163468771"
-  }
- ],
+ "priceCuts": [],
  "priceIncreases": [],
  "unconfirmed": [
+  {
+   "id": "rf103357583",
+   "acres": 1.05,
+   "price": 38200,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/Edgewood-Dr-37874/home/103357583",
+   "missCount": 1
+  },
+  {
+   "id": "rf206362990",
+   "acres": 2.09,
+   "price": 90000,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/4-Forkner-Chapel-Rd-37874/home/206362990",
+   "missCount": 1
+  },
+  {
+   "id": "rf205648487",
+   "acres": 0.51,
+   "price": 70000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/5850-Lucerne-Ln-37921/home/205648487",
+   "missCount": 1
+  }
+ ],
+ "retired": [
   {
    "id": "rf179308779",
    "acres": 2.0,
    "price": 55000,
    "town": "Caryville",
    "county": "Campbell",
-   "url": "https://www.redfin.com/TN/Caryville/353-Walden-Ridge-Ln-37714/home/179308779",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Caryville/353-Walden-Ridge-Ln-37714/home/179308779"
   },
   {
    "id": "rf205249528",
@@ -52,8 +60,7 @@
    "price": 139900,
    "town": "Friendsville",
    "county": "Blount",
-   "url": "https://www.redfin.com/TN/Friendsville/Lot-3-Hill-Valley-RD-37737/home/205249528",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Friendsville/Lot-3-Hill-Valley-RD-37737/home/205249528"
   },
   {
    "id": "rf202019422",
@@ -61,22 +68,22 @@
    "price": 175900,
    "town": "Maryville",
    "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/Undisclosed-address-37801/home/202019422",
-   "missCount": 2
-  }
- ],
- "retired": [
-  {
-   "id": "rf206742655",
-   "acres": 1.45,
-   "price": 150000,
-   "town": "Powell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Powell/Lot-3-Ventis-Ln-37849/home/206742655"
+   "url": "https://www.redfin.com/TN/Maryville/Undisclosed-address-37801/home/202019422"
   }
  ],
  "gone": [],
- "tooFar": [],
+ "tooFar": [
+  {
+   "id": "rf111299673",
+   "acres": 0.44,
+   "price": 39900,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/1050-Aspen-Ct-37876/home/111299673",
+   "drive": 60,
+   "shopMin": 28
+  }
+ ],
  "tooSteep": [],
  "rejected": [],
  "baseline": false

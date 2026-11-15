@@ -10946,5 +10946,11 @@
   "detail": "72 min to Knoxville",
   "on": "2026-11-13",
   "town": "Speedwell"
+ },
+ "rf111299673": {
+  "reason": "too far",
+  "detail": "28 min to Walmart, Newport",
+  "on": "2026-11-15",
+  "town": "Sevierville"
  }
 }
