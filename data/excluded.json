@@ -10964,5 +10964,11 @@
   "detail": "65 min to Knoxville",
   "on": "2026-11-16",
   "town": "Sevierville"
+ },
+ "rf207029579": {
+  "reason": "too far",
+  "detail": "17 min to Aldi, Sevierville",
+  "on": "2026-11-17",
+  "town": "Sevierville"
  }
 }

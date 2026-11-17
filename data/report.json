@@ -1,123 +1,98 @@
 {
- "generated": "2026-11-16T22:53:18+00:00",
- "date": "2026-11-16",
- "count": 422,
- "confirmed": 412,
+ "generated": "2026-11-17T21:51:44+00:00",
+ "date": "2026-11-17",
+ "count": 423,
+ "confirmed": 413,
  "new": [
   {
-   "id": "rf207023560",
-   "acres": 3.2,
-   "price": 99500,
-   "ppa": 31094,
-   "town": "Seymour",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Seymour/Lot-108-Chris-Dale-Dr-37865/unit-108/home/207023560"
+   "id": "rf102951711",
+   "acres": 0.83,
+   "price": 90000,
+   "ppa": 108434,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/914-Andes-St-37914/home/102951711"
   },
   {
-   "id": "rf63025339",
-   "acres": 1.51,
-   "price": 74900,
-   "ppa": 49603,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/1253-Chesty-Puller-Cir-37803/home/63025339"
+   "id": "rf190912826",
+   "acres": 5.02,
+   "price": 149900,
+   "ppa": 29861,
+   "town": "Strawberry Plains",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Strawberry-Plains/5130-Stiles-Ln-37871/home/190912826"
   },
   {
-   "id": "rf87162809",
-   "acres": 0.48,
-   "price": 88000,
-   "ppa": 183333,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/Sims-Rd-37804/home/87162809"
-  },
-  {
-   "id": "rf87138456",
-   "acres": 3.77,
-   "price": 130000,
-   "ppa": 34483,
-   "town": "Loudon",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Loudon/6030-Get-Good-Hollow-Rd-37774/home/87138456"
-  },
-  {
-   "id": "rf207020203",
-   "acres": 0.5,
-   "price": 65000,
-   "ppa": 130000,
+   "id": "rf62899215",
+   "acres": 1.82,
+   "price": 109000,
+   "ppa": 59890,
    "town": "Maynardville",
    "county": "Union",
-   "url": "https://www.redfin.com/TN/Maynardville/548-Little-Valley-Rd-37807/home/207020203"
+   "url": "https://www.redfin.com/TN/Maynardville/339-Riverview-Rd-37807/home/62899215"
   },
   {
-   "id": "rf207020707",
-   "acres": 1.04,
-   "price": 45000,
-   "ppa": 43269,
-   "town": "Bean Station",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Bean-Station/112-Deer-Run-Trl-37708/home/207020707"
-  },
-  {
-   "id": "rf207020376",
-   "acres": 0.87,
-   "price": 135000,
-   "ppa": 155172,
-   "town": "Bean Station",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Bean-Station/37-Logans-Blf-37708/home/207020376"
-  },
-  {
-   "id": "rf111089726",
-   "acres": 5.46,
-   "price": 225000,
-   "ppa": 41209,
-   "town": "Seymour",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Seymour/609-N-Shiloh-Rd-37865/home/111089726"
-  },
-  {
-   "id": "cl5b6bd0e892",
-   "acres": 0.99,
-   "price": 99950,
-   "ppa": 100960,
-   "town": "Loudon",
+   "id": "rf103864842",
+   "acres": 0.34,
+   "price": 37500,
+   "ppa": 110294,
+   "town": "Harriman",
    "county": "Roane",
-   "url": "https://www.craigslist.org/view/d/loudon-land-099-acres-eagle-nest-dr/LGdvNN_h8RGYtM1F3X5RYg"
+   "url": "https://www.redfin.com/TN/Harriman/Vann-Dr-37748/home/103864842"
   }
  ],
  "priceCuts": [
   {
-   "id": "rf62972457",
-   "from": 179900,
-   "to": 169900,
-   "delta": -10000,
-   "acres": 7.69,
-   "town": "Maynardville",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Maynardville/Hubbs-Grove-Rd-37807/home/62972457"
+   "id": "rf101642562",
+   "from": 147000,
+   "to": 125000,
+   "delta": -22000,
+   "acres": 5.05,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4907-Parva-Dr-37914/home/101642562"
+  },
+  {
+   "id": "rf87160110",
+   "from": 199999,
+   "to": 179990,
+   "delta": -20009,
+   "acres": 1.15,
+   "town": "Maryville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Maryville/Old-Knoxville-Pike-37804/home/87160110"
   }
  ],
  "priceIncreases": [
   {
-   "id": "rf206019891",
-   "from": 65000,
-   "to": 110000,
-   "delta": 45000,
-   "acres": 1.37,
-   "town": "Maynardville",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Maynardville/Little-Valley-Rd-37807/home/206019891"
+   "id": "rf87497248",
+   "from": 17700,
+   "to": 23850,
+   "delta": 6150,
+   "acres": 0.85,
+   "town": "Lafollette",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/LaFollette/S-Sudenny-Ln-37766/home/87497248"
+  },
+  {
+   "id": "rf205532765",
+   "from": 77000,
+   "to": 85000,
+   "delta": 8000,
+   "acres": 4.56,
+   "town": "Harriman",
+   "county": "Morgan",
+   "url": "https://www.redfin.com/TN/Harriman/TBD-Green-Ridge-Trl-37748/home/205532765"
   }
  ],
  "unconfirmed": [
   {
-   "id": "cl09a90964b1",
-   "acres": 1.07,
-   "price": 5500,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.craigslist.org/view/d/rockwood-107-acre-lot-rockwood-roane/rtkff3NXqm7dSRXMfrBzRL",
+   "id": "rf103002490",
+   "acres": 6.87,
+   "price": 69000,
+   "town": "Maynardville",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Maynardville/Unknown-37807/home/103002490",
    "missCount": 1
   },
   {
@@ -127,7 +102,7 @@
    "town": "Powell",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Powell/9025-Conner-Rd-37849/home/163412488",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf200845629",
@@ -136,25 +111,25 @@
    "town": "Vonore",
    "county": "Monroe",
    "url": "https://www.redfin.com/TN/Vonore/2010-Tennessee-72-37885/home/200845629",
+   "missCount": 2
+  },
+  {
+   "id": "rf205401179",
+   "acres": 5.02,
+   "price": 200000,
+   "town": "Philadelphia",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Philadelphia/Lot-21-Pond-Creek-Rd-37846/home/205401179",
    "missCount": 1
   },
   {
-   "id": "rf103357583",
-   "acres": 1.05,
-   "price": 38200,
-   "town": "Sweetwater",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Sweetwater/Edgewood-Dr-37874/home/103357583",
-   "missCount": 2
-  },
-  {
-   "id": "rf206362990",
-   "acres": 2.09,
-   "price": 90000,
-   "town": "Sweetwater",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Sweetwater/4-Forkner-Chapel-Rd-37874/home/206362990",
-   "missCount": 2
+   "id": "rf205401200",
+   "acres": 5.01,
+   "price": 200000,
+   "town": "Philadelphia",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Philadelphia/22-Pond-Creek-Rd-37846/home/205401200",
+   "missCount": 1
   },
   {
    "id": "cl9016b6e096",
@@ -163,7 +138,7 @@
    "town": "Loudon",
    "county": "Roane",
    "url": "https://www.craigslist.org/view/d/loudon-land-099-acres-eagle-nest-dr/cMBtyhXP8RG-srAKOxNwyA",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf206979747",
@@ -172,16 +147,16 @@
    "town": "Maynardville",
    "county": "Union",
    "url": "https://www.redfin.com/TN/Maynardville/2-N-Glen-Rd-37807/home/206979747",
-   "missCount": 1
+   "missCount": 2
   },
   {
-   "id": "rf205648487",
-   "acres": 0.51,
-   "price": 70000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/5850-Lucerne-Ln-37921/home/205648487",
-   "missCount": 2
+   "id": "rf111323247",
+   "acres": 0.68,
+   "price": 150000,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/524-Allensville-Rd-37876/unit-15/home/111323247",
+   "missCount": 1
   },
   {
    "id": "rf63025920",
@@ -190,7 +165,7 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/10311-N-River-Trl-37922/home/63025920",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf163457804",
@@ -199,31 +174,46 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/McCalla-Ave-37915/home/163457804",
-   "missCount": 1
+   "missCount": 2
   }
  ],
- "retired": [],
+ "retired": [
+  {
+   "id": "rf103357583",
+   "acres": 1.05,
+   "price": 38200,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/Edgewood-Dr-37874/home/103357583"
+  },
+  {
+   "id": "rf206362990",
+   "acres": 2.09,
+   "price": 90000,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/4-Forkner-Chapel-Rd-37874/home/206362990"
+  },
+  {
+   "id": "rf205648487",
+   "acres": 0.51,
+   "price": 70000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/5850-Lucerne-Ln-37921/home/205648487"
+  }
+ ],
  "gone": [],
  "tooFar": [
   {
-   "id": "rf207021377",
-   "acres": 2.39,
-   "price": 80000,
-   "town": "Bean Station",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Bean-Station/96-Huckleberry-Hollow-Rd-37708/home/207021377",
-   "drive": 54,
-   "shopMin": 16
-  },
-  {
-   "id": "rf111137442",
-   "acres": 7.3,
-   "price": 99000,
+   "id": "rf207029579",
+   "acres": 0.68,
+   "price": 150000,
    "town": "Sevierville",
    "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Unknown-37876/home/111137442",
-   "drive": 65,
-   "shopMin": 35
+   "url": "https://www.redfin.com/TN/Sevierville/Tradition-Ln-37862/unit-15/home/207029579",
+   "drive": 46,
+   "shopMin": 17
   }
  ],
  "tooSteep": [],
