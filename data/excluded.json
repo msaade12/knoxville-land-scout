@@ -10970,5 +10970,29 @@
   "detail": "17 min to Aldi, Sevierville",
   "on": "2026-11-17",
   "town": "Sevierville"
+ },
+ "rf176687075": {
+  "reason": "too far",
+  "detail": "17 min to Ingles, Lenoir City",
+  "on": "2026-11-18",
+  "town": "Friendsville"
+ },
+ "rf207034140": {
+  "reason": "too far",
+  "detail": "61 min to Knoxville",
+  "on": "2026-11-18",
+  "town": "Ten Mile"
+ },
+ "rf87502997": {
+  "reason": "too far",
+  "detail": "16 min to Food City, Loudon",
+  "on": "2026-11-18",
+  "town": "Sweetwater"
+ },
+ "rf172585360": {
+  "reason": "too far",
+  "detail": "81 min to Knoxville",
+  "on": "2026-11-18",
+  "town": "Lafollette"
  }
 }

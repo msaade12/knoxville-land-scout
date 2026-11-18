@@ -1,5 +1,5 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "auctions": [
   {
    "name": "The Estate of Royce W. Slaven II- 6 parcels of real estate- 4 BR Waterfront home, 2 acreage tracts near lake, 2 Commerci",
@@ -14,6 +14,20 @@
    "when": "2026-11-30",
    "acres": 1.3,
    "source": "Powell Auction"
+  },
+  {
+   "name": "81+/- Acres \u2013 Milburton Road \u2013 Limestone, TN 37681",
+   "url": "https://www.powellauction.com/events/milburtonroad/",
+   "when": "2026-12-05",
+   "acres": 81.0,
+   "source": "Powell Auction"
+  },
+  {
+   "name": "3 Bedroom, 2 Bath Mobile Home on 0.686+/- acre lot and 0.722+/- acre lot",
+   "url": "https://www.ayersauctionrealty.com/auction/3-bedroom-2-bath-mobile-home-on-0686--acre-lot-and-0722--acre-lot-83821/details",
+   "when": "",
+   "acres": 0.686,
+   "source": "Ayers Auction"
   }
  ]
 }
