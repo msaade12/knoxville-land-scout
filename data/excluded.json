@@ -10994,5 +10994,77 @@
   "detail": "81 min to Knoxville",
   "on": "2026-11-18",
   "town": "Lafollette"
+ },
+ "rf102963463": {
+  "reason": "too far",
+  "detail": "17 min to Food City, Sevier",
+  "on": "2026-11-19",
+  "town": "Knoxville"
+ },
+ "rf207051214": {
+  "reason": "too far",
+  "detail": "23 min to Food City, Morristown",
+  "on": "2026-11-19",
+  "town": "Rutledge"
+ },
+ "rf207051211": {
+  "reason": "too far",
+  "detail": "23 min to Food City, Morristown",
+  "on": "2026-11-19",
+  "town": "Rutledge"
+ },
+ "rf207051209": {
+  "reason": "too far",
+  "detail": "23 min to Food City, Morristown",
+  "on": "2026-11-19",
+  "town": "Rutledge"
+ },
+ "rf207051208": {
+  "reason": "too far",
+  "detail": "24 min to Walmart, Jefferson City",
+  "on": "2026-11-19",
+  "town": "Rutledge"
+ },
+ "rf207051117": {
+  "reason": "too far",
+  "detail": "23 min to Food City, Morristown",
+  "on": "2026-11-19",
+  "town": "Rutledge"
+ },
+ "rf207051116": {
+  "reason": "too far",
+  "detail": "23 min to Food City, Morristown",
+  "on": "2026-11-19",
+  "town": "Rutledge"
+ },
+ "rf207051080": {
+  "reason": "too far",
+  "detail": "23 min to Food City, Morristown",
+  "on": "2026-11-19",
+  "town": "Rutledge"
+ },
+ "rf207051079": {
+  "reason": "too far",
+  "detail": "22 min to Food City, Morristown",
+  "on": "2026-11-19",
+  "town": "Rutledge"
+ },
+ "rf207048418": {
+  "reason": "too far",
+  "detail": "77 min to Knoxville",
+  "on": "2026-11-19",
+  "town": "Tellico Plains"
+ },
+ "rf87489763": {
+  "reason": "too far",
+  "detail": "64 min to Knoxville",
+  "on": "2026-11-19",
+  "town": "Jellico"
+ },
+ "cl7faf7787ce": {
+  "reason": "too far",
+  "detail": "62 min to Knoxville",
+  "on": "2026-11-19",
+  "town": "Sharps Chapel"
  }
 }
