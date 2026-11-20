@@ -11066,5 +11066,17 @@
   "detail": "62 min to Knoxville",
   "on": "2026-11-19",
   "town": "Sharps Chapel"
+ },
+ "rf194342752": {
+  "reason": "too far",
+  "detail": "20 min to Walmart, Maryville",
+  "on": "2026-11-20",
+  "town": "Maryville"
+ },
+ "rf103001621": {
+  "reason": "too steep",
+  "slope": 20.6,
+  "on": "2026-11-20",
+  "town": "Maynardville"
  }
 }

@@ -1,143 +1,124 @@
 {
- "generated": "2026-11-19T21:40:49+00:00",
- "date": "2026-11-19",
- "count": 423,
- "confirmed": 410,
+ "generated": "2026-11-20T21:06:10+00:00",
+ "date": "2026-11-20",
+ "count": 426,
+ "confirmed": 413,
  "new": [
   {
-   "id": "rf189413562",
-   "acres": 0.14,
-   "price": 124900,
-   "ppa": 892143,
-   "town": "Loudon",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Loudon/607-Black-Bear-Cir-37774/home/189413562"
+   "id": "rf207083138",
+   "acres": 1.0,
+   "price": 65000,
+   "ppa": 65000,
+   "town": "Mascot",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Mascot/McKinney-Rd-37806/unit-3/home/207083138"
   },
   {
-   "id": "rf207054547",
-   "acres": 1.76,
-   "price": 79000,
-   "ppa": 44886,
+   "id": "rf62995842",
+   "acres": 0.45,
+   "price": 55000,
+   "ppa": 122222,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4900-Laurelwood-Rd-37918/home/62995842"
+  },
+  {
+   "id": "rf87185038",
+   "acres": 0.93,
+   "price": 99900,
+   "ppa": 107419,
+   "town": "Maryville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Maryville/Alnwick-Blvd-37801/home/87185038"
+  },
+  {
+   "id": "rf87142894",
+   "acres": 0.69,
+   "price": 219900,
+   "ppa": 318696,
+   "town": "Lenoir City",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Lenoir-City/115-Lane-Rd-37772/home/87142894"
+  },
+  {
+   "id": "rf197858151",
+   "acres": 13.04,
+   "price": 99000,
+   "ppa": 7592,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/Indian-Creek-Rd-37725/home/197858151"
+  },
+  {
+   "id": "rf207067118",
+   "acres": 1.92,
+   "price": 89000,
+   "ppa": 46354,
    "town": "White Pine",
    "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/White-Pine/2R-3R-Harrison-Rd-37890/home/207054547"
+   "url": "https://www.redfin.com/TN/White-Pine/2R-4B-Harrison-Rd-37890/home/207067118"
   },
   {
-   "id": "rf111080575",
-   "acres": 0.18,
-   "price": 49900,
-   "ppa": 277222,
-   "town": "Gatlinburg",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Gatlinburg/212-Laurel-Ln-37738/home/111080575"
-  },
-  {
-   "id": "rf103357559",
-   "acres": 0.76,
-   "price": 42500,
-   "ppa": 55921,
-   "town": "Sweetwater",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Sweetwater/Linwood-Dr-37874/home/103357559"
-  },
-  {
-   "id": "rf179308779",
-   "acres": 2.0,
-   "price": 55000,
-   "ppa": 27500,
-   "town": "Caryville",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/Caryville/353-Walden-Ridge-Ln-37714/home/179308779"
-  },
-  {
-   "id": "cld573ab2d52",
-   "acres": 0.5,
-   "price": 195000,
-   "ppa": 390000,
+   "id": "rf207079153",
+   "acres": 0.95,
+   "price": 101000,
+   "ppa": 106316,
    "town": "Sevierville",
    "county": "Sevier",
-   "url": "https://www.craigslist.org/view/d/sevierville-land-05-acres-bird-nest-way/rg-FHhfk8RG9wIizYXH8hg"
-  },
-  {
-   "id": "cl1a18805840",
-   "acres": 0.99,
-   "price": 89950,
-   "ppa": 90859,
-   "town": "Loudon",
-   "county": "Roane",
-   "url": "https://www.craigslist.org/view/d/loudon-land-099-acres-eagle-nest-dr/bG5kF9Lj8RGwDYrt_Nnzkg"
+   "url": "https://www.redfin.com/TN/Sevierville/Lot-15-Tiffany-Way-37862/home/207079153"
   }
  ],
  "priceCuts": [
   {
-   "id": "rf163479341",
-   "from": 60000,
-   "to": 58000,
-   "delta": -2000,
-   "acres": 0.32,
+   "id": "rf163367816",
+   "from": 27500,
+   "to": 25000,
+   "delta": -2500,
+   "acres": 0.19,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1201-Chestnut-St-37920/home/163479341"
-  },
-  {
-   "id": "rf197048683",
-   "from": 240000,
-   "to": 220000,
-   "delta": -20000,
-   "acres": 3.93,
-   "town": "Walland",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Walland/4536-E-Lamar-Alexander-Pkwy-37886/home/197048683"
-  },
-  {
-   "id": "rf203501268",
-   "from": 80000,
-   "to": 75000,
-   "delta": -5000,
-   "acres": 0.3,
-   "town": "Lenoir City",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Lenoir-City/2-W-9th-Ave-37771/home/203501268"
-  },
-  {
-   "id": "rf87139939",
-   "from": 65000,
-   "to": 60000,
-   "delta": -5000,
-   "acres": 0.27,
-   "town": "Lenoir City",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Lenoir-City/Unknown-37771/home/87139939"
+   "url": "https://www.redfin.com/TN/Knoxville/1018-Cedarwood-St-37914/home/163367816"
   }
  ],
- "priceIncreases": [],
+ "priceIncreases": [
+  {
+   "id": "rf103357559",
+   "from": 42500,
+   "to": 45000,
+   "delta": 2500,
+   "acres": 0.76,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/Linwood-Dr-37874/home/103357559"
+  }
+ ],
  "unconfirmed": [
   {
-   "id": "cl09a90964b1",
-   "acres": 1.07,
-   "price": 5500,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.craigslist.org/view/d/rockwood-107-acre-lot-rockwood-roane/rtkff3NXqm7dSRXMfrBzRL",
+   "id": "rf87567218",
+   "acres": 4.5,
+   "price": 50000,
+   "town": "Lake City",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/Lake-City/Mountain-Side-Ln-37769/home/87567218",
    "missCount": 1
   },
   {
-   "id": "rf87526767",
-   "acres": 8.4,
-   "price": 115000,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/Mountain-View-Rd-N-37854/home/87526767",
-   "missCount": 2
+   "id": "rf112981467",
+   "acres": 5.45,
+   "price": 140900,
+   "town": "Powell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Powell/8200-Schroeder-Rd-37849/home/112981467",
+   "missCount": 1
   },
   {
-   "id": "rf124637556",
-   "acres": 0.46,
-   "price": 9950,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Hensley-Hollow-Rd-37725/home/124637556",
-   "missCount": 2
+   "id": "rf163431409",
+   "acres": 1.07,
+   "price": 50000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Dutch-Valley-Dr-37918/home/163431409",
+   "missCount": 1
   },
   {
    "id": "rf62899122",
@@ -146,16 +127,16 @@
    "town": "Harriman",
    "county": "Roane",
    "url": "https://www.redfin.com/TN/Harriman/328-Keylon-Dr-37748/home/62899122",
-   "missCount": 1
+   "missCount": 2
   },
   {
-   "id": "rf109583233",
-   "acres": 0.69,
-   "price": 49900,
-   "town": "Maryville",
-   "county": "Blount",
-   "url": "https://www.redfin.com/TN/Maryville/Rock-Hill-Rd-37804/home/109583233",
-   "missCount": 2
+   "id": "rf191746041",
+   "acres": 3.2,
+   "price": 169900,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/3-Oakland-Rd-37874/home/191746041",
+   "missCount": 1
   },
   {
    "id": "rf163446626",
@@ -164,15 +145,6 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/Lilac-Ave-37914/home/163446626",
-   "missCount": 1
-  },
-  {
-   "id": "rf199142602",
-   "acres": 1.0,
-   "price": 100000,
-   "town": "Lenoir City",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Lenoir-City/17171-Meadow-Rd-W-37772/home/199142602",
    "missCount": 2
   },
   {
@@ -182,7 +154,7 @@
    "town": "Loudon",
    "county": "Roane",
    "url": "https://www.craigslist.org/view/d/loudon-land-099-acres-eagle-nest-dr/LGdvNN_h8RGYtM1F3X5RYg",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf103864842",
@@ -191,7 +163,7 @@
    "town": "Harriman",
    "county": "Roane",
    "url": "https://www.redfin.com/TN/Harriman/Vann-Dr-37748/home/103864842",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf104534073",
@@ -200,7 +172,7 @@
    "town": "Jacksboro",
    "county": "Campbell",
    "url": "https://www.redfin.com/TN/Jacksboro/Unknown-37757/home/104534073",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf104539710",
@@ -209,7 +181,7 @@
    "town": "Jacksboro",
    "county": "Campbell",
    "url": "https://www.redfin.com/TN/Jacksboro/Perkins-Ln-37757/home/104539710",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf103870944",
@@ -218,7 +190,7 @@
    "town": "Kingston",
    "county": "Roane",
    "url": "https://www.redfin.com/TN/Kingston/Raintree-Ln-37763/home/103870944",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "cl843d11886e",
@@ -227,167 +199,76 @@
    "town": "Sevierville",
    "county": "Sevier",
    "url": "https://www.craigslist.org/view/d/sevierville-land-05-acres-bird-nest-way/sBL9Kina8RGyl8Piv4H-ag",
+   "missCount": 2
+  },
+  {
+   "id": "rf189413562",
+   "acres": 0.14,
+   "price": 124900,
+   "town": "Loudon",
+   "county": "Loudon",
+   "url": "https://www.redfin.com/TN/Loudon/607-Black-Bear-Cir-37774/home/189413562",
    "missCount": 1
   }
  ],
  "retired": [
   {
-   "id": "rf103002490",
-   "acres": 6.87,
-   "price": 69000,
-   "town": "Maynardville",
-   "county": "Union",
-   "url": "https://www.redfin.com/TN/Maynardville/Unknown-37807/home/103002490"
+   "id": "rf87526767",
+   "acres": 8.4,
+   "price": 115000,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.redfin.com/TN/Rockwood/Mountain-View-Rd-N-37854/home/87526767"
   },
   {
-   "id": "rf205401179",
-   "acres": 5.02,
-   "price": 200000,
-   "town": "Philadelphia",
+   "id": "rf124637556",
+   "acres": 0.46,
+   "price": 9950,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/Hensley-Hollow-Rd-37725/home/124637556"
+  },
+  {
+   "id": "rf109583233",
+   "acres": 0.69,
+   "price": 49900,
+   "town": "Maryville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Maryville/Rock-Hill-Rd-37804/home/109583233"
+  },
+  {
+   "id": "rf199142602",
+   "acres": 1.0,
+   "price": 100000,
+   "town": "Lenoir City",
    "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Philadelphia/Lot-21-Pond-Creek-Rd-37846/home/205401179"
-  },
-  {
-   "id": "rf205401200",
-   "acres": 5.01,
-   "price": 200000,
-   "town": "Philadelphia",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Philadelphia/22-Pond-Creek-Rd-37846/home/205401200"
-  },
-  {
-   "id": "rf111323247",
-   "acres": 0.68,
-   "price": 150000,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/524-Allensville-Rd-37876/unit-15/home/111323247"
+   "url": "https://www.redfin.com/TN/Lenoir-City/17171-Meadow-Rd-W-37772/home/199142602"
   }
  ],
  "gone": [],
  "tooFar": [
   {
-   "id": "rf102963463",
-   "acres": 1.0,
-   "price": 65000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/3832-Mutton-Hollow-Rd-37920/home/102963463",
-   "drive": 30,
-   "shopMin": 17
-  },
-  {
-   "id": "rf207051214",
-   "acres": 1.87,
-   "price": 54900,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/Cherry-St-37861/unit-050-00909/home/207051214",
-   "drive": 38,
-   "shopMin": 23
-  },
-  {
-   "id": "rf207051211",
-   "acres": 1.89,
-   "price": 54900,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/Cherry-St-37861/unit-050-908/home/207051211",
-   "drive": 38,
-   "shopMin": 23
-  },
-  {
-   "id": "rf207051209",
-   "acres": 1.76,
-   "price": 54900,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/Cherry-St-37861/unit-050-9/home/207051209",
-   "drive": 38,
-   "shopMin": 23
-  },
-  {
-   "id": "rf207051208",
-   "acres": 1.66,
-   "price": 59900,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/5-Cherry-St-37861/unit-050-9/home/207051208",
-   "drive": 36,
-   "shopMin": 24
-  },
-  {
-   "id": "rf207051117",
-   "acres": 0.81,
-   "price": 54900,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/Lot-4-Rutledge-Pike-37861/unit-050-9/home/207051117",
-   "drive": 37,
-   "shopMin": 23
-  },
-  {
-   "id": "rf207051116",
-   "acres": 0.82,
-   "price": 54900,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/Lot-3-Rutledge-Pike-37861/unit-050-9/home/207051116",
-   "drive": 37,
-   "shopMin": 23
-  },
-  {
-   "id": "rf207051080",
-   "acres": 0.72,
-   "price": 89900,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/1333-Cherry-St-37861/unit-050-00900/home/207051080",
-   "drive": 38,
-   "shopMin": 23
-  },
-  {
-   "id": "rf207051079",
-   "acres": 0.83,
-   "price": 54900,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/Lot-2-Rutledge-Pike-37861/home/207051079",
-   "drive": 38,
-   "shopMin": 22
-  },
-  {
-   "id": "rf207048418",
-   "acres": 6.66,
-   "price": 179900,
-   "town": "Tellico Plains",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Tellico-Plains/1478-Fairview-Rd-37385/home/207048418",
-   "drive": 77,
-   "shopMin": 23
-  },
-  {
-   "id": "rf87489763",
-   "acres": 2.04,
-   "price": 60000,
-   "town": "Jellico",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/Jellico/510-Douglas-Ln-37762/home/87489763",
-   "drive": 64,
-   "shopMin": 15
-  },
-  {
-   "id": "cl7faf7787ce",
-   "acres": 8.0,
-   "price": 85000,
-   "town": "Sharps Chapel",
-   "county": "Union",
-   "url": "https://www.craigslist.org/view/d/sharps-chapel-acres-in-norris-lake/qvN49P9fejmrgEjbNb5Pyg",
-   "drive": 62,
-   "shopMin": 28
+   "id": "rf194342752",
+   "acres": 5.5,
+   "price": 165000,
+   "town": "Maryville",
+   "county": "Blount",
+   "url": "https://www.redfin.com/TN/Maryville/3528-Boone-Docks-Way-37803/home/194342752",
+   "drive": 47,
+   "shopMin": 20
   }
  ],
- "tooSteep": [],
+ "tooSteep": [
+  {
+   "id": "rf103001621",
+   "acres": 0.68,
+   "price": 250000,
+   "town": "Maynardville",
+   "county": "Union",
+   "url": "https://www.redfin.com/TN/Maynardville/Jessee-Rd-37807/home/103001621",
+   "slope": 20.6
+  }
+ ],
  "rejected": [],
  "baseline": false
 }
