@@ -11078,5 +11078,17 @@
   "slope": 20.6,
   "on": "2026-11-20",
   "town": "Maynardville"
+ },
+ "rf207091998": {
+  "reason": "too far",
+  "detail": "22 min to Walmart, Jefferson City",
+  "on": "2026-11-21",
+  "town": "Rutledge"
+ },
+ "rf207084327": {
+  "reason": "too far",
+  "detail": "27 min to Walmart, Jefferson City",
+  "on": "2026-11-21",
+  "town": "Rutledge"
  }
 }
