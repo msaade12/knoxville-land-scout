@@ -1,104 +1,30 @@
 {
- "generated": "2026-11-21T20:04:43+00:00",
- "date": "2026-11-21",
- "count": 426,
- "confirmed": 418,
+ "generated": "2026-11-22T20:19:09+00:00",
+ "date": "2026-11-22",
+ "count": 422,
+ "confirmed": 417,
  "new": [
   {
-   "id": "rf206898209",
-   "acres": 0.41,
-   "price": 57500,
-   "ppa": 140244,
-   "town": "Lenoir City",
-   "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Lenoir-City/Davis-Dr-37772/home/206898209"
-  },
-  {
-   "id": "rf207091558",
-   "acres": 0.18,
-   "price": 24900,
-   "ppa": 138333,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/766-S-Kingston-Ave-37854/home/207091558"
-  },
-  {
-   "id": "rf207091542",
-   "acres": 0.18,
-   "price": 24900,
-   "ppa": 138333,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/756-S-Kingston-Ave-37854/home/207091542"
-  },
-  {
-   "id": "rf207091541",
-   "acres": 0.18,
-   "price": 26900,
-   "ppa": 149444,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/746-S-Kingston-Ave-37854/home/207091541"
-  },
-  {
-   "id": "rf207091529",
-   "acres": 0.29,
-   "price": 34900,
-   "ppa": 120345,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/120-Tarwater-St-37854/home/207091529"
-  },
-  {
-   "id": "rf207091528",
-   "acres": 0.18,
-   "price": 24900,
-   "ppa": 138333,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/736-S-Kingston-Ave-37854/home/207091528"
-  },
-  {
-   "id": "rf207091527",
-   "acres": 0.18,
-   "price": 24900,
-   "ppa": 138333,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Rockwood/726-S-Kingston-Ave-37854/home/207091527"
-  },
-  {
-   "id": "rf87524231",
-   "acres": 2.2,
-   "price": 60000,
-   "ppa": 27273,
-   "town": "Harriman",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/Old-Highway-70-37748/home/87524231"
+   "id": "rf163527612",
+   "acres": 0.12,
+   "price": 59900,
+   "ppa": 499167,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Oswald-St-37917/home/163527612"
   }
  ],
- "priceCuts": [
-  {
-   "id": "rf124653228",
-   "from": 125000,
-   "to": 100000,
-   "delta": -25000,
-   "acres": 1.7,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/719-Riveredge-Ln-37725/home/124653228"
-  }
- ],
+ "priceCuts": [],
  "priceIncreases": [],
  "unconfirmed": [
   {
-   "id": "rf87567218",
-   "acres": 4.5,
-   "price": 50000,
-   "town": "Lake City",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/Lake-City/Mountain-Side-Ln-37769/home/87567218",
-   "missCount": 2
+   "id": "cl09a90964b1",
+   "acres": 1.07,
+   "price": 5500,
+   "town": "Rockwood",
+   "county": "Roane",
+   "url": "https://www.craigslist.org/view/d/rockwood-107-acre-lot-rockwood-roane/rtkff3NXqm7dSRXMfrBzRL",
+   "missCount": 1
   },
   {
    "id": "rf87523545",
@@ -107,15 +33,6 @@
    "town": "Harriman",
    "county": "Roane",
    "url": "https://www.redfin.com/TN/Harriman/950-Cumberland-St-37748/home/87523545",
-   "missCount": 1
-  },
-  {
-   "id": "rf112981467",
-   "acres": 5.45,
-   "price": 140900,
-   "town": "Powell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Powell/8200-Schroeder-Rd-37849/home/112981467",
    "missCount": 2
   },
   {
@@ -125,25 +42,16 @@
    "town": "Mascot",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Mascot/3824-Strong-Rd-37806/home/87486218",
+   "missCount": 2
+  },
+  {
+   "id": "rf207054547",
+   "acres": 1.76,
+   "price": 79000,
+   "town": "White Pine",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/White-Pine/2R-3R-Harrison-Rd-37890/home/207054547",
    "missCount": 1
-  },
-  {
-   "id": "rf163431409",
-   "acres": 1.07,
-   "price": 50000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Dutch-Valley-Dr-37918/home/163431409",
-   "missCount": 2
-  },
-  {
-   "id": "rf191746041",
-   "acres": 3.2,
-   "price": 169900,
-   "town": "Sweetwater",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Sweetwater/3-Oakland-Rd-37874/home/191746041",
-   "missCount": 2
   },
   {
    "id": "rf189909631",
@@ -152,7 +60,41 @@
    "town": "Dandridge",
    "county": "Jefferson",
    "url": "https://www.redfin.com/TN/Dandridge/1901-Bootbluff-Trl-37725/home/189909631",
-   "missCount": 1
+   "missCount": 2
+  }
+ ],
+ "retired": [
+  {
+   "id": "rf87567218",
+   "acres": 4.5,
+   "price": 50000,
+   "town": "Lake City",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/Lake-City/Mountain-Side-Ln-37769/home/87567218"
+  },
+  {
+   "id": "rf112981467",
+   "acres": 5.45,
+   "price": 140900,
+   "town": "Powell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Powell/8200-Schroeder-Rd-37849/home/112981467"
+  },
+  {
+   "id": "rf163431409",
+   "acres": 1.07,
+   "price": 50000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/Dutch-Valley-Dr-37918/home/163431409"
+  },
+  {
+   "id": "rf191746041",
+   "acres": 3.2,
+   "price": 169900,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/3-Oakland-Rd-37874/home/191746041"
   },
   {
    "id": "rf189413562",
@@ -160,97 +102,30 @@
    "price": 124900,
    "town": "Loudon",
    "county": "Loudon",
-   "url": "https://www.redfin.com/TN/Loudon/607-Black-Bear-Cir-37774/home/189413562",
-   "missCount": 2
-  }
- ],
- "retired": [
-  {
-   "id": "rf62899122",
-   "acres": 0.94,
-   "price": 48000,
-   "town": "Harriman",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/328-Keylon-Dr-37748/home/62899122"
-  },
-  {
-   "id": "rf163446626",
-   "acres": 0.38,
-   "price": 30000,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Lilac-Ave-37914/home/163446626"
-  },
-  {
-   "id": "cl5b6bd0e892",
-   "acres": 0.99,
-   "price": 99950,
-   "town": "Loudon",
-   "county": "Roane",
-   "url": "https://www.craigslist.org/view/d/loudon-land-099-acres-eagle-nest-dr/LGdvNN_h8RGYtM1F3X5RYg"
-  },
-  {
-   "id": "rf103864842",
-   "acres": 0.34,
-   "price": 37500,
-   "town": "Harriman",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Harriman/Vann-Dr-37748/home/103864842"
-  },
-  {
-   "id": "rf104534073",
-   "acres": 0.45,
-   "price": 49900,
-   "town": "Jacksboro",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/Jacksboro/Unknown-37757/home/104534073"
-  },
-  {
-   "id": "rf104539710",
-   "acres": 0.37,
-   "price": 45000,
-   "town": "Jacksboro",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/Jacksboro/Perkins-Ln-37757/home/104539710"
-  },
-  {
-   "id": "rf103870944",
-   "acres": 0.26,
-   "price": 37500,
-   "town": "Kingston",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Kingston/Raintree-Ln-37763/home/103870944"
-  },
-  {
-   "id": "cl843d11886e",
-   "acres": 0.5,
-   "price": 195000,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.craigslist.org/view/d/sevierville-land-05-acres-bird-nest-way/sBL9Kina8RGyl8Piv4H-ag"
+   "url": "https://www.redfin.com/TN/Loudon/607-Black-Bear-Cir-37774/home/189413562"
   }
  ],
  "gone": [],
  "tooFar": [
   {
-   "id": "rf207091998",
-   "acres": 0.81,
-   "price": 57500,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/TBD-Redbird-Ln-37861/home/207091998",
-   "drive": 46,
-   "shopMin": 22
+   "id": "rf207093204",
+   "acres": 0.85,
+   "price": 95000,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/Lot-60-61-Red-Cedar-Ln-37876/home/207093204",
+   "drive": 47,
+   "shopMin": 17
   },
   {
-   "id": "rf207084327",
-   "acres": 5.52,
-   "price": 159000,
-   "town": "Rutledge",
-   "county": "Grainger",
-   "url": "https://www.redfin.com/TN/Rutledge/Cherry-St-37861/unit-050-009/home/207084327",
-   "drive": 38,
-   "shopMin": 27
+   "id": "rf207094416",
+   "acres": 0.79,
+   "price": 129900,
+   "town": "Tellico Plains",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Tellico-Plains/0001-Rafter-Rd-37385/home/207094416",
+   "drive": 74,
+   "shopMin": 19
   }
  ],
  "tooSteep": [],
