@@ -11108,5 +11108,29 @@
   "detail": "28 min to Food City, Morristown",
   "on": "2026-11-24",
   "town": "Rutledge"
+ },
+ "rf207117011": {
+  "reason": "too far",
+  "detail": "16 min to Food City, Maynardville City Limits",
+  "on": "2026-11-24",
+  "town": "Maynardville"
+ },
+ "rf191900936": {
+  "reason": "too far",
+  "detail": "21 min to Publix, Pigeon Forge",
+  "on": "2026-11-24",
+  "town": "Sevierville"
+ },
+ "rf103365186": {
+  "reason": "too far",
+  "detail": "87 min to Knoxville",
+  "on": "2026-11-24",
+  "town": "Tellico Plains"
+ },
+ "rf207112825": {
+  "reason": "too far",
+  "detail": "72 min to Knoxville",
+  "on": "2026-11-24",
+  "town": "Vonore"
  }
 }
