@@ -11132,5 +11132,23 @@
   "detail": "72 min to Knoxville",
   "on": "2026-11-24",
   "town": "Vonore"
+ },
+ "rf124435713": {
+  "reason": "too far",
+  "detail": "18 min to Food City, Dandridge",
+  "on": "2026-11-25",
+  "town": "Dandridge"
+ },
+ "rf207124846": {
+  "reason": "too far",
+  "detail": "20 min to Food City, Newport",
+  "on": "2026-11-25",
+  "town": "Dandridge"
+ },
+ "rf112965526": {
+  "reason": "too far",
+  "detail": "62 min to Knoxville",
+  "on": "2026-11-25",
+  "town": "Sevierville"
  }
 }
