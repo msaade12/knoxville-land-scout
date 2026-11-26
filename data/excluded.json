@@ -11150,5 +11150,11 @@
   "detail": "62 min to Knoxville",
   "on": "2026-11-25",
   "town": "Sevierville"
+ },
+ "rf200519604": {
+  "reason": "too far",
+  "detail": "18 min to Walmart, Jacksboro",
+  "on": "2026-11-26",
+  "town": "Jacksboro"
  }
 }

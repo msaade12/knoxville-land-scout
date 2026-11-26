@@ -1,112 +1,42 @@
 {
- "generated": "2026-11-25T22:29:29+00:00",
- "date": "2026-11-25",
- "count": 430,
- "confirmed": 416,
+ "generated": "2026-11-26T22:17:42+00:00",
+ "date": "2026-11-26",
+ "count": 423,
+ "confirmed": 417,
  "new": [
   {
-   "id": "rf189943876",
-   "acres": 0.38,
-   "price": 79900,
-   "ppa": 210263,
+   "id": "rf163605119",
+   "acres": 2.94,
+   "price": 100000,
+   "ppa": 34014,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/704-Hamid-Pl-37920/home/189943876"
+   "url": "https://www.redfin.com/TN/Knoxville/Wilson-Rd-37912/home/163605119"
   },
   {
-   "id": "rf103863096",
-   "acres": 8.5,
-   "price": 219990,
-   "ppa": 25881,
+   "id": "rf87536940",
+   "acres": 1.4,
+   "price": 125000,
+   "ppa": 89286,
    "town": "Oliver Springs",
-   "county": "Roane",
-   "url": "https://www.redfin.com/TN/Oliver-Springs/779-Old-Harriman-Hwy-37840/home/103863096"
-  },
-  {
-   "id": "rf62974851",
-   "acres": 2.95,
-   "price": 89000,
-   "ppa": 30169,
-   "town": "Harriman",
    "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Harriman/135-Leopper-Rd-37748/home/62974851"
+   "url": "https://www.redfin.com/TN/Oliver-Springs/Cove-Ln-37840/home/87536940"
   }
  ],
- "priceCuts": [],
+ "priceCuts": [
+  {
+   "id": "rf87492170",
+   "from": 125000,
+   "to": 115000,
+   "delta": -10000,
+   "acres": 3.66,
+   "town": "La Follette",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/La-Follette/901-W-Kentucky-Ave-37766/home/87492170"
+  }
+ ],
  "priceIncreases": [],
  "unconfirmed": [
-  {
-   "id": "cl09a90964b1",
-   "acres": 1.07,
-   "price": 5500,
-   "town": "Rockwood",
-   "county": "Roane",
-   "url": "https://www.craigslist.org/view/d/rockwood-107-acre-lot-rockwood-roane/rtkff3NXqm7dSRXMfrBzRL",
-   "missCount": 1
-  },
-  {
-   "id": "rf87707475",
-   "acres": 6.9,
-   "price": 100000,
-   "town": "Powell",
-   "county": "Anderson",
-   "url": "https://www.redfin.com/TN/Powell/Creek-Rd-37849/home/87707475",
-   "missCount": 2
-  },
-  {
-   "id": "rf206371233",
-   "acres": 12.71,
-   "price": 250000,
-   "town": "Powell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Powell/Lot-3-Conner-Rd-37849/home/206371233",
-   "missCount": 2
-  },
-  {
-   "id": "rf206364787",
-   "acres": 12.0,
-   "price": 250000,
-   "town": "Powell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Powell/Lot-1-Conner-Rd-37849/home/206364787",
-   "missCount": 2
-  },
-  {
-   "id": "rf206365034",
-   "acres": 11.23,
-   "price": 250000,
-   "town": "Powell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Powell/Lot-2-Conner-Rd-37849/home/206365034",
-   "missCount": 2
-  },
-  {
-   "id": "rf190912826",
-   "acres": 5.02,
-   "price": 149900,
-   "town": "Strawberry Plains",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Strawberry-Plains/5130-Stiles-Ln-37871/home/190912826",
-   "missCount": 2
-  },
-  {
-   "id": "rf207039930",
-   "acres": 1.17,
-   "price": 49999,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/1040-U-S-25W-37725/unit-1/home/207039930",
-   "missCount": 2
-  },
-  {
-   "id": "rf207067118",
-   "acres": 1.92,
-   "price": 89000,
-   "town": "White Pine",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/White-Pine/2R-4B-Harrison-Rd-37890/home/207067118",
-   "missCount": 2
-  },
   {
    "id": "rf205386192",
    "acres": 0.64,
@@ -114,7 +44,7 @@
    "town": "Sweetwater",
    "county": "Monroe",
    "url": "https://www.redfin.com/TN/Sweetwater/Merrywood-Ests-37874/unit-30/home/205386192",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf207083138",
@@ -123,25 +53,25 @@
    "town": "Mascot",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Mascot/McKinney-Rd-37806/unit-3/home/207083138",
+   "missCount": 2
+  },
+  {
+   "id": "rf203472641",
+   "acres": 0.76,
+   "price": 62000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4921-Wise-Hills-Rd-37920/unit-2/home/203472641",
    "missCount": 1
   },
   {
-   "id": "rf207079153",
-   "acres": 0.95,
-   "price": 101000,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Lot-15-Tiffany-Way-37862/home/207079153",
-   "missCount": 2
-  },
-  {
-   "id": "rf124551212",
-   "acres": 2.0,
-   "price": 249900,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Chestnut-Hill-Rd-37725/home/124551212",
-   "missCount": 2
+   "id": "rf203146151",
+   "acres": 0.76,
+   "price": 62000,
+   "town": "Knoxville",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Knoxville/4921-Wise-Hills-Rd-37920/unit-1/home/203146151",
+   "missCount": 1
   },
   {
    "id": "rf62996562",
@@ -150,7 +80,7 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/1417-Joe-Hinton-Rd-37931/home/62996562",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf163381573",
@@ -159,50 +89,94 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/1413-Joe-Hinton-Rd-37931/home/163381573",
-   "missCount": 1
+   "missCount": 2
   }
  ],
  "retired": [
   {
-   "id": "rf207054547",
-   "acres": 1.76,
-   "price": 79000,
+   "id": "rf87707475",
+   "acres": 6.9,
+   "price": 100000,
+   "town": "Powell",
+   "county": "Anderson",
+   "url": "https://www.redfin.com/TN/Powell/Creek-Rd-37849/home/87707475"
+  },
+  {
+   "id": "rf206371233",
+   "acres": 12.71,
+   "price": 250000,
+   "town": "Powell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Powell/Lot-3-Conner-Rd-37849/home/206371233"
+  },
+  {
+   "id": "rf206364787",
+   "acres": 12.0,
+   "price": 250000,
+   "town": "Powell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Powell/Lot-1-Conner-Rd-37849/home/206364787"
+  },
+  {
+   "id": "rf206365034",
+   "acres": 11.23,
+   "price": 250000,
+   "town": "Powell",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Powell/Lot-2-Conner-Rd-37849/home/206365034"
+  },
+  {
+   "id": "rf190912826",
+   "acres": 5.02,
+   "price": 149900,
+   "town": "Strawberry Plains",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Strawberry-Plains/5130-Stiles-Ln-37871/home/190912826"
+  },
+  {
+   "id": "rf207039930",
+   "acres": 1.17,
+   "price": 49999,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/1040-U-S-25W-37725/unit-1/home/207039930"
+  },
+  {
+   "id": "rf207067118",
+   "acres": 1.92,
+   "price": 89000,
    "town": "White Pine",
    "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/White-Pine/2R-3R-Harrison-Rd-37890/home/207054547"
+   "url": "https://www.redfin.com/TN/White-Pine/2R-4B-Harrison-Rd-37890/home/207067118"
+  },
+  {
+   "id": "rf207079153",
+   "acres": 0.95,
+   "price": 101000,
+   "town": "Sevierville",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Sevierville/Lot-15-Tiffany-Way-37862/home/207079153"
+  },
+  {
+   "id": "rf124551212",
+   "acres": 2.0,
+   "price": 249900,
+   "town": "Dandridge",
+   "county": "Jefferson",
+   "url": "https://www.redfin.com/TN/Dandridge/Chestnut-Hill-Rd-37725/home/124551212"
   }
  ],
  "gone": [],
  "tooFar": [
   {
-   "id": "rf124435713",
-   "acres": 0.1,
-   "price": 21000,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/1538-Mayflower-Ln-37725/home/124435713",
-   "drive": 50,
+   "id": "rf200519604",
+   "acres": 1.96,
+   "price": 220000,
+   "town": "Jacksboro",
+   "county": "Campbell",
+   "url": "https://www.redfin.com/TN/Jacksboro/207-Eagle-View-Ln-37757/home/200519604",
+   "drive": 53,
    "shopMin": 18
-  },
-  {
-   "id": "rf207124846",
-   "acres": 2.05,
-   "price": 48999,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/525-Fork-Horn-Trl-37725/home/207124846",
-   "drive": 52,
-   "shopMin": 20
-  },
-  {
-   "id": "rf112965526",
-   "acres": 0.42,
-   "price": 12000,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Red-Maple-Ln-37876/home/112965526",
-   "drive": 62,
-   "shopMin": 26
   }
  ],
  "tooSteep": [],
