@@ -1,59 +1,41 @@
 {
- "generated": "2026-11-26T22:17:42+00:00",
- "date": "2026-11-26",
- "count": 423,
- "confirmed": 417,
- "new": [
-  {
-   "id": "rf163605119",
-   "acres": 2.94,
-   "price": 100000,
-   "ppa": 34014,
-   "town": "Knoxville",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/Wilson-Rd-37912/home/163605119"
-  },
-  {
-   "id": "rf87536940",
-   "acres": 1.4,
-   "price": 125000,
-   "ppa": 89286,
-   "town": "Oliver Springs",
-   "county": "Morgan",
-   "url": "https://www.redfin.com/TN/Oliver-Springs/Cove-Ln-37840/home/87536940"
-  }
- ],
+ "generated": "2026-11-27T21:56:38+00:00",
+ "date": "2026-11-27",
+ "count": 419,
+ "confirmed": 416,
+ "new": [],
  "priceCuts": [
   {
-   "id": "rf87492170",
-   "from": 125000,
-   "to": 115000,
-   "delta": -10000,
-   "acres": 3.66,
-   "town": "La Follette",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/La-Follette/901-W-Kentucky-Ave-37766/home/87492170"
+   "id": "rf64332929",
+   "from": 79900,
+   "to": 79400,
+   "delta": -500,
+   "acres": 0.73,
+   "town": "Kodak",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Kodak/Lot-16-Sunrise-Blvd-37764/home/64332929"
+  },
+  {
+   "id": "rf174289545",
+   "from": 79900,
+   "to": 79400,
+   "delta": -500,
+   "acres": 0.8,
+   "town": "Kodak",
+   "county": "Sevier",
+   "url": "https://www.redfin.com/TN/Kodak/Lot-15-Sunrise-Blvd-37764/home/174289545"
   }
  ],
  "priceIncreases": [],
  "unconfirmed": [
   {
-   "id": "rf205386192",
-   "acres": 0.64,
-   "price": 33500,
-   "town": "Sweetwater",
-   "county": "Monroe",
-   "url": "https://www.redfin.com/TN/Sweetwater/Merrywood-Ests-37874/unit-30/home/205386192",
-   "missCount": 2
-  },
-  {
-   "id": "rf207083138",
-   "acres": 1.0,
-   "price": 65000,
-   "town": "Mascot",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Mascot/McKinney-Rd-37806/unit-3/home/207083138",
-   "missCount": 2
+   "id": "rf119072105",
+   "acres": 0.5,
+   "price": 28900,
+   "town": "Bean Station",
+   "county": "Grainger",
+   "url": "https://www.redfin.com/TN/Bean-Station/Crosby-Dr-37708/home/119072105",
+   "missCount": 1
   },
   {
    "id": "rf203472641",
@@ -62,7 +44,7 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/4921-Wise-Hills-Rd-37920/unit-2/home/203472641",
-   "missCount": 1
+   "missCount": 2
   },
   {
    "id": "rf203146151",
@@ -71,7 +53,25 @@
    "town": "Knoxville",
    "county": "Knox",
    "url": "https://www.redfin.com/TN/Knoxville/4921-Wise-Hills-Rd-37920/unit-1/home/203146151",
-   "missCount": 1
+   "missCount": 2
+  }
+ ],
+ "retired": [
+  {
+   "id": "rf205386192",
+   "acres": 0.64,
+   "price": 33500,
+   "town": "Sweetwater",
+   "county": "Monroe",
+   "url": "https://www.redfin.com/TN/Sweetwater/Merrywood-Ests-37874/unit-30/home/205386192"
+  },
+  {
+   "id": "rf207083138",
+   "acres": 1.0,
+   "price": 65000,
+   "town": "Mascot",
+   "county": "Knox",
+   "url": "https://www.redfin.com/TN/Mascot/McKinney-Rd-37806/unit-3/home/207083138"
   },
   {
    "id": "rf62996562",
@@ -79,8 +79,7 @@
    "price": 79900,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1417-Joe-Hinton-Rd-37931/home/62996562",
-   "missCount": 2
+   "url": "https://www.redfin.com/TN/Knoxville/1417-Joe-Hinton-Rd-37931/home/62996562"
   },
   {
    "id": "rf163381573",
@@ -88,97 +87,11 @@
    "price": 79900,
    "town": "Knoxville",
    "county": "Knox",
-   "url": "https://www.redfin.com/TN/Knoxville/1413-Joe-Hinton-Rd-37931/home/163381573",
-   "missCount": 2
-  }
- ],
- "retired": [
-  {
-   "id": "rf87707475",
-   "acres": 6.9,
-   "price": 100000,
-   "town": "Powell",
-   "county": "Anderson",
-   "url": "https://www.redfin.com/TN/Powell/Creek-Rd-37849/home/87707475"
-  },
-  {
-   "id": "rf206371233",
-   "acres": 12.71,
-   "price": 250000,
-   "town": "Powell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Powell/Lot-3-Conner-Rd-37849/home/206371233"
-  },
-  {
-   "id": "rf206364787",
-   "acres": 12.0,
-   "price": 250000,
-   "town": "Powell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Powell/Lot-1-Conner-Rd-37849/home/206364787"
-  },
-  {
-   "id": "rf206365034",
-   "acres": 11.23,
-   "price": 250000,
-   "town": "Powell",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Powell/Lot-2-Conner-Rd-37849/home/206365034"
-  },
-  {
-   "id": "rf190912826",
-   "acres": 5.02,
-   "price": 149900,
-   "town": "Strawberry Plains",
-   "county": "Knox",
-   "url": "https://www.redfin.com/TN/Strawberry-Plains/5130-Stiles-Ln-37871/home/190912826"
-  },
-  {
-   "id": "rf207039930",
-   "acres": 1.17,
-   "price": 49999,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/1040-U-S-25W-37725/unit-1/home/207039930"
-  },
-  {
-   "id": "rf207067118",
-   "acres": 1.92,
-   "price": 89000,
-   "town": "White Pine",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/White-Pine/2R-4B-Harrison-Rd-37890/home/207067118"
-  },
-  {
-   "id": "rf207079153",
-   "acres": 0.95,
-   "price": 101000,
-   "town": "Sevierville",
-   "county": "Sevier",
-   "url": "https://www.redfin.com/TN/Sevierville/Lot-15-Tiffany-Way-37862/home/207079153"
-  },
-  {
-   "id": "rf124551212",
-   "acres": 2.0,
-   "price": 249900,
-   "town": "Dandridge",
-   "county": "Jefferson",
-   "url": "https://www.redfin.com/TN/Dandridge/Chestnut-Hill-Rd-37725/home/124551212"
+   "url": "https://www.redfin.com/TN/Knoxville/1413-Joe-Hinton-Rd-37931/home/163381573"
   }
  ],
  "gone": [],
- "tooFar": [
-  {
-   "id": "rf200519604",
-   "acres": 1.96,
-   "price": 220000,
-   "town": "Jacksboro",
-   "county": "Campbell",
-   "url": "https://www.redfin.com/TN/Jacksboro/207-Eagle-View-Ln-37757/home/200519604",
-   "drive": 53,
-   "shopMin": 18
-  }
- ],
+ "tooFar": [],
  "tooSteep": [],
  "rejected": [],
  "baseline": false
